@@ -1,0 +1,3541 @@
+[{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c05c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c05a"
+  },
+  "registration_number": "BB02UVA",
+  "registration_date": {
+    "$date": "2022-11-16T17:20:54.607Z"
+  },
+  "model": "Expedition",
+  "car_type": "Passenger Van",
+  "last_MOT_test": {
+    "$date": "2021-03-06T20:51:00.131Z"
+  },
+  "car_owner_details": {
+    "name": "Lori Lesch PhD",
+    "address": "698, X98 93X",
+    "contact_number": "+44 18531 04822",
+    "car_insurance": "542 877 1342"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-01-26T03:52:36.504Z"
+  },
+  "last_update": {
+    "$date": "2022-11-19T13:23:46.691Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c062"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "registration_number": "MM83PHO",
+  "registration_date": {
+    "$date": "2019-12-15T07:49:52.740Z"
+  },
+  "model": "El Camino",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2021-11-27T00:12:24.921Z"
+  },
+  "car_owner_details": {
+    "name": "Annie Hegmann",
+    "address": "0549, H11 L0B",
+    "contact_number": "+44 11184 85333",
+    "car_insurance": "675 688 9254"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-02-24T16:01:43.743Z"
+  },
+  "last_update": {
+    "$date": "2022-11-14T23:43:08.843Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c076"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "registration_number": "QW56BHH",
+  "registration_date": {
+    "$date": "2018-05-10T01:27:28.415Z"
+  },
+  "model": "Explorer",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2022-07-26T08:21:50.005Z"
+  },
+  "car_owner_details": {
+    "name": "Angelica Bode",
+    "address": "67455, Y09 2V4",
+    "contact_number": "+44 00393 83806",
+    "car_insurance": "242 064 0371"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-03-26T02:28:47.185Z"
+  },
+  "last_update": {
+    "$date": "2022-12-02T09:54:09.775Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c092"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "registration_number": "LJ85GYB",
+  "registration_date": {
+    "$date": "2019-08-19T00:59:59.057Z"
+  },
+  "model": "CTS",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2022-03-04T23:48:30.949Z"
+  },
+  "car_owner_details": {
+    "name": "Jenna Casper",
+    "address": "15184, G37 530",
+    "contact_number": "+44 25920 91884",
+    "car_insurance": "801 311 6379"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-02-23T02:59:45.068Z"
+  },
+  "last_update": {
+    "$date": "2022-11-26T10:43:36.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0aa"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "registration_number": "LZ70MYI",
+  "registration_date": {
+    "$date": "2020-09-01T17:09:17.993Z"
+  },
+  "model": "Sentra",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2022-11-09T17:43:48.062Z"
+  },
+  "car_owner_details": {
+    "name": "Jan Purdy V",
+    "address": "0382, J33 S1H",
+    "contact_number": "+44 85472 18932",
+    "car_insurance": "594 223 2466"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-04-05T03:03:05.852Z"
+  },
+  "last_update": {
+    "$date": "2022-11-11T09:54:35.110Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0be"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0bc"
+  },
+  "registration_number": "SZ34VIQ",
+  "registration_date": {
+    "$date": "2021-04-15T04:56:13.724Z"
+  },
+  "model": "Model Y",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-08-27T19:08:05.980Z"
+  },
+  "car_owner_details": {
+    "name": "Christy Maggio",
+    "address": "4298, Z18 L69",
+    "contact_number": "+44 76997 84099",
+    "car_insurance": "105 002 8172"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-08-01T20:11:07.246Z"
+  },
+  "last_update": {
+    "$date": "2022-09-15T07:24:34.513Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0cc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "registration_number": "ZZ87VOF",
+  "registration_date": {
+    "$date": "2018-03-23T19:10:57.900Z"
+  },
+  "model": "Accord",
+  "car_type": "Passenger Van",
+  "last_MOT_test": {
+    "$date": "2020-12-20T00:21:12.867Z"
+  },
+  "car_owner_details": {
+    "name": "Lynette Auer III",
+    "address": "361, H64 7LJ",
+    "contact_number": "+44 54739 00433",
+    "car_insurance": "238 232 0958"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-06-29T19:38:13.768Z"
+  },
+  "last_update": {
+    "$date": "2022-09-12T10:36:27.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0e8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0e6"
+  },
+  "registration_number": "AQ41YSW",
+  "registration_date": {
+    "$date": "2018-01-20T20:05:50.417Z"
+  },
+  "model": "Charger",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2021-10-19T17:41:25.259Z"
+  },
+  "car_owner_details": {
+    "name": "Francisco Daniel IV",
+    "address": "3371, P24 183",
+    "contact_number": "+44 85336 49755",
+    "car_insurance": "539 731 1545"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-07-13T23:46:40.132Z"
+  },
+  "last_update": {
+    "$date": "2022-09-19T00:09:52.109Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0f4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0f2"
+  },
+  "registration_number": "CH91YKC",
+  "registration_date": {
+    "$date": "2021-08-04T06:44:42.473Z"
+  },
+  "model": "Cruze",
+  "car_type": "Wagon",
+  "last_MOT_test": {
+    "$date": "2021-01-11T14:08:12.912Z"
+  },
+  "car_owner_details": {
+    "name": "Wallace Weimann",
+    "address": "25477, F74 4HM",
+    "contact_number": "+44 22133 97176",
+    "car_insurance": "343 866 8159"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-08-18T17:59:41.632Z"
+  },
+  "last_update": {
+    "$date": "2022-10-25T17:22:20.395Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c106"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "registration_number": "IM60ZAH",
+  "registration_date": {
+    "$date": "2020-08-11T09:18:31.055Z"
+  },
+  "model": "Fortwo",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2021-08-24T23:42:56.996Z"
+  },
+  "car_owner_details": {
+    "name": "Dr. Grace Lynch",
+    "address": "752, F93 2G0",
+    "contact_number": "+44 96092 14837",
+    "car_insurance": "199 961 4859"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-06-08T12:45:57.157Z"
+  },
+  "last_update": {
+    "$date": "2022-10-05T05:08:02.097Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c11e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "registration_number": "IY19QTO",
+  "registration_date": {
+    "$date": "2022-11-03T12:06:20.518Z"
+  },
+  "model": "LeBaron",
+  "car_type": "Minivan",
+  "last_MOT_test": {
+    "$date": "2022-04-05T07:50:45.219Z"
+  },
+  "car_owner_details": {
+    "name": "Bonnie Corwin",
+    "address": "0325, H93 76Z",
+    "contact_number": "+44 65551 80817",
+    "car_insurance": "860 370 4201"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-06-01T21:07:07.783Z"
+  },
+  "last_update": {
+    "$date": "2022-09-28T09:55:56.897Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c13c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c13a"
+  },
+  "registration_number": "GQ66VNC",
+  "registration_date": {
+    "$date": "2021-05-22T22:49:03.776Z"
+  },
+  "model": "Model Y",
+  "car_type": "Cargo Van",
+  "last_MOT_test": {
+    "$date": "2021-09-12T22:49:00.950Z"
+  },
+  "car_owner_details": {
+    "name": "Sheri Kulas V",
+    "address": "6648, J33 64E",
+    "contact_number": "+44 70495 74279",
+    "car_insurance": "433 411 9805"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-03-12T19:13:59.191Z"
+  },
+  "last_update": {
+    "$date": "2022-09-09T02:33:49.749Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c144"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c142"
+  },
+  "registration_number": "NU07AZH",
+  "registration_date": {
+    "$date": "2022-06-01T18:55:12.094Z"
+  },
+  "model": "Mustang",
+  "car_type": "Wagon",
+  "last_MOT_test": {
+    "$date": "2022-11-08T19:16:20.262Z"
+  },
+  "car_owner_details": {
+    "name": "Clarence Howell",
+    "address": "5185, L39 KS5",
+    "contact_number": "+44 61924 75276",
+    "car_insurance": "859 819 3357"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-02-15T20:56:16.409Z"
+  },
+  "last_update": {
+    "$date": "2022-11-29T04:46:14.102Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c154"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "registration_number": "GR07PDV",
+  "registration_date": {
+    "$date": "2021-08-10T03:38:24.536Z"
+  },
+  "model": "XTS",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2021-08-03T11:47:51.545Z"
+  },
+  "car_owner_details": {
+    "name": "Elvira Stiedemann",
+    "address": "66375, F79 4OZ",
+    "contact_number": "+44 15119 61982",
+    "car_insurance": "554 912 1823"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-10-12T03:48:54.366Z"
+  },
+  "last_update": {
+    "$date": "2022-11-28T15:22:44.924Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c16c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "registration_number": "HT35AZU",
+  "registration_date": {
+    "$date": "2020-11-25T06:46:08.249Z"
+  },
+  "model": "Countach",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-02-20T04:38:38.929Z"
+  },
+  "car_owner_details": {
+    "name": "Marco Dare",
+    "address": "008, V44 0C3",
+    "contact_number": "+44 21683 90276",
+    "car_insurance": "250 783 8874"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-07-27T12:21:23.662Z"
+  },
+  "last_update": {
+    "$date": "2022-09-30T01:10:04.177Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c188"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c186"
+  },
+  "registration_number": "PS31DGM",
+  "registration_date": {
+    "$date": "2020-08-18T22:59:01.573Z"
+  },
+  "model": "Colorado",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2022-09-28T22:35:50.321Z"
+  },
+  "car_owner_details": {
+    "name": "Rene Jast",
+    "address": "123, P17 MC1",
+    "contact_number": "+44 87026 21397",
+    "car_insurance": "850 421 9880"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-01-25T03:12:26.679Z"
+  },
+  "last_update": {
+    "$date": "2022-11-24T22:21:48.576Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c19a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "registration_number": "IO07EPU",
+  "registration_date": {
+    "$date": "2019-08-28T22:34:03.153Z"
+  },
+  "model": "Challenger",
+  "car_type": "Hatchback",
+  "last_MOT_test": {
+    "$date": "2021-05-09T20:00:52.749Z"
+  },
+  "car_owner_details": {
+    "name": "Barry Stoltenberg",
+    "address": "1748, Y47 4D1",
+    "contact_number": "+44 88496 02580",
+    "car_insurance": "084 161 3890"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-02-07T12:39:29.374Z"
+  },
+  "last_update": {
+    "$date": "2022-09-17T22:35:30.849Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1b0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "registration_number": "RE36GKK",
+  "registration_date": {
+    "$date": "2020-03-23T09:40:21.438Z"
+  },
+  "model": "A4",
+  "car_type": "Coupe",
+  "last_MOT_test": {
+    "$date": "2022-10-07T12:33:15.453Z"
+  },
+  "car_owner_details": {
+    "name": "Flora Bednar",
+    "address": "352, V12 O8R",
+    "contact_number": "+44 74080 15411",
+    "car_insurance": "375 011 7721"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-04-02T23:26:32.766Z"
+  },
+  "last_update": {
+    "$date": "2022-11-10T03:51:37.161Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1c4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1c2"
+  },
+  "registration_number": "AK02NDK",
+  "registration_date": {
+    "$date": "2018-02-18T23:21:30.230Z"
+  },
+  "model": "Wrangler",
+  "car_type": "Passenger Van",
+  "last_MOT_test": {
+    "$date": "2022-04-26T14:20:42.819Z"
+  },
+  "car_owner_details": {
+    "name": "Clifton Goyette",
+    "address": "571, Y61 Z52",
+    "contact_number": "+44 04940 67552",
+    "car_insurance": "341 865 1042"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-07-09T21:54:30.336Z"
+  },
+  "last_update": {
+    "$date": "2022-11-20T19:37:27.321Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1d4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1d2"
+  },
+  "registration_number": "CC59YWL",
+  "registration_date": {
+    "$date": "2020-07-25T19:03:29.760Z"
+  },
+  "model": "Model Y",
+  "car_type": "Coupe",
+  "last_MOT_test": {
+    "$date": "2021-09-04T01:35:42.370Z"
+  },
+  "car_owner_details": {
+    "name": "Claude McLaughlin",
+    "address": "034, G13 7U9",
+    "contact_number": "+44 61666 29198",
+    "car_insurance": "529 413 6201"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-06-21T02:31:39.809Z"
+  },
+  "last_update": {
+    "$date": "2022-09-09T18:44:54.325Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1e2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1e0"
+  },
+  "registration_number": "RM14OHU",
+  "registration_date": {
+    "$date": "2018-02-16T17:11:48.765Z"
+  },
+  "model": "CX-9",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2022-02-23T15:29:55.316Z"
+  },
+  "car_owner_details": {
+    "name": "Eva Gottlieb II",
+    "address": "37321, I07 IC1",
+    "contact_number": "+44 02914 58822",
+    "car_insurance": "932 048 4876"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-04-28T21:50:31.951Z"
+  },
+  "last_update": {
+    "$date": "2022-10-15T10:08:20.487Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1ec"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "registration_number": "NB79ZQL",
+  "registration_date": {
+    "$date": "2019-10-15T23:40:02.855Z"
+  },
+  "model": "Model 3",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2022-02-20T23:46:38.247Z"
+  },
+  "car_owner_details": {
+    "name": "Kelly Heidenreich DDS",
+    "address": "64772, Y04 W40",
+    "contact_number": "+44 70609 05212",
+    "car_insurance": "542 595 6037"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-09-10T01:45:34.255Z"
+  },
+  "last_update": {
+    "$date": "2022-10-24T21:56:45.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c20c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c20a"
+  },
+  "registration_number": "JC96JDS",
+  "registration_date": {
+    "$date": "2022-08-21T15:05:49.444Z"
+  },
+  "model": "A8",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-05-31T22:14:52.051Z"
+  },
+  "car_owner_details": {
+    "name": "Ms. Dawn Walter MD",
+    "address": "58356, G88 5B4",
+    "contact_number": "+44 38789 22504",
+    "car_insurance": "208 879 5658"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-11-08T07:29:57.826Z"
+  },
+  "last_update": {
+    "$date": "2022-10-27T14:13:37.493Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c21c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "registration_number": "JX30HTG",
+  "registration_date": {
+    "$date": "2019-04-02T00:24:57.423Z"
+  },
+  "model": "XC90",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2022-05-06T05:34:05.715Z"
+  },
+  "car_owner_details": {
+    "name": "Jody Carter",
+    "address": "31500, D36 7T3",
+    "contact_number": "+44 42858 64980",
+    "car_insurance": "590 580 3940"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-01-19T02:08:18.592Z"
+  },
+  "last_update": {
+    "$date": "2022-12-03T00:03:28.687Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c23c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c23a"
+  },
+  "registration_number": "EE63ALB",
+  "registration_date": {
+    "$date": "2022-09-30T17:19:30.322Z"
+  },
+  "model": "Volt",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2021-06-09T10:51:08.750Z"
+  },
+  "car_owner_details": {
+    "name": "Joy Veum",
+    "address": "9988, N44 G0U",
+    "contact_number": "+44 96343 11598",
+    "car_insurance": "502 295 3473"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-02-02T07:06:07.563Z"
+  },
+  "last_update": {
+    "$date": "2022-11-16T18:30:47.634Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c242"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c240"
+  },
+  "registration_number": "YI35NVP",
+  "registration_date": {
+    "$date": "2021-07-09T11:01:45.540Z"
+  },
+  "model": "Challenger",
+  "car_type": "Wagon",
+  "last_MOT_test": {
+    "$date": "2021-04-12T04:07:22.982Z"
+  },
+  "car_owner_details": {
+    "name": "Latoya Metz",
+    "address": "2981, P09 JC2",
+    "contact_number": "+44 35189 44183",
+    "car_insurance": "439 122 0101"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-05-03T23:30:16.894Z"
+  },
+  "last_update": {
+    "$date": "2022-09-26T11:16:46.384Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c24c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c24a"
+  },
+  "registration_number": "JI74DLU",
+  "registration_date": {
+    "$date": "2019-08-26T23:49:55.410Z"
+  },
+  "model": "Explorer",
+  "car_type": "Wagon",
+  "last_MOT_test": {
+    "$date": "2021-09-21T16:00:10.949Z"
+  },
+  "car_owner_details": {
+    "name": "Katrina Keebler",
+    "address": "90906, D21 J43",
+    "contact_number": "+44 88933 04815",
+    "car_insurance": "042 893 9530"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-12-22T22:32:54.385Z"
+  },
+  "last_update": {
+    "$date": "2022-10-21T12:19:53.572Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c258"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c256"
+  },
+  "registration_number": "GY32JMG",
+  "registration_date": {
+    "$date": "2020-06-30T11:58:46.392Z"
+  },
+  "model": "Taurus",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-08-01T09:30:41.083Z"
+  },
+  "car_owner_details": {
+    "name": "Alex Lockman III",
+    "address": "7210, C94 4BL",
+    "contact_number": "+44 85637 45755",
+    "car_insurance": "082 680 9948"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-08-02T23:09:59.621Z"
+  },
+  "last_update": {
+    "$date": "2022-11-26T12:12:39.441Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c266"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c264"
+  },
+  "registration_number": "PX09QLD",
+  "registration_date": {
+    "$date": "2019-08-04T03:54:31.908Z"
+  },
+  "model": "2",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-09-30T23:46:23.938Z"
+  },
+  "car_owner_details": {
+    "name": "Ms. Chester Olson",
+    "address": "6481, Y35 61J",
+    "contact_number": "+44 10635 05728",
+    "car_insurance": "334 318 1515"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-06-21T00:03:30.748Z"
+  },
+  "last_update": {
+    "$date": "2022-10-09T11:09:26.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c26a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c267"
+  },
+  "registration_number": "OR34YGX",
+  "registration_date": {
+    "$date": "2021-09-29T09:57:05.634Z"
+  },
+  "model": "Cruze",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-01-25T20:47:49.674Z"
+  },
+  "car_owner_details": {
+    "name": "Allan Stracke MD",
+    "address": "46667, S81 UWG",
+    "contact_number": "+44 16003 46437",
+    "car_insurance": "726 159 1307"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-01-09T18:11:12.377Z"
+  },
+  "last_update": {
+    "$date": "2022-12-06T10:14:19.050Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c27c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "registration_number": "QZ11NRF",
+  "registration_date": {
+    "$date": "2018-05-17T00:32:47.920Z"
+  },
+  "model": "Land Cruiser",
+  "car_type": "Passenger Van",
+  "last_MOT_test": {
+    "$date": "2022-11-27T16:33:48.630Z"
+  },
+  "car_owner_details": {
+    "name": "Abel Satterfield",
+    "address": "36099, H94 47U",
+    "contact_number": "+44 53841 50860",
+    "car_insurance": "501 934 8657"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-08-02T07:52:51.490Z"
+  },
+  "last_update": {
+    "$date": "2022-11-09T18:19:34.923Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c294"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c292"
+  },
+  "registration_number": "WZ54AGT",
+  "registration_date": {
+    "$date": "2019-01-01T18:29:01.516Z"
+  },
+  "model": "PT Cruiser",
+  "car_type": "Hatchback",
+  "last_MOT_test": {
+    "$date": "2022-08-23T06:34:51.622Z"
+  },
+  "car_owner_details": {
+    "name": "Michael Breitenberg",
+    "address": "1216, C66 3V4",
+    "contact_number": "+44 23305 68847",
+    "car_insurance": "162 766 0544"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-04-02T23:04:11.693Z"
+  },
+  "last_update": {
+    "$date": "2022-09-12T05:12:19.281Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2a4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2a2"
+  },
+  "registration_number": "BM63YHV",
+  "registration_date": {
+    "$date": "2020-12-03T16:15:26.250Z"
+  },
+  "model": "Model T",
+  "car_type": "Minivan",
+  "last_MOT_test": {
+    "$date": "2021-03-24T09:55:40.350Z"
+  },
+  "car_owner_details": {
+    "name": "Francisco Torp",
+    "address": "8372, N74 Y9D",
+    "contact_number": "+44 22705 44062",
+    "car_insurance": "428 299 3559"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-12-08T19:57:29.789Z"
+  },
+  "last_update": {
+    "$date": "2022-11-10T08:15:40.101Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2ae"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ac"
+  },
+  "registration_number": "AL37LDR",
+  "registration_date": {
+    "$date": "2021-12-04T06:07:50.347Z"
+  },
+  "model": "Challenger",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-10-29T08:05:35.673Z"
+  },
+  "car_owner_details": {
+    "name": "Doug Swaniawski",
+    "address": "8376, U67 959",
+    "contact_number": "+44 89790 11801",
+    "car_insurance": "606 226 0041"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-04-25T00:24:53.783Z"
+  },
+  "last_update": {
+    "$date": "2022-11-11T06:40:37.242Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2c0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2be"
+  },
+  "registration_number": "WA65RYE",
+  "registration_date": {
+    "$date": "2018-06-21T14:55:29.280Z"
+  },
+  "model": "Cruze",
+  "car_type": "Cargo Van",
+  "last_MOT_test": {
+    "$date": "2021-01-24T20:15:59.877Z"
+  },
+  "car_owner_details": {
+    "name": "Ms. Joy Hettinger",
+    "address": "734, F46 9L3",
+    "contact_number": "+44 57835 52620",
+    "car_insurance": "447 626 3122"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-10-05T18:02:27.650Z"
+  },
+  "last_update": {
+    "$date": "2022-11-22T23:16:05.253Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2d0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ce"
+  },
+  "registration_number": "PS59ZRX",
+  "registration_date": {
+    "$date": "2021-04-16T18:59:25.044Z"
+  },
+  "model": "CX-9",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2022-04-30T02:52:04.674Z"
+  },
+  "car_owner_details": {
+    "name": "Juanita Stamm",
+    "address": "33956, P01 177",
+    "contact_number": "+44 45211 65724",
+    "car_insurance": "484 976 0149"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-01-19T21:07:51.224Z"
+  },
+  "last_update": {
+    "$date": "2022-09-15T05:49:43.086Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2d8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "registration_number": "AK94BED",
+  "registration_date": {
+    "$date": "2022-04-02T02:08:30.245Z"
+  },
+  "model": "F-150",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2021-01-27T10:21:53.123Z"
+  },
+  "car_owner_details": {
+    "name": "Alex Hessel",
+    "address": "6503, Y58 21H",
+    "contact_number": "+44 07731 31851",
+    "car_insurance": "507 399 3856"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-12-29T10:51:44.532Z"
+  },
+  "last_update": {
+    "$date": "2022-09-09T00:50:19.314Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2ec"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "registration_number": "BE17JTW",
+  "registration_date": {
+    "$date": "2021-04-15T19:09:09.443Z"
+  },
+  "model": "Grand Cherokee",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-05-08T08:35:18.397Z"
+  },
+  "car_owner_details": {
+    "name": "Marsha Kessler",
+    "address": "85347, I29 K2J",
+    "contact_number": "+44 19770 67065",
+    "car_insurance": "682 008 1657"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-04-24T02:17:36.581Z"
+  },
+  "last_update": {
+    "$date": "2022-10-01T23:20:51.370Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c302"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "registration_number": "YM00BWS",
+  "registration_date": {
+    "$date": "2020-08-11T14:39:23.319Z"
+  },
+  "model": "Civic",
+  "car_type": "Coupe",
+  "last_MOT_test": {
+    "$date": "2022-08-27T00:12:34.418Z"
+  },
+  "car_owner_details": {
+    "name": "Rene Gutkowski",
+    "address": "32193, Z19 EQ4",
+    "contact_number": "+44 42539 35984",
+    "car_insurance": "275 094 4654"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-09-28T20:56:26.326Z"
+  },
+  "last_update": {
+    "$date": "2022-09-13T00:35:30.861Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c318"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c316"
+  },
+  "registration_number": "CX48HJL",
+  "registration_date": {
+    "$date": "2022-09-27T15:18:59.281Z"
+  },
+  "model": "Spyder",
+  "car_type": "Wagon",
+  "last_MOT_test": {
+    "$date": "2022-07-28T04:20:28.272Z"
+  },
+  "car_owner_details": {
+    "name": "Sonja Ferry",
+    "address": "282, E60 Q31",
+    "contact_number": "+44 65311 27138",
+    "car_insurance": "444 415 8662"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2017-12-20T06:24:27.246Z"
+  },
+  "last_update": {
+    "$date": "2022-09-24T05:22:51.372Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c32a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "registration_number": "FI92KDX",
+  "registration_date": {
+    "$date": "2020-06-01T07:03:05.351Z"
+  },
+  "model": "Altima",
+  "car_type": "Cargo Van",
+  "last_MOT_test": {
+    "$date": "2022-06-26T19:47:50.269Z"
+  },
+  "car_owner_details": {
+    "name": "Phyllis Maggio",
+    "address": "12522, E11 WSF",
+    "contact_number": "+44 63508 76404",
+    "car_insurance": "968 782 0953"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-07-25T02:44:24.519Z"
+  },
+  "last_update": {
+    "$date": "2022-12-06T20:04:28.289Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c344"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c342"
+  },
+  "registration_number": "JP42QHQ",
+  "registration_date": {
+    "$date": "2019-09-09T15:03:49.136Z"
+  },
+  "model": "El Camino",
+  "car_type": "Minivan",
+  "last_MOT_test": {
+    "$date": "2022-03-20T06:59:07.646Z"
+  },
+  "car_owner_details": {
+    "name": "Arthur Little",
+    "address": "1925, S79 12D",
+    "contact_number": "+44 66081 28419",
+    "car_insurance": "362 839 1654"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-03-19T21:45:24.201Z"
+  },
+  "last_update": {
+    "$date": "2022-09-15T06:26:18.269Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c352"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c350"
+  },
+  "registration_number": "XD31MHX",
+  "registration_date": {
+    "$date": "2021-12-29T17:25:50.702Z"
+  },
+  "model": "Expedition",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2022-02-14T13:51:37.060Z"
+  },
+  "car_owner_details": {
+    "name": "Roxanne Denesik",
+    "address": "8992, B33 18G",
+    "contact_number": "+44 66704 74683",
+    "car_insurance": "714 987 3841"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-07-28T03:51:33.058Z"
+  },
+  "last_update": {
+    "$date": "2022-09-24T07:33:56.958Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c356"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c353"
+  },
+  "registration_number": "IB63IVH",
+  "registration_date": {
+    "$date": "2020-01-14T13:22:15.475Z"
+  },
+  "model": "Expedition",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2022-03-04T18:56:33.341Z"
+  },
+  "car_owner_details": {
+    "name": "Ian Schimmel",
+    "address": "4139, K52 550",
+    "contact_number": "+44 78073 32039",
+    "car_insurance": "912 565 2144"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-09-06T06:30:52.003Z"
+  },
+  "last_update": {
+    "$date": "2022-10-08T12:49:10.578Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c362"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "registration_number": "VO88RFV",
+  "registration_date": {
+    "$date": "2019-02-06T02:24:47.146Z"
+  },
+  "model": "Malibu",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2021-05-29T20:12:13.075Z"
+  },
+  "car_owner_details": {
+    "name": "Freddie Anderson",
+    "address": "1160, X36 75N",
+    "contact_number": "+44 57869 13757",
+    "car_insurance": "883 450 9749"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-06-23T03:43:58.652Z"
+  },
+  "last_update": {
+    "$date": "2022-09-27T08:14:49.045Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c37a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "registration_number": "MO23KOL",
+  "registration_date": {
+    "$date": "2019-12-15T11:47:37.747Z"
+  },
+  "model": "Expedition",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2022-03-11T23:15:54.826Z"
+  },
+  "car_owner_details": {
+    "name": "Jessie Green",
+    "address": "6743, Y31 RYQ",
+    "contact_number": "+44 01856 03138",
+    "car_insurance": "583 770 5824"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-09-25T02:54:33.975Z"
+  },
+  "last_update": {
+    "$date": "2022-11-16T02:54:26.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c394"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c392"
+  },
+  "registration_number": "NA15JGS",
+  "registration_date": {
+    "$date": "2022-07-28T03:09:58.885Z"
+  },
+  "model": "Corvette",
+  "car_type": "Passenger Van",
+  "last_MOT_test": {
+    "$date": "2021-09-19T09:15:49.990Z"
+  },
+  "car_owner_details": {
+    "name": "Mr. Naomi Considine",
+    "address": "012, W89 KR3",
+    "contact_number": "+44 74652 06129",
+    "car_insurance": "207 881 5988"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-05-10T18:42:14.511Z"
+  },
+  "last_update": {
+    "$date": "2022-11-25T00:01:24.188Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3a4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3a2"
+  },
+  "registration_number": "YE98YAW",
+  "registration_date": {
+    "$date": "2020-09-17T22:27:20.338Z"
+  },
+  "model": "CTS",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2022-12-13T04:31:10.363Z"
+  },
+  "car_owner_details": {
+    "name": "Regina Harvey",
+    "address": "741, B11 240",
+    "contact_number": "+44 32952 48967",
+    "car_insurance": "599 055 2124"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-12-03T14:10:57.317Z"
+  },
+  "last_update": {
+    "$date": "2022-11-16T03:55:56.211Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3ae"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3ac"
+  },
+  "registration_number": "HD33VNP",
+  "registration_date": {
+    "$date": "2021-08-04T07:28:02.844Z"
+  },
+  "model": "Durango",
+  "car_type": "Minivan",
+  "last_MOT_test": {
+    "$date": "2022-04-21T22:54:13.094Z"
+  },
+  "car_owner_details": {
+    "name": "Karla Gulgowski",
+    "address": "4210, O49 N80",
+    "contact_number": "+44 86494 28383",
+    "car_insurance": "730 362 4839"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-11-17T21:10:49.126Z"
+  },
+  "last_update": {
+    "$date": "2022-10-09T00:26:49.002Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3b8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3b6"
+  },
+  "registration_number": "TR90QVT",
+  "registration_date": {
+    "$date": "2020-11-17T07:43:17.057Z"
+  },
+  "model": "Model 3",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2021-07-14T05:47:25.962Z"
+  },
+  "car_owner_details": {
+    "name": "Horace Stokes",
+    "address": "6474, A82 QC6",
+    "contact_number": "+44 86563 65155",
+    "car_insurance": "013 794 8592"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-04-25T05:03:07.880Z"
+  },
+  "last_update": {
+    "$date": "2022-10-25T19:45:00.608Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3c0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "registration_number": "BU02QUI",
+  "registration_date": {
+    "$date": "2020-02-04T22:51:57.970Z"
+  },
+  "model": "Spyder",
+  "car_type": "Cargo Van",
+  "last_MOT_test": {
+    "$date": "2022-08-03T00:09:47.414Z"
+  },
+  "car_owner_details": {
+    "name": "Pete Labadie",
+    "address": "465, Q84 E2G",
+    "contact_number": "+44 18113 49357",
+    "car_insurance": "557 618 8408"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-03-29T14:15:50.534Z"
+  },
+  "last_update": {
+    "$date": "2022-09-21T18:37:46.388Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3d6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "registration_number": "QT38ATK",
+  "registration_date": {
+    "$date": "2022-03-27T03:57:14.490Z"
+  },
+  "model": "Fortwo",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2022-03-25T17:26:56.623Z"
+  },
+  "car_owner_details": {
+    "name": "Miss Omar Hudson",
+    "address": "0117, B96 2A4",
+    "contact_number": "+44 45618 38371",
+    "car_insurance": "836 997 9581"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-04-22T15:16:39.153Z"
+  },
+  "last_update": {
+    "$date": "2022-11-28T16:28:46.125Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3ea"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "registration_number": "MP58CNE",
+  "registration_date": {
+    "$date": "2019-06-26T20:28:37.112Z"
+  },
+  "model": "Countach",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2021-08-22T23:56:10.321Z"
+  },
+  "car_owner_details": {
+    "name": "Tracy Blanda",
+    "address": "6287, S71 125",
+    "contact_number": "+44 22103 38306",
+    "car_insurance": "207 928 4631"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-03-27T09:29:04.348Z"
+  },
+  "last_update": {
+    "$date": "2022-11-29T02:50:06.029Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3fe"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3fc"
+  },
+  "registration_number": "FU28MVV",
+  "registration_date": {
+    "$date": "2022-01-29T02:18:01.582Z"
+  },
+  "model": "V90",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2022-08-16T03:19:18.295Z"
+  },
+  "car_owner_details": {
+    "name": "Bradley Bartoletti",
+    "address": "145, Z77 2B8",
+    "contact_number": "+44 76709 96985",
+    "car_insurance": "286 263 4026"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-05-27T03:14:44.346Z"
+  },
+  "last_update": {
+    "$date": "2022-11-30T15:55:39.002Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c40c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40a"
+  },
+  "registration_number": "ES31YYD",
+  "registration_date": {
+    "$date": "2022-01-18T14:51:21.549Z"
+  },
+  "model": "Colorado",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2022-01-21T12:42:20.642Z"
+  },
+  "car_owner_details": {
+    "name": "Maria Torphy",
+    "address": "45124, P26 I7Y",
+    "contact_number": "+44 74264 50175",
+    "car_insurance": "440 549 7462"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-10-27T03:50:26.855Z"
+  },
+  "last_update": {
+    "$date": "2022-10-22T03:32:34.122Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c410"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "registration_number": "EG11KVS",
+  "registration_date": {
+    "$date": "2020-05-04T01:47:56.348Z"
+  },
+  "model": "Fortwo",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-01-12T19:27:16.318Z"
+  },
+  "car_owner_details": {
+    "name": "Kent Murray",
+    "address": "16446, U67 681",
+    "contact_number": "+44 10172 33691",
+    "car_insurance": "392 437 4253"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-06-07T17:20:06.382Z"
+  },
+  "last_update": {
+    "$date": "2022-10-26T22:03:52.473Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c42a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "registration_number": "MA73SSS",
+  "registration_date": {
+    "$date": "2019-06-04T01:24:13.164Z"
+  },
+  "model": "A4",
+  "car_type": "Passenger Van",
+  "last_MOT_test": {
+    "$date": "2021-03-07T14:23:26.679Z"
+  },
+  "car_owner_details": {
+    "name": "Lucia Anderson",
+    "address": "899, N85 590",
+    "contact_number": "+44 25277 90655",
+    "car_insurance": "518 061 6319"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-11-15T06:06:49.843Z"
+  },
+  "last_update": {
+    "$date": "2022-10-15T04:24:34.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c440"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c43e"
+  },
+  "registration_number": "MF49SMC",
+  "registration_date": {
+    "$date": "2019-05-08T15:31:09.344Z"
+  },
+  "model": "Spyder",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2021-02-06T11:24:42.980Z"
+  },
+  "car_owner_details": {
+    "name": "Roger Rosenbaum PhD",
+    "address": "421, V18 Q7G",
+    "contact_number": "+44 39358 79982",
+    "car_insurance": "636 085 0630"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-05-03T19:01:39.874Z"
+  },
+  "last_update": {
+    "$date": "2022-11-06T11:44:11.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c44e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c44c"
+  },
+  "registration_number": "QE47QLL",
+  "registration_date": {
+    "$date": "2019-02-14T16:57:40.292Z"
+  },
+  "model": "Spyder",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-07-25T12:38:03.312Z"
+  },
+  "car_owner_details": {
+    "name": "Judy Corkery",
+    "address": "908, L32 KVU",
+    "contact_number": "+44 72569 12741",
+    "car_insurance": "271 400 1154"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-09-19T19:53:57.206Z"
+  },
+  "last_update": {
+    "$date": "2022-11-16T20:27:03.182Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c456"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c454"
+  },
+  "registration_number": "XD23WDC",
+  "registration_date": {
+    "$date": "2019-07-02T07:32:00.630Z"
+  },
+  "model": "Escalade",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2021-05-24T09:01:12.768Z"
+  },
+  "car_owner_details": {
+    "name": "Courtney Wisoky DDS",
+    "address": "39570, R12 9H3",
+    "contact_number": "+44 64830 10705",
+    "car_insurance": "093 413 3757"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-05-29T13:14:49.426Z"
+  },
+  "last_update": {
+    "$date": "2022-09-26T04:49:44.305Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c45a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "registration_number": "KF88DCM",
+  "registration_date": {
+    "$date": "2019-06-01T22:39:39.766Z"
+  },
+  "model": "El Camino",
+  "car_type": "Minivan",
+  "last_MOT_test": {
+    "$date": "2022-01-07T01:34:52.452Z"
+  },
+  "car_owner_details": {
+    "name": "Amy Braun",
+    "address": "936, X94 85L",
+    "contact_number": "+44 96007 79859",
+    "car_insurance": "965 392 4766"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-04-06T10:11:20.389Z"
+  },
+  "last_update": {
+    "$date": "2022-11-29T02:53:24.664Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c472"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "registration_number": "JX06TYA",
+  "registration_date": {
+    "$date": "2022-08-25T10:36:47.074Z"
+  },
+  "model": "LeBaron",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-10-22T06:48:22.032Z"
+  },
+  "car_owner_details": {
+    "name": "Corey Stroman",
+    "address": "2782, C48 8L8",
+    "contact_number": "+44 70312 84392",
+    "car_insurance": "868 880 8090"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-02-29T09:29:10.031Z"
+  },
+  "last_update": {
+    "$date": "2022-09-17T03:07:47.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c48e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c48c"
+  },
+  "registration_number": "EG45QJN",
+  "registration_date": {
+    "$date": "2018-08-26T10:30:04.851Z"
+  },
+  "model": "Durango",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-11-30T20:07:52.870Z"
+  },
+  "car_owner_details": {
+    "name": "Johnathan Kerluke",
+    "address": "196, I62 I9G",
+    "contact_number": "+44 13791 35103",
+    "car_insurance": "242 452 3472"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-06-20T11:32:42.304Z"
+  },
+  "last_update": {
+    "$date": "2022-12-09T17:01:19.598Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c498"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c496"
+  },
+  "registration_number": "EW44ALH",
+  "registration_date": {
+    "$date": "2022-06-10T18:35:50.423Z"
+  },
+  "model": "Camry",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-03-04T06:30:11.165Z"
+  },
+  "car_owner_details": {
+    "name": "Kristopher Hyatt",
+    "address": "589, G54 738",
+    "contact_number": "+44 60261 57924",
+    "car_insurance": "398 775 5410"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-06-21T19:40:42.183Z"
+  },
+  "last_update": {
+    "$date": "2022-11-11T10:28:03.045Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4a6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4a4"
+  },
+  "registration_number": "LY53RGX",
+  "registration_date": {
+    "$date": "2019-08-21T18:56:53.997Z"
+  },
+  "model": "Malibu",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2021-08-20T04:03:29.911Z"
+  },
+  "car_owner_details": {
+    "name": "Archie Schroeder",
+    "address": "204, A91 NA3",
+    "contact_number": "+44 60038 01141",
+    "car_insurance": "307 471 5353"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-01-11T23:05:32.599Z"
+  },
+  "last_update": {
+    "$date": "2022-10-21T09:23:20.528Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4b4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4b2"
+  },
+  "registration_number": "IT90AQX",
+  "registration_date": {
+    "$date": "2021-08-21T21:29:32.327Z"
+  },
+  "model": "Grand Caravan",
+  "car_type": "Cargo Van",
+  "last_MOT_test": {
+    "$date": "2021-12-10T23:52:41.842Z"
+  },
+  "car_owner_details": {
+    "name": "Irving Jaskolski",
+    "address": "72336, R82 51L",
+    "contact_number": "+44 33255 87370",
+    "car_insurance": "017 862 1423"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-10-20T15:42:12.668Z"
+  },
+  "last_update": {
+    "$date": "2022-10-02T18:49:21.726Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4bc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4ba"
+  },
+  "registration_number": "YZ56OLD",
+  "registration_date": {
+    "$date": "2021-03-31T11:28:23.816Z"
+  },
+  "model": "Malibu",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-08-16T21:39:26.057Z"
+  },
+  "car_owner_details": {
+    "name": "Ernesto Gibson",
+    "address": "0591, H35 4XN",
+    "contact_number": "+44 93360 95773",
+    "car_insurance": "189 067 1127"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-08-22T06:28:47.205Z"
+  },
+  "last_update": {
+    "$date": "2022-10-19T20:39:17.806Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4c6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "registration_number": "YK23HNS",
+  "registration_date": {
+    "$date": "2021-12-21T18:06:05.767Z"
+  },
+  "model": "Model X",
+  "car_type": "Coupe",
+  "last_MOT_test": {
+    "$date": "2022-06-22T08:27:39.368Z"
+  },
+  "car_owner_details": {
+    "name": "Noah Fadel",
+    "address": "46200, U14 RJ6",
+    "contact_number": "+44 65095 01414",
+    "car_insurance": "755 120 1281"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-10-07T00:08:23.518Z"
+  },
+  "last_update": {
+    "$date": "2022-09-12T05:40:03.918Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4e0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4de"
+  },
+  "registration_number": "IL30QQI",
+  "registration_date": {
+    "$date": "2018-08-14T05:03:42.118Z"
+  },
+  "model": "Mercielago",
+  "car_type": "Coupe",
+  "last_MOT_test": {
+    "$date": "2021-07-26T02:05:33.328Z"
+  },
+  "car_owner_details": {
+    "name": "Marco D'Amore",
+    "address": "9116, U87 7LY",
+    "contact_number": "+44 51541 33784",
+    "car_insurance": "875 802 6160"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-04-28T14:37:41.452Z"
+  },
+  "last_update": {
+    "$date": "2022-09-26T04:17:44.911Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4e8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "registration_number": "YL63SYM",
+  "registration_date": {
+    "$date": "2018-01-06T07:32:51.167Z"
+  },
+  "model": "Golf",
+  "car_type": "Wagon",
+  "last_MOT_test": {
+    "$date": "2021-10-07T14:44:47.195Z"
+  },
+  "car_owner_details": {
+    "name": "Delia Orn",
+    "address": "72026, I78 9UQ",
+    "contact_number": "+44 01969 25883",
+    "car_insurance": "298 186 7120"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-10-04T04:44:46.280Z"
+  },
+  "last_update": {
+    "$date": "2022-10-02T16:34:58.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c500"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "registration_number": "SQ84FYO",
+  "registration_date": {
+    "$date": "2022-08-16T13:26:19.860Z"
+  },
+  "model": "Silverado",
+  "car_type": "Cargo Van",
+  "last_MOT_test": {
+    "$date": "2021-08-30T12:59:17.724Z"
+  },
+  "car_owner_details": {
+    "name": "Karen Durgan",
+    "address": "820, Q19 M9R",
+    "contact_number": "+44 36525 21606",
+    "car_insurance": "984 381 4326"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-07-13T23:21:30.663Z"
+  },
+  "last_update": {
+    "$date": "2022-09-09T21:40:10.627Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c51e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "registration_number": "RL90QLV",
+  "registration_date": {
+    "$date": "2021-06-26T13:51:44.412Z"
+  },
+  "model": "Cruze",
+  "car_type": "Minivan",
+  "last_MOT_test": {
+    "$date": "2022-02-24T05:06:05.952Z"
+  },
+  "car_owner_details": {
+    "name": "Carmen Turner",
+    "address": "4652, P62 V1J",
+    "contact_number": "+44 12363 32082",
+    "car_insurance": "450 574 1210"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-03-29T04:48:05.574Z"
+  },
+  "last_update": {
+    "$date": "2022-10-28T01:02:41.281Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c534"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "registration_number": "HR42THC",
+  "registration_date": {
+    "$date": "2022-03-01T05:46:13.213Z"
+  },
+  "model": "Cruze",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-08-24T02:46:53.411Z"
+  },
+  "car_owner_details": {
+    "name": "Vernon Ullrich",
+    "address": "1747, O19 740",
+    "contact_number": "+44 94232 05975",
+    "car_insurance": "709 000 4881"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-07-25T05:10:53.118Z"
+  },
+  "last_update": {
+    "$date": "2022-10-07T17:15:33.346Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c54a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "registration_number": "PL61SQB",
+  "registration_date": {
+    "$date": "2021-05-26T09:36:03.516Z"
+  },
+  "model": "Element",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2021-08-17T19:53:19.750Z"
+  },
+  "car_owner_details": {
+    "name": "Ms. Randal Grant",
+    "address": "63215, S65 X4X",
+    "contact_number": "+44 22676 79966",
+    "car_insurance": "367 430 1359"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-10-02T22:03:37.066Z"
+  },
+  "last_update": {
+    "$date": "2022-09-27T20:57:24.616Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c564"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "registration_number": "RG35VAY",
+  "registration_date": {
+    "$date": "2019-10-27T11:58:44.507Z"
+  },
+  "model": "Colorado",
+  "car_type": "Cargo Van",
+  "last_MOT_test": {
+    "$date": "2021-11-20T13:14:20.843Z"
+  },
+  "car_owner_details": {
+    "name": "Mack Kuhic",
+    "address": "396, R43 627",
+    "contact_number": "+44 32970 29561",
+    "car_insurance": "590 547 5567"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-09-03T17:01:40.565Z"
+  },
+  "last_update": {
+    "$date": "2022-10-28T00:33:33.898Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c580"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c57e"
+  },
+  "registration_number": "XX46QYD",
+  "registration_date": {
+    "$date": "2020-10-13T14:47:59.674Z"
+  },
+  "model": "Prius",
+  "car_type": "Cargo Van",
+  "last_MOT_test": {
+    "$date": "2021-05-14T04:14:29.521Z"
+  },
+  "car_owner_details": {
+    "name": "Steven Robel PhD",
+    "address": "4537, D36 GA8",
+    "contact_number": "+44 07631 89700",
+    "car_insurance": "786 308 5481"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-03-01T01:10:20.168Z"
+  },
+  "last_update": {
+    "$date": "2022-10-31T21:33:00.210Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c590"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "registration_number": "UK68LKY",
+  "registration_date": {
+    "$date": "2022-07-10T19:37:12.111Z"
+  },
+  "model": "LeBaron",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-12-05T11:48:23.227Z"
+  },
+  "car_owner_details": {
+    "name": "Marcia Murphy",
+    "address": "91290, A34 E07",
+    "contact_number": "+44 63486 23616",
+    "car_insurance": "036 757 7592"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-04-03T21:23:53.151Z"
+  },
+  "last_update": {
+    "$date": "2022-12-12T03:01:43.867Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5a6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5a4"
+  },
+  "registration_number": "FD16NQT",
+  "registration_date": {
+    "$date": "2022-12-08T13:32:54.073Z"
+  },
+  "model": "Model Y",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-02-09T04:09:45.152Z"
+  },
+  "car_owner_details": {
+    "name": "Jim Bauch",
+    "address": "7982, N45 DR0",
+    "contact_number": "+44 17769 99723",
+    "car_insurance": "497 788 5562"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-12-03T03:31:22.826Z"
+  },
+  "last_update": {
+    "$date": "2022-10-11T08:38:30.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5ac"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "registration_number": "SX42RSQ",
+  "registration_date": {
+    "$date": "2021-02-03T20:07:21.327Z"
+  },
+  "model": "Fiesta",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2021-04-21T19:48:00.093Z"
+  },
+  "car_owner_details": {
+    "name": "Wilma Carter",
+    "address": "24463, H59 8T5",
+    "contact_number": "+44 51608 56816",
+    "car_insurance": "281 039 1116"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-08-15T04:38:03.583Z"
+  },
+  "last_update": {
+    "$date": "2022-10-09T00:11:13.546Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5ca"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5c8"
+  },
+  "registration_number": "QL08WMR",
+  "registration_date": {
+    "$date": "2021-12-01T14:09:43.101Z"
+  },
+  "model": "Alpine",
+  "car_type": "Cargo Van",
+  "last_MOT_test": {
+    "$date": "2021-10-22T21:07:48.093Z"
+  },
+  "car_owner_details": {
+    "name": "Pam Schuppe",
+    "address": "8004, C75 97U",
+    "contact_number": "+44 35262 77658",
+    "car_insurance": "503 640 3305"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-12-28T23:31:05.666Z"
+  },
+  "last_update": {
+    "$date": "2022-11-22T02:38:49.141Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5ce"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "registration_number": "HG61SBT",
+  "registration_date": {
+    "$date": "2022-08-05T09:30:14.679Z"
+  },
+  "model": "Camry",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2021-12-12T13:11:00.288Z"
+  },
+  "car_owner_details": {
+    "name": "Joel Wisoky",
+    "address": "718, A37 68F",
+    "contact_number": "+44 06242 10958",
+    "car_insurance": "008 084 4902"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-07-23T05:15:40.520Z"
+  },
+  "last_update": {
+    "$date": "2022-09-24T20:57:32.073Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5e2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "registration_number": "ME04XUL",
+  "registration_date": {
+    "$date": "2020-02-10T14:16:30.691Z"
+  },
+  "model": "Model T",
+  "car_type": "Minivan",
+  "last_MOT_test": {
+    "$date": "2022-12-01T04:31:12.487Z"
+  },
+  "car_owner_details": {
+    "name": "Tami Gislason",
+    "address": "072, P28 UHZ",
+    "contact_number": "+44 31044 46294",
+    "car_insurance": "387 666 0400"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-04-17T10:40:03.633Z"
+  },
+  "last_update": {
+    "$date": "2022-09-17T14:29:13.318Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5f8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5f6"
+  },
+  "registration_number": "CG00EVX",
+  "registration_date": {
+    "$date": "2019-01-15T05:05:32.985Z"
+  },
+  "model": "Model T",
+  "car_type": "Coupe",
+  "last_MOT_test": {
+    "$date": "2021-03-11T16:30:39.691Z"
+  },
+  "car_owner_details": {
+    "name": "Mrs. Gladys Fay",
+    "address": "54749, J18 AH1",
+    "contact_number": "+44 53254 98353",
+    "car_insurance": "287 404 6919"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-04-28T14:55:18.633Z"
+  },
+  "last_update": {
+    "$date": "2022-09-26T20:49:32.769Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5fc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5f9"
+  },
+  "registration_number": "ZG33AIO",
+  "registration_date": {
+    "$date": "2022-05-23T17:48:38.910Z"
+  },
+  "model": "Mustang",
+  "car_type": "Hatchback",
+  "last_MOT_test": {
+    "$date": "2022-07-27T02:28:24.389Z"
+  },
+  "car_owner_details": {
+    "name": "Leah Greenfelder",
+    "address": "77074, C09 2H1",
+    "contact_number": "+44 52756 14924",
+    "car_insurance": "748 421 5371"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-02-25T13:33:55.941Z"
+  },
+  "last_update": {
+    "$date": "2022-10-08T21:06:19.415Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c608"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "registration_number": "UN24TWI",
+  "registration_date": {
+    "$date": "2021-03-19T19:57:08.905Z"
+  },
+  "model": "Ranchero",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-01-11T02:58:39.291Z"
+  },
+  "car_owner_details": {
+    "name": "Tommy Crist",
+    "address": "4141, T13 Z91",
+    "contact_number": "+44 25638 16826",
+    "car_insurance": "395 633 7078"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-07-11T03:42:55.508Z"
+  },
+  "last_update": {
+    "$date": "2022-11-05T16:13:28.778Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c626"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c624"
+  },
+  "registration_number": "IF70JNH",
+  "registration_date": {
+    "$date": "2021-06-29T18:12:40.128Z"
+  },
+  "model": "V90",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-04-03T21:32:20.533Z"
+  },
+  "car_owner_details": {
+    "name": "Domingo Veum",
+    "address": "1014, E48 9JQ",
+    "contact_number": "+44 89811 29333",
+    "car_insurance": "261 123 6102"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-03-28T09:34:59.671Z"
+  },
+  "last_update": {
+    "$date": "2022-11-11T14:58:55.756Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c632"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c630"
+  },
+  "registration_number": "RL11AZS",
+  "registration_date": {
+    "$date": "2020-08-10T07:24:29.453Z"
+  },
+  "model": "Model Y",
+  "car_type": "Wagon",
+  "last_MOT_test": {
+    "$date": "2022-04-23T10:16:41.034Z"
+  },
+  "car_owner_details": {
+    "name": "Jacquelyn Jaskolski Sr.",
+    "address": "398, D77 FZN",
+    "contact_number": "+44 75696 30286",
+    "car_insurance": "476 946 4289"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-02-18T07:20:27.365Z"
+  },
+  "last_update": {
+    "$date": "2022-11-07T23:15:40.485Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c63c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c63a"
+  },
+  "registration_number": "JB06CCA",
+  "registration_date": {
+    "$date": "2019-03-28T16:55:03.388Z"
+  },
+  "model": "Prius",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-03-15T03:06:16.195Z"
+  },
+  "car_owner_details": {
+    "name": "Virgil Cartwright",
+    "address": "59670, B29 42X",
+    "contact_number": "+44 41192 79683",
+    "car_insurance": "498 409 4685"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-02-04T05:31:42.156Z"
+  },
+  "last_update": {
+    "$date": "2022-12-07T07:32:07.784Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c648"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c646"
+  },
+  "registration_number": "QN08QWY",
+  "registration_date": {
+    "$date": "2021-02-15T05:24:04.392Z"
+  },
+  "model": "Wrangler",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2022-11-29T21:40:50.993Z"
+  },
+  "car_owner_details": {
+    "name": "Armando Christiansen",
+    "address": "191, T74 810",
+    "contact_number": "+44 38427 52624",
+    "car_insurance": "978 727 3128"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-04-24T15:01:31.920Z"
+  },
+  "last_update": {
+    "$date": "2022-09-15T23:45:34.262Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c656"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "registration_number": "ZD94DWV",
+  "registration_date": {
+    "$date": "2022-04-29T01:12:05.195Z"
+  },
+  "model": "Model S",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2022-02-08T02:55:19.931Z"
+  },
+  "car_owner_details": {
+    "name": "Paul Runolfsson",
+    "address": "66368, J83 1QG",
+    "contact_number": "+44 06879 62664",
+    "car_insurance": "410 541 6792"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-10-25T17:47:47.585Z"
+  },
+  "last_update": {
+    "$date": "2022-09-06T22:53:17.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c674"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c672"
+  },
+  "registration_number": "JO21VAZ",
+  "registration_date": {
+    "$date": "2018-08-11T23:30:26.946Z"
+  },
+  "model": "Golf",
+  "car_type": "Minivan",
+  "last_MOT_test": {
+    "$date": "2021-04-16T14:46:31.708Z"
+  },
+  "car_owner_details": {
+    "name": "Mrs. Pat Carter",
+    "address": "19709, M89 PE6",
+    "contact_number": "+44 31211 76305",
+    "car_insurance": "801 048 7689"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-11-05T00:03:15.351Z"
+  },
+  "last_update": {
+    "$date": "2022-09-08T10:41:12.166Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c686"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "registration_number": "ZB26RGY",
+  "registration_date": {
+    "$date": "2022-10-18T16:04:11.127Z"
+  },
+  "model": "F-150",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-08-28T08:15:38.409Z"
+  },
+  "car_owner_details": {
+    "name": "Inez Goldner",
+    "address": "9144, L01 CIF",
+    "contact_number": "+44 58504 90207",
+    "car_insurance": "369 682 4283"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2020-04-04T22:45:55.003Z"
+  },
+  "last_update": {
+    "$date": "2022-11-07T16:42:32.496Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6a2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "registration_number": "DH80IVG",
+  "registration_date": {
+    "$date": "2022-03-25T12:28:15.137Z"
+  },
+  "model": "Escalade",
+  "car_type": "Coupe",
+  "last_MOT_test": {
+    "$date": "2021-06-21T14:32:46.771Z"
+  },
+  "car_owner_details": {
+    "name": "Percy Baumbach",
+    "address": "573, C61 860",
+    "contact_number": "+44 64724 44381",
+    "car_insurance": "074 601 5587"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-05-28T18:03:06.249Z"
+  },
+  "last_update": {
+    "$date": "2022-12-09T14:02:55.018Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6c0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "registration_number": "ZW59JXT",
+  "registration_date": {
+    "$date": "2022-08-16T18:18:29.621Z"
+  },
+  "model": "Durango",
+  "car_type": "Coupe",
+  "last_MOT_test": {
+    "$date": "2022-05-31T05:12:22.308Z"
+  },
+  "car_owner_details": {
+    "name": "Lillie Deckow",
+    "address": "6142, B41 AQ5",
+    "contact_number": "+44 82968 30681",
+    "car_insurance": "480 874 6109"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-04-15T11:30:46.305Z"
+  },
+  "last_update": {
+    "$date": "2022-11-22T09:24:16.714Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6e0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "registration_number": "SS80RWE",
+  "registration_date": {
+    "$date": "2022-06-22T17:03:00.954Z"
+  },
+  "model": "Silverado",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2022-06-09T06:55:23.659Z"
+  },
+  "car_owner_details": {
+    "name": "Alvin Parker",
+    "address": "63740, G41 T29",
+    "contact_number": "+44 42764 74676",
+    "car_insurance": "953 009 9196"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2022-08-23T16:53:01.668Z"
+  },
+  "last_update": {
+    "$date": "2022-09-28T03:14:40.546Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6f8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "registration_number": "AC60QAB",
+  "registration_date": {
+    "$date": "2021-11-07T19:21:02.072Z"
+  },
+  "model": "El Camino",
+  "car_type": "Passenger Van",
+  "last_MOT_test": {
+    "$date": "2021-07-29T13:02:03.623Z"
+  },
+  "car_owner_details": {
+    "name": "Lana Kertzmann",
+    "address": "9297, C47 G7F",
+    "contact_number": "+44 73354 78150",
+    "car_insurance": "054 883 0321"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-11-13T07:46:43.159Z"
+  },
+  "last_update": {
+    "$date": "2022-10-30T13:53:41.007Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c70e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "registration_number": "WM58PYV",
+  "registration_date": {
+    "$date": "2022-02-26T09:02:22.150Z"
+  },
+  "model": "Expedition",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2021-03-21T09:21:18.075Z"
+  },
+  "car_owner_details": {
+    "name": "Dr. Fernando Kuhn",
+    "address": "5411, M21 9M0",
+    "contact_number": "+44 60155 72409",
+    "car_insurance": "803 635 6644"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-03-09T15:39:33.283Z"
+  },
+  "last_update": {
+    "$date": "2022-11-20T01:44:42.240Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c724"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "registration_number": "ZC95KWU",
+  "registration_date": {
+    "$date": "2022-08-08T15:07:26.247Z"
+  },
+  "model": "Roadster",
+  "car_type": "Hatchback",
+  "last_MOT_test": {
+    "$date": "2022-04-10T13:09:47.087Z"
+  },
+  "car_owner_details": {
+    "name": "Willie Bartoletti MD",
+    "address": "0011, C19 N0F",
+    "contact_number": "+44 67502 68508",
+    "car_insurance": "722 727 7811"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2019-02-18T10:27:53.753Z"
+  },
+  "last_update": {
+    "$date": "2022-12-04T12:52:13.612Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c742"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c740"
+  },
+  "registration_number": "AC80WTR",
+  "registration_date": {
+    "$date": "2022-06-08T01:33:16.257Z"
+  },
+  "model": "ATS",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2021-09-27T11:00:23.502Z"
+  },
+  "car_owner_details": {
+    "name": "Peter Blanda",
+    "address": "069, V49 UT9",
+    "contact_number": "+44 45812 40534",
+    "car_insurance": "677 280 2315"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2018-08-16T21:55:59.772Z"
+  },
+  "last_update": {
+    "$date": "2022-10-24T11:09:43.426Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c748"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "registration_number": "XY97ISX",
+  "registration_date": {
+    "$date": "2021-05-18T09:46:37.096Z"
+  },
+  "model": "911",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2022-08-31T12:15:26.121Z"
+  },
+  "car_owner_details": {
+    "name": "Wesley Von Jr.",
+    "address": "4669, V87 510",
+    "contact_number": "+44 75843 65539",
+    "car_insurance": "666 308 7398"
+  },
+  "car_status": "roadworthy",
+  "last_service_date": {
+    "$date": "2021-10-06T16:25:25.646Z"
+  },
+  "last_update": {
+    "$date": "2022-11-16T06:42:36.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c75e"
+  },
+  "registration_number": "LC82RZW",
+  "registration_date": {
+    "$date": "2019-08-09T02:21:51.017Z"
+  },
+  "model": "2",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-10-11T07:52:46.283Z"
+  },
+  "car_owner_details": {
+    "name": "Vera Strosin",
+    "address": "409, I70 152",
+    "contact_number": "+44 87643 08013",
+    "car_insurance": "743 477 5483"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2019-04-19T09:23:17.511Z"
+  },
+  "last_update": {
+    "$date": "2022-09-29T11:56:07.092Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c760"
+  },
+  "registration_number": "EY33VBN",
+  "registration_date": {
+    "$date": "2020-10-24T19:13:59.516Z"
+  },
+  "model": "Impala",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2021-02-22T09:30:17.215Z"
+  },
+  "car_owner_details": {
+    "name": "Everett Kreiger Jr.",
+    "address": "983, U17 9T0",
+    "contact_number": "+44 56873 02765",
+    "car_insurance": "300 189 6958"
+  },
+  "car_status": "written off",
+  "last_service_date": {
+    "$date": "2022-09-26T09:28:47.594Z"
+  },
+  "last_update": {
+    "$date": "2022-12-09T18:43:40.646Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c762"
+  },
+  "registration_number": "IZ41QKT",
+  "registration_date": {
+    "$date": "2021-07-05T17:32:38.305Z"
+  },
+  "model": "Explorer",
+  "car_type": "Hatchback",
+  "last_MOT_test": {
+    "$date": "2022-02-04T06:56:24.784Z"
+  },
+  "car_owner_details": {
+    "name": "Percy Jacobson DDS",
+    "address": "54936, U15 T69",
+    "contact_number": "+44 51475 81849",
+    "car_insurance": "800 665 7913"
+  },
+  "car_status": "in for service",
+  "last_service_date": {
+    "$date": "2022-01-19T23:13:09.714Z"
+  },
+  "last_update": {
+    "$date": "2022-11-30T17:19:38.033Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c764"
+  },
+  "registration_number": "YQ71RQX",
+  "registration_date": {
+    "$date": "2018-01-30T19:39:21.296Z"
+  },
+  "model": "911",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2021-10-25T08:00:19.895Z"
+  },
+  "car_owner_details": {
+    "name": "Dr. Delbert Mertz",
+    "address": "1429, S50 3J6",
+    "contact_number": "+44 15450 77829",
+    "car_insurance": "923 715 5325"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2021-03-10T07:24:49.565Z"
+  },
+  "last_update": {
+    "$date": "2022-09-19T13:52:11.587Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c766"
+  },
+  "registration_number": "BS42XRT",
+  "registration_date": {
+    "$date": "2022-03-12T10:51:45.404Z"
+  },
+  "model": "Colorado",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-05-27T01:14:00.121Z"
+  },
+  "car_owner_details": {
+    "name": "Jeff Heidenreich",
+    "address": "248, E38 D9R",
+    "contact_number": "+44 99288 28592",
+    "car_insurance": "005 845 0700"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2020-10-24T07:54:19.380Z"
+  },
+  "last_update": {
+    "$date": "2022-09-21T10:38:04.125Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c768"
+  },
+  "registration_number": "QU21DWA",
+  "registration_date": {
+    "$date": "2019-06-17T19:16:49.481Z"
+  },
+  "model": "Volt",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-11-02T12:23:06.071Z"
+  },
+  "car_owner_details": {
+    "name": "Terence Collier",
+    "address": "36141, I95 IR2",
+    "contact_number": "+44 56346 57328",
+    "car_insurance": "127 799 1044"
+  },
+  "car_status": "written off",
+  "last_service_date": {
+    "$date": "2018-08-27T03:37:46.417Z"
+  },
+  "last_update": {
+    "$date": "2022-11-03T01:56:16.259Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c76a"
+  },
+  "registration_number": "VU91XZN",
+  "registration_date": {
+    "$date": "2020-04-08T09:14:21.729Z"
+  },
+  "model": "Alpine",
+  "car_type": "Extended Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-08-19T18:02:14.418Z"
+  },
+  "car_owner_details": {
+    "name": "Ms. Kent Zboncak DDS",
+    "address": "9320, A24 5Z6",
+    "contact_number": "+44 53358 21984",
+    "car_insurance": "682 180 4171"
+  },
+  "car_status": "written off",
+  "last_service_date": {
+    "$date": "2019-10-14T16:40:52.267Z"
+  },
+  "last_update": {
+    "$date": "2022-11-17T04:05:56.177Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c76c"
+  },
+  "registration_number": "SN60CUA",
+  "registration_date": {
+    "$date": "2019-05-28T06:43:29.646Z"
+  },
+  "model": "ATS",
+  "car_type": "Hatchback",
+  "last_MOT_test": {
+    "$date": "2022-12-06T11:04:22.996Z"
+  },
+  "car_owner_details": {
+    "name": "Luz Fisher",
+    "address": "4988, Z88 5H0",
+    "contact_number": "+44 14877 63428",
+    "car_insurance": "239 797 9167"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2021-07-31T22:49:19.333Z"
+  },
+  "last_update": {
+    "$date": "2022-10-03T15:48:52.375Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c76e"
+  },
+  "registration_number": "BK89JDI",
+  "registration_date": {
+    "$date": "2017-12-18T16:00:15.401Z"
+  },
+  "model": "911",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2021-06-25T17:35:20.638Z"
+  },
+  "car_owner_details": {
+    "name": "Benny O'Keefe",
+    "address": "137, H93 DYY",
+    "contact_number": "+44 03155 46290",
+    "car_insurance": "250 083 6372"
+  },
+  "car_status": "in for service",
+  "last_service_date": {
+    "$date": "2021-01-13T17:17:15.323Z"
+  },
+  "last_update": {
+    "$date": "2022-10-04T16:28:15.958Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c770"
+  },
+  "registration_number": "IG77BUD",
+  "registration_date": {
+    "$date": "2020-05-10T23:42:29.208Z"
+  },
+  "model": "Charger",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-09-11T12:10:40.068Z"
+  },
+  "car_owner_details": {
+    "name": "Dr. Veronica Swaniawski",
+    "address": "87914, D73 875",
+    "contact_number": "+44 17600 99999",
+    "car_insurance": "674 220 1078"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2021-08-20T17:09:09.843Z"
+  },
+  "last_update": {
+    "$date": "2022-12-10T23:46:23.753Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c772"
+  },
+  "registration_number": "GD47UCA",
+  "registration_date": {
+    "$date": "2021-08-07T18:56:56.675Z"
+  },
+  "model": "Model S",
+  "car_type": "SUV",
+  "last_MOT_test": {
+    "$date": "2022-08-04T12:29:05.205Z"
+  },
+  "car_owner_details": {
+    "name": "Jeff Schmeler",
+    "address": "0072, C67 030",
+    "contact_number": "+44 79222 03995",
+    "car_insurance": "714 221 1463"
+  },
+  "car_status": "written off",
+  "last_service_date": {
+    "$date": "2018-12-28T14:08:29.340Z"
+  },
+  "last_update": {
+    "$date": "2022-10-14T11:02:46.135Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c774"
+  },
+  "registration_number": "NA62GHA",
+  "registration_date": {
+    "$date": "2020-04-14T20:24:42.024Z"
+  },
+  "model": "Corvette",
+  "car_type": "Sedan",
+  "last_MOT_test": {
+    "$date": "2022-01-23T06:32:22.517Z"
+  },
+  "car_owner_details": {
+    "name": "Jacquelyn Gutkowski",
+    "address": "655, Y26 GLD",
+    "contact_number": "+44 83500 90327",
+    "car_insurance": "632 224 2166"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2021-11-15T22:29:46.203Z"
+  },
+  "last_update": {
+    "$date": "2022-10-29T04:26:32.615Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c776"
+  },
+  "registration_number": "YV29FLO",
+  "registration_date": {
+    "$date": "2018-06-04T14:14:15.683Z"
+  },
+  "model": "Fiesta",
+  "car_type": "Convertible",
+  "last_MOT_test": {
+    "$date": "2021-08-26T11:31:47.082Z"
+  },
+  "car_owner_details": {
+    "name": "Miss Kristina McCullough",
+    "address": "3412, F11 6Q2",
+    "contact_number": "+44 05474 66531",
+    "car_insurance": "518 281 3571"
+  },
+  "car_status": "in for service",
+  "last_service_date": {
+    "$date": "2020-09-11T12:40:10.199Z"
+  },
+  "last_update": {
+    "$date": "2022-11-24T12:21:17.228Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c778"
+  },
+  "registration_number": "OF79WPQ",
+  "registration_date": {
+    "$date": "2019-03-17T06:32:38.414Z"
+  },
+  "model": "V90",
+  "car_type": "Wagon",
+  "last_MOT_test": {
+    "$date": "2020-12-22T17:22:11.122Z"
+  },
+  "car_owner_details": {
+    "name": "Roberto Boyer",
+    "address": "01522, C99 NW0",
+    "contact_number": "+44 71956 07087",
+    "car_insurance": "298 261 1073"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2020-06-19T12:52:14.660Z"
+  },
+  "last_update": {
+    "$date": "2022-11-20T16:40:55.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c77a"
+  },
+  "registration_number": "RD01LIQ",
+  "registration_date": {
+    "$date": "2021-07-31T16:18:44.870Z"
+  },
+  "model": "Silverado",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2022-11-20T18:28:00.003Z"
+  },
+  "car_owner_details": {
+    "name": "Matthew Keebler",
+    "address": "8737, O59 E30",
+    "contact_number": "+44 92313 54915",
+    "car_insurance": "298 067 1946"
+  },
+  "car_status": "in for service",
+  "last_service_date": {
+    "$date": "2020-01-17T11:15:59.082Z"
+  },
+  "last_update": {
+    "$date": "2022-11-19T13:17:03.485Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c77c"
+  },
+  "registration_number": "XA56SUO",
+  "registration_date": {
+    "$date": "2021-03-15T17:51:33.454Z"
+  },
+  "model": "Model 3",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-04-17T07:23:01.770Z"
+  },
+  "car_owner_details": {
+    "name": "Forrest Schultz",
+    "address": "722, E69 XX4",
+    "contact_number": "+44 74799 28506",
+    "car_insurance": "628 025 6134"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2020-08-25T08:19:51.496Z"
+  },
+  "last_update": {
+    "$date": "2022-11-17T20:15:51.370Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c77e"
+  },
+  "registration_number": "XU11YDQ",
+  "registration_date": {
+    "$date": "2020-03-07T02:04:25.322Z"
+  },
+  "model": "Element",
+  "car_type": "Minivan",
+  "last_MOT_test": {
+    "$date": "2022-07-09T19:08:47.315Z"
+  },
+  "car_owner_details": {
+    "name": "Dwayne Lesch",
+    "address": "8034, C13 8JI",
+    "contact_number": "+44 42083 28770",
+    "car_insurance": "391 612 0709"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2022-08-05T04:23:45.402Z"
+  },
+  "last_update": {
+    "$date": "2022-09-17T17:44:56.473Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c780"
+  },
+  "registration_number": "VZ46WKJ",
+  "registration_date": {
+    "$date": "2018-03-23T16:40:36.675Z"
+  },
+  "model": "Model 3",
+  "car_type": "Wagon",
+  "last_MOT_test": {
+    "$date": "2022-04-17T14:02:19.107Z"
+  },
+  "car_owner_details": {
+    "name": "Lynn West",
+    "address": "76775, T42 19Y",
+    "contact_number": "+44 83331 81621",
+    "car_insurance": "359 007 9949"
+  },
+  "car_status": "awaiting repair",
+  "last_service_date": {
+    "$date": "2020-04-20T19:41:47.789Z"
+  },
+  "last_update": {
+    "$date": "2022-11-01T09:16:18.515Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c782"
+  },
+  "registration_number": "UC74DAF",
+  "registration_date": {
+    "$date": "2022-01-22T09:32:49.511Z"
+  },
+  "model": "Model Y",
+  "car_type": "Crew Cab Pickup",
+  "last_MOT_test": {
+    "$date": "2021-03-16T09:52:59.168Z"
+  },
+  "car_owner_details": {
+    "name": "Alfredo Kub",
+    "address": "3958, L34 FLQ",
+    "contact_number": "+44 52783 07912",
+    "car_insurance": "484 562 3880"
+  },
+  "car_status": "written off",
+  "last_service_date": {
+    "$date": "2019-01-02T09:59:51.910Z"
+  },
+  "last_update": {
+    "$date": "2022-11-29T23:10:42.101Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c784"
+  },
+  "registration_number": "FF60DLG",
+  "registration_date": {
+    "$date": "2018-09-12T09:11:19.574Z"
+  },
+  "model": "Model S",
+  "car_type": "Passenger Van",
+  "last_MOT_test": {
+    "$date": "2021-12-20T02:27:37.842Z"
+  },
+  "car_owner_details": {
+    "name": "Ora Pouros",
+    "address": "83895, L45 L04",
+    "contact_number": "+44 76206 01358",
+    "car_insurance": "173 180 2585"
+  },
+  "car_status": "written off",
+  "last_service_date": {
+    "$date": "2021-05-01T10:38:12.163Z"
+  },
+  "last_update": {
+    "$date": "2022-11-28T11:54:24.807Z"
+  },
+  "__v": 0
+}]

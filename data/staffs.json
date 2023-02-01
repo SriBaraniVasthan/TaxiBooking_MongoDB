@@ -1,0 +1,4289 @@
+[{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c04a"
+  },
+  "first_name": "Justina",
+  "last_name": "Bogan",
+  "role": "operator",
+  "date_of_birth": {
+    "$date": "1992-04-23T14:09:05.561Z"
+  },
+  "contact_details": {
+    "address": "275 Courtney Burgs",
+    "postcode": "C03 OU8",
+    "contact_number": "+44 17834 99320",
+    "email": "Herminio.Deckow@hotmail.com",
+    "emergency_contact": {
+      "name": "Mr. Michele Crona",
+      "contact_number": "+44 23570 44612"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2016-12-15T14:56:44.453Z"
+    }
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-29T16:04:57.926Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c04c"
+  },
+  "first_name": "Curtis",
+  "last_name": "Lueilwitz",
+  "role": "operator",
+  "date_of_birth": {
+    "$date": "1994-04-10T14:51:26.473Z"
+  },
+  "contact_details": {
+    "address": "953 Brisa Causeway",
+    "postcode": "L45 GT6",
+    "contact_number": "+44 73352 53479",
+    "email": "Beau_Douglas@gmail.com",
+    "emergency_contact": {
+      "name": "Dwight McDermott",
+      "contact_number": "+44 61876 25021"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2022-04-07T09:52:05.673Z"
+    }
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-12-13T13:47:46.241Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c04e"
+  },
+  "first_name": "Joanne",
+  "last_name": "Olson",
+  "role": "operator",
+  "date_of_birth": {
+    "$date": "1992-02-01T06:36:52.742Z"
+  },
+  "contact_details": {
+    "address": "75516 Satterfield Unions",
+    "postcode": "R88 L59",
+    "contact_number": "+44 85152 18425",
+    "email": "Reyna_Koss@yahoo.com",
+    "emergency_contact": {
+      "name": "Ms. Pablo Berge DDS",
+      "contact_number": "+44 48429 06044"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2018-09-19T20:54:53.409Z"
+    }
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-30T12:02:46.134Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c050"
+  },
+  "first_name": "Mason",
+  "last_name": "Von",
+  "role": "operator",
+  "date_of_birth": {
+    "$date": "1979-01-02T18:25:11.822Z"
+  },
+  "contact_details": {
+    "address": "24898 O'Keefe Expressway",
+    "postcode": "I60 I4R",
+    "contact_number": "+44 80403 30506",
+    "email": "Moriah54@hotmail.com",
+    "emergency_contact": {
+      "name": "Miss Marsha Tillman",
+      "contact_number": "+44 60931 44130"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2020-03-07T02:21:23.335Z"
+    }
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-07T19:52:47.410Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c052"
+  },
+  "first_name": "Brad",
+  "last_name": "Rohan",
+  "role": "operator",
+  "date_of_birth": {
+    "$date": "1978-09-03T06:27:18.908Z"
+  },
+  "contact_details": {
+    "address": "928 Wuckert Locks",
+    "postcode": "U18 9S1",
+    "contact_number": "+44 44061 98244",
+    "email": "Caitlyn.Goldner@hotmail.com",
+    "emergency_contact": {
+      "name": "Lawrence Kub",
+      "contact_number": "+44 54225 21466"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2014-04-08T13:51:03.041Z"
+    }
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-05T09:31:39.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c054"
+  },
+  "first_name": "Allie",
+  "last_name": "Sanford",
+  "role": "operator",
+  "date_of_birth": {
+    "$date": "1989-02-14T21:49:16.308Z"
+  },
+  "contact_details": {
+    "address": "52971 Pollich Union",
+    "postcode": "W72 P9Z",
+    "contact_number": "+44 59988 32163",
+    "email": "Sheldon81@yahoo.com",
+    "emergency_contact": {
+      "name": "Dr. Calvin Kerluke",
+      "contact_number": "+44 01657 27792"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2015-01-23T03:00:41.222Z"
+    }
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-11T11:03:58.259Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c056"
+  },
+  "first_name": "Leda",
+  "last_name": "Cormier",
+  "role": "operator",
+  "date_of_birth": {
+    "$date": "1986-02-23T23:32:36.220Z"
+  },
+  "contact_details": {
+    "address": "671 Brakus Keys",
+    "postcode": "T98 S24",
+    "contact_number": "+44 13108 87982",
+    "email": "Mya.Mosciski66@hotmail.com",
+    "emergency_contact": {
+      "name": "Mercedes Jakubowski",
+      "contact_number": "+44 88613 18713"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2016-08-24T14:11:52.184Z"
+    }
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-26T00:02:36.773Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c058"
+  },
+  "first_name": "Cassie",
+  "last_name": "Hessel",
+  "role": "operator",
+  "date_of_birth": {
+    "$date": "2004-07-24T16:19:34.144Z"
+  },
+  "contact_details": {
+    "address": "597 Hackett Neck",
+    "postcode": "B88 C3P",
+    "contact_number": "+44 38973 30651",
+    "email": "Kailey_Bergstrom42@yahoo.com",
+    "emergency_contact": {
+      "name": "Wm Lebsack II",
+      "contact_number": "+44 82283 34547"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2013-05-26T00:25:06.068Z"
+    }
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-09T17:20:50.092Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c05a"
+  },
+  "first_name": "Tremayne",
+  "last_name": "Kuhic",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1995-11-23T00:12:18.716Z"
+  },
+  "contact_details": {
+    "address": "629 Jammie Drives",
+    "postcode": "L68 1L1",
+    "contact_number": "+44 92297 20264",
+    "email": "Talon.Volkman@hotmail.com",
+    "emergency_contact": {
+      "name": "Freddie Conn",
+      "contact_number": "+44 59327 37568"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2015-04-06T14:25:42.813Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 5685
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-23T21:14:56.019Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "first_name": "Melvin",
+  "last_name": "Volkman",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1981-11-04T01:56:37.077Z"
+  },
+  "contact_details": {
+    "address": "16878 Claudia Ridge",
+    "postcode": "D72 ZF6",
+    "contact_number": "+44 11169 42571",
+    "email": "Elvera_Schuppe@yahoo.com",
+    "emergency_contact": {
+      "name": "Patrick Flatley",
+      "contact_number": "+44 05701 58381"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2017-11-20T23:40:40.082Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 1860
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-05T00:02:16.592Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "first_name": "Osborne",
+  "last_name": "Green",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1981-04-30T22:39:08.474Z"
+  },
+  "contact_details": {
+    "address": "699 Carter Villages",
+    "postcode": "R69 NM3",
+    "contact_number": "+44 98617 99005",
+    "email": "Quinton56@hotmail.com",
+    "emergency_contact": {
+      "name": "Ada Bartell",
+      "contact_number": "+44 53299 82850"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2013-10-31T20:55:23.011Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 1175
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-13T22:31:54.143Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "first_name": "Amari",
+  "last_name": "Hammes",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1994-11-01T03:03:39.279Z"
+  },
+  "contact_details": {
+    "address": "107 Jayda Corner",
+    "postcode": "B08 161",
+    "contact_number": "+44 64404 91527",
+    "email": "Makayla12@gmail.com",
+    "emergency_contact": {
+      "name": "Elisa Parisian",
+      "contact_number": "+44 55899 33627"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2017-04-22T07:54:44.725Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 2142
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-04T08:52:17.107Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "first_name": "Alvina",
+  "last_name": "Hauck",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2002-02-13T07:10:08.883Z"
+  },
+  "contact_details": {
+    "address": "874 Shanel Green",
+    "postcode": "Y10 U02",
+    "contact_number": "+44 98042 29664",
+    "email": "Kelvin.Howe@yahoo.com",
+    "emergency_contact": {
+      "name": "Tara Satterfield",
+      "contact_number": "+44 87188 45584"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2017-03-20T15:05:27.155Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 6548
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-07T09:22:10.320Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0bc"
+  },
+  "first_name": "Michael",
+  "last_name": "Hodkiewicz",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1982-08-13T11:55:29.714Z"
+  },
+  "contact_details": {
+    "address": "7557 Franz Light",
+    "postcode": "A84 0X2",
+    "contact_number": "+44 25767 43324",
+    "email": "Connor.Ondricka38@hotmail.com",
+    "emergency_contact": {
+      "name": "Lynn Osinski",
+      "contact_number": "+44 04378 17641"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2014-03-27T02:27:16.834Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 5572
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-10T02:13:53.357Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "first_name": "Jorge",
+  "last_name": "Orn",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1997-09-21T10:26:34.529Z"
+  },
+  "contact_details": {
+    "address": "523 Boyle Dale",
+    "postcode": "A44 8NR",
+    "contact_number": "+44 09094 71638",
+    "email": "Cordie.Greenholt@hotmail.com",
+    "emergency_contact": {
+      "name": "Marlon Dickens",
+      "contact_number": "+44 46985 92472"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2014-04-10T22:05:58.774Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 9247
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-12T19:00:49.007Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0e6"
+  },
+  "first_name": "Noemy",
+  "last_name": "Crooks",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1975-09-26T00:28:52.687Z"
+  },
+  "contact_details": {
+    "address": "617 Estefania Knolls",
+    "postcode": "N86 O36",
+    "contact_number": "+44 76924 78609",
+    "email": "Berniece40@yahoo.com",
+    "emergency_contact": {
+      "name": "Nina Ernser",
+      "contact_number": "+44 57252 46321"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2015-06-09T17:42:41.062Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 5368
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-26T20:17:29.694Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0f2"
+  },
+  "first_name": "Eileen",
+  "last_name": "Treutel",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1993-11-30T17:40:02.916Z"
+  },
+  "contact_details": {
+    "address": "82291 Hegmann Knoll",
+    "postcode": "C19 TF9",
+    "contact_number": "+44 49273 70751",
+    "email": "Casimir47@gmail.com",
+    "emergency_contact": {
+      "name": "Dr. Samantha Swaniawski",
+      "contact_number": "+44 47610 96396"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2018-12-03T16:09:49.680Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 8215
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-22T22:50:53.983Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "first_name": "Leola",
+  "last_name": "Schmitt",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1985-08-02T01:01:11.162Z"
+  },
+  "contact_details": {
+    "address": "555 Smitham Street",
+    "postcode": "V01 HK5",
+    "contact_number": "+44 28721 98400",
+    "email": "Fern94@gmail.com",
+    "emergency_contact": {
+      "name": "Miss Alex Schamberger",
+      "contact_number": "+44 29934 68693"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2022-07-06T01:58:14.426Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 7686
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-07T07:52:41.522Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "first_name": "Grayce",
+  "last_name": "Trantow",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1987-09-25T23:07:31.786Z"
+  },
+  "contact_details": {
+    "address": "47723 Gilbert Station",
+    "postcode": "I85 IO7",
+    "contact_number": "+44 80847 47218",
+    "email": "Jewel.Streich12@hotmail.com",
+    "emergency_contact": {
+      "name": "Patti Padberg",
+      "contact_number": "+44 66464 94918"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2015-08-03T08:28:47.529Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 9580
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-09T01:02:44.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c13a"
+  },
+  "first_name": "Horacio",
+  "last_name": "Kuhn",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1998-03-18T23:26:56.114Z"
+  },
+  "contact_details": {
+    "address": "1140 Heathcote Knoll",
+    "postcode": "V45 271",
+    "contact_number": "+44 28325 07199",
+    "email": "Alize_Sawayn25@hotmail.com",
+    "emergency_contact": {
+      "name": "Shelly Stamm",
+      "contact_number": "+44 55397 75841"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2019-03-15T07:01:00.838Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9752
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-30T05:04:13.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c142"
+  },
+  "first_name": "Jena",
+  "last_name": "Cruickshank",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1985-06-23T00:19:47.863Z"
+  },
+  "contact_details": {
+    "address": "69068 Nina Avenue",
+    "postcode": "U16 387",
+    "contact_number": "+44 39343 04596",
+    "email": "Vickie_Mohr@gmail.com",
+    "emergency_contact": {
+      "name": "Leona Pacocha",
+      "contact_number": "+44 23129 58927"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2022-03-05T05:54:22.422Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 5017
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-15T14:48:13.308Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "first_name": "Benton",
+  "last_name": "Homenick",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1972-05-12T12:46:23.416Z"
+  },
+  "contact_details": {
+    "address": "3218 Devyn Light",
+    "postcode": "H32 55B",
+    "contact_number": "+44 58593 11275",
+    "email": "Cameron45@hotmail.com",
+    "emergency_contact": {
+      "name": "Maryann Buckridge",
+      "contact_number": "+44 05632 92402"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2018-05-30T07:37:50.281Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 5012
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-12T00:09:20.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "first_name": "Eduardo",
+  "last_name": "Legros",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2004-10-23T12:31:57.492Z"
+  },
+  "contact_details": {
+    "address": "928 Kenyon Fords",
+    "postcode": "Q24 I5Q",
+    "contact_number": "+44 10153 80760",
+    "email": "Sharon_Dach@hotmail.com",
+    "emergency_contact": {
+      "name": "Terrance Schulist",
+      "contact_number": "+44 81935 19991"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2015-02-25T18:47:25.951Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 7356
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-08T14:42:57.242Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c186"
+  },
+  "first_name": "Neva",
+  "last_name": "Jakubowski",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1983-12-06T11:10:31.730Z"
+  },
+  "contact_details": {
+    "address": "466 Homenick Trace",
+    "postcode": "D52 P64",
+    "contact_number": "+44 66190 40067",
+    "email": "Damon_Huels89@gmail.com",
+    "emergency_contact": {
+      "name": "Joe Gislason I",
+      "contact_number": "+44 25105 81944"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2017-10-26T14:43:48.147Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 4819
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-12-03T21:19:44.112Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "first_name": "Kayli",
+  "last_name": "Hand",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1977-04-12T09:44:27.805Z"
+  },
+  "contact_details": {
+    "address": "340 Nelle Walks",
+    "postcode": "F16 063",
+    "contact_number": "+44 63294 98905",
+    "email": "Johnny_Bradtke@yahoo.com",
+    "emergency_contact": {
+      "name": "Abel Lang",
+      "contact_number": "+44 81554 37813"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2018-04-11T16:50:56.318Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2631
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-12-04T09:20:38.531Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "first_name": "Ubaldo",
+  "last_name": "Buckridge",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1979-04-27T22:44:35.888Z"
+  },
+  "contact_details": {
+    "address": "1557 Mason Dale",
+    "postcode": "X42 0M6",
+    "contact_number": "+44 89875 32380",
+    "email": "Jadyn_Zulauf@hotmail.com",
+    "emergency_contact": {
+      "name": "Laverne Hoeger",
+      "contact_number": "+44 37613 03176"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2019-07-30T13:28:54.088Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 8838
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-26T10:08:36.139Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1c2"
+  },
+  "first_name": "Tamia",
+  "last_name": "Nader",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1995-12-07T06:43:06.196Z"
+  },
+  "contact_details": {
+    "address": "20578 Crooks Place",
+    "postcode": "G43 164",
+    "contact_number": "+44 06605 10100",
+    "email": "Frieda_Powlowski@yahoo.com",
+    "emergency_contact": {
+      "name": "Blanca Blanda",
+      "contact_number": "+44 98751 43180"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2017-08-28T04:55:31.022Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9497
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-12-09T17:46:57.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1d2"
+  },
+  "first_name": "Sonny",
+  "last_name": "Kutch",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1996-05-24T08:30:08.444Z"
+  },
+  "contact_details": {
+    "address": "068 Silas Burgs",
+    "postcode": "A55 L77",
+    "contact_number": "+44 22392 89287",
+    "email": "Susan_Schuster@yahoo.com",
+    "emergency_contact": {
+      "name": "Johnathan Ankunding",
+      "contact_number": "+44 71765 34115"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2019-08-13T04:47:50.042Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9453
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-13T22:24:23.144Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1e0"
+  },
+  "first_name": "Nick",
+  "last_name": "Beer",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1976-06-08T07:24:07.443Z"
+  },
+  "contact_details": {
+    "address": "53008 Celine Mill",
+    "postcode": "G76 8K2",
+    "contact_number": "+44 91232 25555",
+    "email": "Claudie5@gmail.com",
+    "emergency_contact": {
+      "name": "Cindy Champlin",
+      "contact_number": "+44 54355 63267"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2021-02-05T18:41:09.503Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 4809
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-15T07:40:38.472Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "first_name": "Kiera",
+  "last_name": "Upton",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1986-08-29T00:36:22.673Z"
+  },
+  "contact_details": {
+    "address": "9544 Elfrieda Ridge",
+    "postcode": "S52 557",
+    "contact_number": "+44 50088 13218",
+    "email": "Eda.Aufderhar55@hotmail.com",
+    "emergency_contact": {
+      "name": "Raquel Blick V",
+      "contact_number": "+44 67038 20395"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2018-04-16T11:42:19.067Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 1312
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-04T04:34:17.829Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c20a"
+  },
+  "first_name": "Aditya",
+  "last_name": "Bauch",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2004-06-21T04:49:34.742Z"
+  },
+  "contact_details": {
+    "address": "11820 Alexandrea Corner",
+    "postcode": "I62 64K",
+    "contact_number": "+44 87997 89725",
+    "email": "Penelope39@gmail.com",
+    "emergency_contact": {
+      "name": "Jean Wehner",
+      "contact_number": "+44 55623 77327"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2020-07-24T04:21:27.915Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2222
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-25T01:18:59.072Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "first_name": "Chester",
+  "last_name": "Skiles",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1984-03-16T00:36:41.208Z"
+  },
+  "contact_details": {
+    "address": "16816 Gerhold Forest",
+    "postcode": "K87 030",
+    "contact_number": "+44 04569 45466",
+    "email": "Godfrey.Koelpin@hotmail.com",
+    "emergency_contact": {
+      "name": "Kay O'Kon",
+      "contact_number": "+44 68393 14165"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2022-09-27T04:10:18.714Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 4357
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-24T12:13:12.963Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c23a"
+  },
+  "first_name": "Keith",
+  "last_name": "Schaefer",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1985-08-08T04:37:04.393Z"
+  },
+  "contact_details": {
+    "address": "96882 Auer Pines",
+    "postcode": "S51 N4X",
+    "contact_number": "+44 49464 64302",
+    "email": "Kennith.Jones@yahoo.com",
+    "emergency_contact": {
+      "name": "Erin Fisher",
+      "contact_number": "+44 34622 04889"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2016-02-07T20:01:57.828Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 6489
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-31T14:21:54.564Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c240"
+  },
+  "first_name": "Baron",
+  "last_name": "Shanahan",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1996-09-15T18:56:18.915Z"
+  },
+  "contact_details": {
+    "address": "7567 Rosamond Motorway",
+    "postcode": "E45 0SB",
+    "contact_number": "+44 96002 64067",
+    "email": "Tad99@gmail.com",
+    "emergency_contact": {
+      "name": "Marilyn Keebler",
+      "contact_number": "+44 27714 17701"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2019-05-08T11:14:17.155Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 9097
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-29T06:36:08.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c24a"
+  },
+  "first_name": "Keely",
+  "last_name": "Hilpert",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1989-12-14T08:07:23.759Z"
+  },
+  "contact_details": {
+    "address": "6685 Jones Inlet",
+    "postcode": "Y44 H5H",
+    "contact_number": "+44 38251 26493",
+    "email": "Tania.Mann20@gmail.com",
+    "emergency_contact": {
+      "name": "Ellis McLaughlin",
+      "contact_number": "+44 52164 74158"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2022-07-14T16:10:06.211Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 7158
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-09T16:03:15.694Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c256"
+  },
+  "first_name": "Jovanny",
+  "last_name": "Howell",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1980-03-19T20:12:30.834Z"
+  },
+  "contact_details": {
+    "address": "275 Strosin Lodge",
+    "postcode": "Z99 6I6",
+    "contact_number": "+44 09183 67672",
+    "email": "Ryleigh_Gerhold42@hotmail.com",
+    "emergency_contact": {
+      "name": "Angelina Gerhold",
+      "contact_number": "+44 10387 97593"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2014-12-10T13:57:40.111Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9543
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-10T02:10:40.193Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c264"
+  },
+  "first_name": "Carissa",
+  "last_name": "Purdy",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1998-05-14T09:41:07.893Z"
+  },
+  "contact_details": {
+    "address": "6275 Pfannerstill Camp",
+    "postcode": "K16 0BR",
+    "contact_number": "+44 50898 11983",
+    "email": "Stephan75@yahoo.com",
+    "emergency_contact": {
+      "name": "Edmund Walter",
+      "contact_number": "+44 29416 94943"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2014-06-10T06:53:19.705Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 5509
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-17T04:40:10.303Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c267"
+  },
+  "first_name": "Magnus",
+  "last_name": "Labadie",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1992-04-30T05:35:31.170Z"
+  },
+  "contact_details": {
+    "address": "287 Ayana Greens",
+    "postcode": "P94 625",
+    "contact_number": "+44 14901 18988",
+    "email": "Allen_Stroman15@hotmail.com",
+    "emergency_contact": {
+      "name": "Clifford Thompson",
+      "contact_number": "+44 01510 44963"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2022-05-10T19:57:35.164Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 7083
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-31T07:24:47.969Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "first_name": "Carlo",
+  "last_name": "Oberbrunner",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1995-08-13T09:03:22.514Z"
+  },
+  "contact_details": {
+    "address": "58001 Watsica Pines",
+    "postcode": "O02 678",
+    "contact_number": "+44 87682 64322",
+    "email": "Alysha18@yahoo.com",
+    "emergency_contact": {
+      "name": "Steven Roob",
+      "contact_number": "+44 78724 62090"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2021-09-19T10:36:43.825Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 6471
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-14T17:51:55.924Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c292"
+  },
+  "first_name": "Rick",
+  "last_name": "Flatley",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1990-05-07T04:50:11.429Z"
+  },
+  "contact_details": {
+    "address": "8727 Rashad Oval",
+    "postcode": "G83 TOV",
+    "contact_number": "+44 98948 16135",
+    "email": "Kane.Lehner50@yahoo.com",
+    "emergency_contact": {
+      "name": "Kevin Weissnat",
+      "contact_number": "+44 03099 99354"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2018-03-26T02:15:21.072Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 3174
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-21T13:33:44.217Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2a2"
+  },
+  "first_name": "Alice",
+  "last_name": "Cummings",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1979-06-30T05:45:07.049Z"
+  },
+  "contact_details": {
+    "address": "607 Isabell Hills",
+    "postcode": "O55 OVS",
+    "contact_number": "+44 32523 10329",
+    "email": "Rico_Weber70@gmail.com",
+    "emergency_contact": {
+      "name": "Darin Hammes",
+      "contact_number": "+44 08388 53877"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2021-06-12T22:14:16.952Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 5376
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-02T18:10:14.500Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2ac"
+  },
+  "first_name": "Jasen",
+  "last_name": "Weber",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1982-10-01T01:13:32.861Z"
+  },
+  "contact_details": {
+    "address": "8824 Bruen Viaduct",
+    "postcode": "P37 10F",
+    "contact_number": "+44 09836 74441",
+    "email": "Ryann_Collins97@gmail.com",
+    "emergency_contact": {
+      "name": "Hugo Feil",
+      "contact_number": "+44 80184 84290"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2015-09-27T02:44:35.398Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 1955
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-18T18:40:16.347Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2be"
+  },
+  "first_name": "Donavon",
+  "last_name": "Schimmel",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1977-01-19T09:26:21.224Z"
+  },
+  "contact_details": {
+    "address": "6104 Lynn Corners",
+    "postcode": "S92 3BW",
+    "contact_number": "+44 62590 03391",
+    "email": "Effie_Hayes74@hotmail.com",
+    "emergency_contact": {
+      "name": "Alejandro Donnelly",
+      "contact_number": "+44 94159 42947"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2018-02-14T05:45:17.165Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 1039
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-22T05:55:57.775Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2ce"
+  },
+  "first_name": "Mona",
+  "last_name": "Mayert",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1996-06-05T08:57:08.049Z"
+  },
+  "contact_details": {
+    "address": "50838 Bartell Underpass",
+    "postcode": "N68 CUX",
+    "contact_number": "+44 43496 88591",
+    "email": "Mikel29@gmail.com",
+    "emergency_contact": {
+      "name": "Mr. Hugo Waters",
+      "contact_number": "+44 72049 78224"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2018-02-06T21:24:47.378Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 1397
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-07T04:57:30.548Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "first_name": "Bertrand",
+  "last_name": "Haag",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1993-02-04T16:38:33.769Z"
+  },
+  "contact_details": {
+    "address": "915 Brakus Shoals",
+    "postcode": "D11 53G",
+    "contact_number": "+44 92962 74102",
+    "email": "Lisandro.Walker@yahoo.com",
+    "emergency_contact": {
+      "name": "Miss Mabel Ankunding",
+      "contact_number": "+44 15064 17935"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2021-05-14T05:55:07.860Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 3505
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-07T00:10:37.613Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "first_name": "Emie",
+  "last_name": "Hermiston",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1991-07-05T22:24:39.102Z"
+  },
+  "contact_details": {
+    "address": "84147 Maude Isle",
+    "postcode": "F08 N39",
+    "contact_number": "+44 50391 90219",
+    "email": "Taylor_Mosciski79@hotmail.com",
+    "emergency_contact": {
+      "name": "Stacy Kilback",
+      "contact_number": "+44 26670 57346"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2016-01-07T20:50:09.121Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9132
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-15T02:39:20.009Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "first_name": "Mattie",
+  "last_name": "Smitham",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1993-11-25T13:58:03.033Z"
+  },
+  "contact_details": {
+    "address": "3923 Candido Corners",
+    "postcode": "F13 XDM",
+    "contact_number": "+44 62812 39366",
+    "email": "Watson66@yahoo.com",
+    "emergency_contact": {
+      "name": "Sylvia Konopelski",
+      "contact_number": "+44 70080 96824"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2022-03-17T02:54:48.905Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9285
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-08T02:51:54.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c316"
+  },
+  "first_name": "Stacey",
+  "last_name": "Rutherford",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1982-11-21T17:44:51.190Z"
+  },
+  "contact_details": {
+    "address": "767 Melba Causeway",
+    "postcode": "A01 E4S",
+    "contact_number": "+44 28672 86979",
+    "email": "Gladys.Gislason@gmail.com",
+    "emergency_contact": {
+      "name": "Joey Runolfsson Sr.",
+      "contact_number": "+44 58356 48473"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2013-06-18T16:42:44.461Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 6592
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-14T23:51:10.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "first_name": "Abelardo",
+  "last_name": "Weissnat",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2004-04-20T13:18:51.626Z"
+  },
+  "contact_details": {
+    "address": "501 Satterfield Crest",
+    "postcode": "O74 0R1",
+    "contact_number": "+44 55106 67643",
+    "email": "Rosario.Koss60@gmail.com",
+    "emergency_contact": {
+      "name": "Sadie Hamill",
+      "contact_number": "+44 80482 60716"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2019-03-14T16:44:25.627Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 3336
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-23T13:43:28.374Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c342"
+  },
+  "first_name": "Tomasa",
+  "last_name": "Padberg",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1982-12-01T15:34:33.392Z"
+  },
+  "contact_details": {
+    "address": "156 Barrows Trace",
+    "postcode": "N94 VV3",
+    "contact_number": "+44 59923 66945",
+    "email": "Nelle95@yahoo.com",
+    "emergency_contact": {
+      "name": "Timothy Nolan",
+      "contact_number": "+44 81712 67263"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2018-01-04T01:52:54.135Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 1664
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-07T06:38:08.304Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c350"
+  },
+  "first_name": "Isaiah",
+  "last_name": "Kuhlman",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1980-04-25T16:40:35.532Z"
+  },
+  "contact_details": {
+    "address": "539 Hayes Walk",
+    "postcode": "Q37 N6U",
+    "contact_number": "+44 34726 37966",
+    "email": "Dejon_Turner@hotmail.com",
+    "emergency_contact": {
+      "name": "Herman Nienow",
+      "contact_number": "+44 54536 01488"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2015-03-14T00:14:41.788Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 6065
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-12T16:29:44.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c353"
+  },
+  "first_name": "Oliver",
+  "last_name": "Crona",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1994-02-23T11:39:47.684Z"
+  },
+  "contact_details": {
+    "address": "1052 Joshua Drives",
+    "postcode": "Q93 32T",
+    "contact_number": "+44 18620 93940",
+    "email": "Dillon_Hand13@gmail.com",
+    "emergency_contact": {
+      "name": "Ronald Fay Jr.",
+      "contact_number": "+44 89255 18806"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2019-07-03T14:34:28.946Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 8141
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-18T17:32:45.369Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "first_name": "Jillian",
+  "last_name": "Franecki",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1976-11-23T22:18:10.160Z"
+  },
+  "contact_details": {
+    "address": "4242 Melyna Tunnel",
+    "postcode": "C46 CDV",
+    "contact_number": "+44 01655 77804",
+    "email": "Jerrell.Hand@yahoo.com",
+    "emergency_contact": {
+      "name": "Mrs. Sherry Jast",
+      "contact_number": "+44 18911 06320"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2021-04-24T03:37:05.069Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 9137
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-07T16:07:16.562Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "first_name": "Shania",
+  "last_name": "Goldner",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1976-03-08T10:59:14.473Z"
+  },
+  "contact_details": {
+    "address": "074 Heath River",
+    "postcode": "H27 134",
+    "contact_number": "+44 30115 74814",
+    "email": "Lottie_Runolfsson@gmail.com",
+    "emergency_contact": {
+      "name": "Arlene Lynch",
+      "contact_number": "+44 83469 90289"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2020-11-23T09:15:32.191Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 4115
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-15T05:00:38.912Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c392"
+  },
+  "first_name": "Leatha",
+  "last_name": "Konopelski",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1990-01-07T03:56:12.541Z"
+  },
+  "contact_details": {
+    "address": "5845 Buckridge Estates",
+    "postcode": "U53 F17",
+    "contact_number": "+44 44967 26176",
+    "email": "Randal.OHara98@yahoo.com",
+    "emergency_contact": {
+      "name": "Ronald Botsford",
+      "contact_number": "+44 16192 22573"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2022-01-30T08:23:29.033Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 1081
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-18T12:47:19.392Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3a2"
+  },
+  "first_name": "Loyal",
+  "last_name": "Kuphal",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1975-02-19T19:28:51.706Z"
+  },
+  "contact_details": {
+    "address": "2545 Jonatan Meadow",
+    "postcode": "G40 6M0",
+    "contact_number": "+44 77623 85860",
+    "email": "Muhammad_Reichert@gmail.com",
+    "emergency_contact": {
+      "name": "Judith Parker",
+      "contact_number": "+44 53805 42792"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2017-10-02T20:19:28.300Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 5467
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-05T13:47:03.108Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3ac"
+  },
+  "first_name": "Skye",
+  "last_name": "Denesik",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1980-03-01T04:02:55.920Z"
+  },
+  "contact_details": {
+    "address": "208 Dickinson Extension",
+    "postcode": "K77 DG9",
+    "contact_number": "+44 31157 88657",
+    "email": "Ashley_Rogahn@gmail.com",
+    "emergency_contact": {
+      "name": "Lester Padberg",
+      "contact_number": "+44 41647 68849"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2013-06-30T22:22:22.737Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2322
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-07T00:08:00.200Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3b6"
+  },
+  "first_name": "Fay",
+  "last_name": "Mosciski",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2002-04-30T14:30:31.739Z"
+  },
+  "contact_details": {
+    "address": "7474 Matteo Groves",
+    "postcode": "S03 CDM",
+    "contact_number": "+44 62172 33269",
+    "email": "Joe20@yahoo.com",
+    "emergency_contact": {
+      "name": "Fred Bednar",
+      "contact_number": "+44 06666 64927"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2021-10-11T08:53:25.068Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 1762
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-02T15:27:53.555Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "first_name": "Rosario",
+  "last_name": "Johnston",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1973-01-31T16:07:50.845Z"
+  },
+  "contact_details": {
+    "address": "3179 O'Kon Radial",
+    "postcode": "I79 19S",
+    "contact_number": "+44 38423 58095",
+    "email": "Thelma.Bergnaum14@hotmail.com",
+    "emergency_contact": {
+      "name": "Ms. Glenda Langosh DVM",
+      "contact_number": "+44 99080 93399"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2017-07-28T05:23:41.428Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 7513
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-29T01:34:16.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "first_name": "Lura",
+  "last_name": "Streich",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1982-11-11T01:21:38.184Z"
+  },
+  "contact_details": {
+    "address": "59014 Kuhlman Way",
+    "postcode": "Z88 MY7",
+    "contact_number": "+44 01384 88330",
+    "email": "Taya75@gmail.com",
+    "emergency_contact": {
+      "name": "Mr. Doreen Feil DVM",
+      "contact_number": "+44 41142 65205"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2021-12-22T22:00:50.130Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 7561
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-20T04:54:01.969Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "first_name": "Erik",
+  "last_name": "Stroman",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2001-12-04T00:39:40.944Z"
+  },
+  "contact_details": {
+    "address": "9058 Jordy Highway",
+    "postcode": "K45 3E8",
+    "contact_number": "+44 99132 04325",
+    "email": "Bridget10@yahoo.com",
+    "emergency_contact": {
+      "name": "Lois Hettinger",
+      "contact_number": "+44 08801 15331"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2020-01-15T03:42:50.562Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 5923
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-15T09:10:49.927Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3fc"
+  },
+  "first_name": "Juana",
+  "last_name": "Heidenreich",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1995-06-16T11:54:17.347Z"
+  },
+  "contact_details": {
+    "address": "058 Harber Groves",
+    "postcode": "E54 4B2",
+    "contact_number": "+44 34428 01112",
+    "email": "Ariane_Berge@gmail.com",
+    "emergency_contact": {
+      "name": "Marian DuBuque",
+      "contact_number": "+44 69134 66983"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2020-10-24T21:51:50.037Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 6211
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-07T22:26:59.870Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c40a"
+  },
+  "first_name": "Rosalinda",
+  "last_name": "Carter",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1974-02-12T18:29:55.202Z"
+  },
+  "contact_details": {
+    "address": "7747 Erdman Loaf",
+    "postcode": "Q73 A80",
+    "contact_number": "+44 13291 17664",
+    "email": "Harold.Mohr@yahoo.com",
+    "emergency_contact": {
+      "name": "Roy Cassin",
+      "contact_number": "+44 45996 43738"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2018-04-06T12:54:52.575Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2524
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-12T05:55:29.251Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "first_name": "Elna",
+  "last_name": "Haag",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1972-11-12T07:57:35.150Z"
+  },
+  "contact_details": {
+    "address": "76777 Maiya Plains",
+    "postcode": "B08 E44",
+    "contact_number": "+44 25221 76728",
+    "email": "Eleanore.Ferry@gmail.com",
+    "emergency_contact": {
+      "name": "Gayle Durgan",
+      "contact_number": "+44 67002 12660"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2016-03-28T05:30:30.708Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2829
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-12-09T04:05:14.690Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "first_name": "Taryn",
+  "last_name": "Abernathy",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1994-03-27T09:29:04.543Z"
+  },
+  "contact_details": {
+    "address": "0956 Ole Run",
+    "postcode": "Y32 4UR",
+    "contact_number": "+44 91819 19773",
+    "email": "Hardy_McGlynn@gmail.com",
+    "emergency_contact": {
+      "name": "Miss Eleanor Marks",
+      "contact_number": "+44 18293 73452"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2019-12-05T10:15:59.149Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 1105
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-06T11:04:45.533Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c43e"
+  },
+  "first_name": "Talia",
+  "last_name": "Hermann",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1986-01-18T14:43:03.280Z"
+  },
+  "contact_details": {
+    "address": "822 Earline Brook",
+    "postcode": "F38 Q7I",
+    "contact_number": "+44 98063 58333",
+    "email": "Leon69@gmail.com",
+    "emergency_contact": {
+      "name": "Verna Daniel",
+      "contact_number": "+44 44966 46844"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2013-01-10T20:57:44.486Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9233
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-09T23:28:03.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c44c"
+  },
+  "first_name": "Bianka",
+  "last_name": "Bauch",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2004-08-15T00:41:33.833Z"
+  },
+  "contact_details": {
+    "address": "918 Joesph Common",
+    "postcode": "M74 3EJ",
+    "contact_number": "+44 79317 42863",
+    "email": "Kristoffer.Marquardt63@yahoo.com",
+    "emergency_contact": {
+      "name": "Chris Wehner",
+      "contact_number": "+44 44747 81485"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2021-03-19T10:58:13.445Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 4666
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-21T10:10:51.704Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c454"
+  },
+  "first_name": "Daren",
+  "last_name": "Hayes",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1991-11-22T13:51:13.992Z"
+  },
+  "contact_details": {
+    "address": "90970 Skye Forge",
+    "postcode": "H68 O7A",
+    "contact_number": "+44 54553 08095",
+    "email": "Vance68@hotmail.com",
+    "emergency_contact": {
+      "name": "Randy Tromp II",
+      "contact_number": "+44 07713 00881"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2021-05-28T20:40:33.178Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 2595
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-27T17:22:35.381Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "first_name": "Skyla",
+  "last_name": "Dare",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1988-02-11T19:20:30.362Z"
+  },
+  "contact_details": {
+    "address": "44090 Nicklaus Crescent",
+    "postcode": "W95 Y13",
+    "contact_number": "+44 57693 83472",
+    "email": "Maximus_Ferry26@hotmail.com",
+    "emergency_contact": {
+      "name": "Paul Denesik",
+      "contact_number": "+44 27418 39972"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2021-11-29T18:35:48.342Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 9867
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-05T04:34:11.870Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "first_name": "Katrine",
+  "last_name": "Paucek",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2003-12-31T20:34:13.882Z"
+  },
+  "contact_details": {
+    "address": "25837 Anika View",
+    "postcode": "C08 V9C",
+    "contact_number": "+44 29741 47198",
+    "email": "Xzavier17@yahoo.com",
+    "emergency_contact": {
+      "name": "Toni Konopelski",
+      "contact_number": "+44 36410 01644"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2016-02-09T02:28:50.977Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 1655
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-12-03T05:42:02.147Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c48c"
+  },
+  "first_name": "Edd",
+  "last_name": "Hammes",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1985-07-01T06:30:44.355Z"
+  },
+  "contact_details": {
+    "address": "9612 Wintheiser Club",
+    "postcode": "W74 5HU",
+    "contact_number": "+44 58858 53492",
+    "email": "Paxton_OHara89@yahoo.com",
+    "emergency_contact": {
+      "name": "Salvador Crona",
+      "contact_number": "+44 54767 42493"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2018-08-18T00:08:00.598Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 2220
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-22T21:41:13.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c496"
+  },
+  "first_name": "Tony",
+  "last_name": "Labadie",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2003-05-08T03:10:16.583Z"
+  },
+  "contact_details": {
+    "address": "4996 Marcelino Key",
+    "postcode": "P59 P94",
+    "contact_number": "+44 81991 22710",
+    "email": "Ernie.Little28@gmail.com",
+    "emergency_contact": {
+      "name": "Shawna Homenick PhD",
+      "contact_number": "+44 14914 11393"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2022-09-09T03:17:18.468Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2982
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-10T09:33:06.898Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4a4"
+  },
+  "first_name": "Madonna",
+  "last_name": "Labadie",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1996-01-26T18:39:13.783Z"
+  },
+  "contact_details": {
+    "address": "6958 Greenholt Circle",
+    "postcode": "O53 01Z",
+    "contact_number": "+44 20066 62131",
+    "email": "Jarrett28@gmail.com",
+    "emergency_contact": {
+      "name": "Patty Kessler",
+      "contact_number": "+44 07458 15731"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2017-06-18T05:21:50.410Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9186
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-23T08:21:28.945Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4b2"
+  },
+  "first_name": "Noelia",
+  "last_name": "Treutel",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2001-11-26T20:22:20.310Z"
+  },
+  "contact_details": {
+    "address": "45152 Edna Valley",
+    "postcode": "D50 549",
+    "contact_number": "+44 34784 90218",
+    "email": "Devon_Mitchell13@yahoo.com",
+    "emergency_contact": {
+      "name": "Roman Friesen",
+      "contact_number": "+44 51882 07825"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2020-04-12T07:01:05.863Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 3684
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-15T16:52:51.715Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4ba"
+  },
+  "first_name": "Roderick",
+  "last_name": "Swift",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1997-01-22T04:29:40.547Z"
+  },
+  "contact_details": {
+    "address": "259 Keven Cliff",
+    "postcode": "O39 G38",
+    "contact_number": "+44 54410 59742",
+    "email": "Hans.Gibson13@yahoo.com",
+    "emergency_contact": {
+      "name": "Amy Nicolas",
+      "contact_number": "+44 96617 58163"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2022-01-17T02:16:15.043Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 4137
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-24T06:36:56.848Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "first_name": "Irma",
+  "last_name": "Corwin",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1981-11-10T21:25:38.314Z"
+  },
+  "contact_details": {
+    "address": "68089 Jazmyne Mountain",
+    "postcode": "W55 R59",
+    "contact_number": "+44 60482 58895",
+    "email": "Isai_Mante71@gmail.com",
+    "emergency_contact": {
+      "name": "Matthew Kuvalis",
+      "contact_number": "+44 35491 78881"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2016-04-08T04:10:02.662Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 6986
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-21T16:50:05.129Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4de"
+  },
+  "first_name": "Luna",
+  "last_name": "Hintz",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1999-02-09T00:14:48.291Z"
+  },
+  "contact_details": {
+    "address": "884 Emilia Estates",
+    "postcode": "N22 HXQ",
+    "contact_number": "+44 76848 33807",
+    "email": "Nikki.Glover93@gmail.com",
+    "emergency_contact": {
+      "name": "Luther Ward",
+      "contact_number": "+44 42933 28815"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2013-02-24T17:48:56.970Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 7509
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-12-12T02:21:04.766Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "first_name": "Jaunita",
+  "last_name": "Hoppe",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1988-10-23T09:21:37.879Z"
+  },
+  "contact_details": {
+    "address": "96338 Schuster Harbor",
+    "postcode": "H23 52E",
+    "contact_number": "+44 58266 61285",
+    "email": "Annamarie.Hoeger34@hotmail.com",
+    "emergency_contact": {
+      "name": "Earl Greenholt",
+      "contact_number": "+44 37002 29765"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2014-06-29T16:44:33.510Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 8126
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-26T05:51:24.201Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "first_name": "Anabel",
+  "last_name": "Legros",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1981-09-07T12:28:10.458Z"
+  },
+  "contact_details": {
+    "address": "1568 Beer Manors",
+    "postcode": "K32 2I6",
+    "contact_number": "+44 44981 34394",
+    "email": "Kane44@gmail.com",
+    "emergency_contact": {
+      "name": "Dr. Ellis Bernhard",
+      "contact_number": "+44 05336 04724"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2013-01-18T19:28:12.958Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 9251
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-16T19:46:14.434Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "first_name": "Haleigh",
+  "last_name": "Crist",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1974-08-04T10:44:54.548Z"
+  },
+  "contact_details": {
+    "address": "7033 Providenci Circle",
+    "postcode": "W02 AG6",
+    "contact_number": "+44 46883 60307",
+    "email": "Wyman_Walsh88@yahoo.com",
+    "emergency_contact": {
+      "name": "Andre Baumbach PhD",
+      "contact_number": "+44 97067 89183"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2019-03-13T21:53:35.316Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 7019
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-08T15:53:55.107Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "first_name": "Reed",
+  "last_name": "Abernathy",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1976-01-29T23:24:37.798Z"
+  },
+  "contact_details": {
+    "address": "803 Turcotte Circle",
+    "postcode": "T22 3OJ",
+    "contact_number": "+44 41580 77659",
+    "email": "Jazmyn_Schinner42@yahoo.com",
+    "emergency_contact": {
+      "name": "Carlton Doyle",
+      "contact_number": "+44 31604 17116"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2021-03-03T14:45:26.283Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 5161
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-20T21:00:35.814Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "first_name": "Palma",
+  "last_name": "Lang",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1986-06-05T19:17:49.515Z"
+  },
+  "contact_details": {
+    "address": "6880 Terry Extension",
+    "postcode": "O77 LF0",
+    "contact_number": "+44 96104 36240",
+    "email": "Cristian14@gmail.com",
+    "emergency_contact": {
+      "name": "Earnest Senger",
+      "contact_number": "+44 76652 92027"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2022-04-03T12:06:39.890Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 9230
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-29T17:56:38.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "first_name": "Nikolas",
+  "last_name": "Klein",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1977-05-25T01:30:34.484Z"
+  },
+  "contact_details": {
+    "address": "63242 Lind Causeway",
+    "postcode": "L15 QN9",
+    "contact_number": "+44 58141 08614",
+    "email": "Julie.Corwin@yahoo.com",
+    "emergency_contact": {
+      "name": "Kendra Weissnat IV",
+      "contact_number": "+44 84809 59711"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2016-11-18T23:20:22.745Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 4886
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-17T07:49:18.237Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c57e"
+  },
+  "first_name": "Mallie",
+  "last_name": "Hauck",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1980-06-26T09:58:36.695Z"
+  },
+  "contact_details": {
+    "address": "9495 Corkery Lakes",
+    "postcode": "B17 T9Y",
+    "contact_number": "+44 52302 31485",
+    "email": "Celia55@yahoo.com",
+    "emergency_contact": {
+      "name": "Miss Leah Ferry Jr.",
+      "contact_number": "+44 71298 56331"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2022-03-04T10:04:15.624Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9202
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-01T01:03:51.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "first_name": "Reyes",
+  "last_name": "Rodriguez",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1982-08-31T03:59:28.282Z"
+  },
+  "contact_details": {
+    "address": "63253 Yost Avenue",
+    "postcode": "Q06 PBQ",
+    "contact_number": "+44 82118 48885",
+    "email": "Marlen73@gmail.com",
+    "emergency_contact": {
+      "name": "Van Beer DVM",
+      "contact_number": "+44 17716 63914"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2018-06-08T13:13:40.094Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 1073
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-21T22:43:30.484Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5a4"
+  },
+  "first_name": "Rick",
+  "last_name": "Hessel",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1987-06-06T10:06:56.407Z"
+  },
+  "contact_details": {
+    "address": "9121 Johnson Corner",
+    "postcode": "Z30 M7R",
+    "contact_number": "+44 49359 93366",
+    "email": "Adeline_Bergnaum@yahoo.com",
+    "emergency_contact": {
+      "name": "Miss Matthew Runolfsson",
+      "contact_number": "+44 81719 36235"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2013-09-13T16:17:52.993Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 4284
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-19T09:46:16.438Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "first_name": "Xavier",
+  "last_name": "Luettgen",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2002-06-25T15:44:10.515Z"
+  },
+  "contact_details": {
+    "address": "57647 Giovanni Field",
+    "postcode": "I56 FTF",
+    "contact_number": "+44 65492 72583",
+    "email": "Kellie_Turcotte@gmail.com",
+    "emergency_contact": {
+      "name": "Dennis Bahringer",
+      "contact_number": "+44 85991 26633"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2018-08-05T06:26:04.319Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2056
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-09-13T15:43:10.677Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5c8"
+  },
+  "first_name": "Michale",
+  "last_name": "Jacobi",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2002-01-27T09:16:09.550Z"
+  },
+  "contact_details": {
+    "address": "660 Harris Mount",
+    "postcode": "Y23 53D",
+    "contact_number": "+44 60306 67458",
+    "email": "Ollie62@hotmail.com",
+    "emergency_contact": {
+      "name": "Mrs. Gayle Langosh",
+      "contact_number": "+44 48247 14740"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2022-10-03T07:46:35.796Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2536
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-12-01T07:13:06.544Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "first_name": "Lizeth",
+  "last_name": "Vandervort",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1977-07-20T07:27:59.579Z"
+  },
+  "contact_details": {
+    "address": "335 Steuber Common",
+    "postcode": "M63 H2X",
+    "contact_number": "+44 71847 40090",
+    "email": "Zelda_Braun33@hotmail.com",
+    "emergency_contact": {
+      "name": "Hannah Schimmel",
+      "contact_number": "+44 21384 90878"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2016-04-18T16:40:18.240Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 5281
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-26T01:00:43.466Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "first_name": "Waino",
+  "last_name": "Rodriguez",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1989-10-06T00:04:42.064Z"
+  },
+  "contact_details": {
+    "address": "5042 Selmer Camp",
+    "postcode": "T57 6S3",
+    "contact_number": "+44 18200 07418",
+    "email": "Celestino66@yahoo.com",
+    "emergency_contact": {
+      "name": "Roger Treutel I",
+      "contact_number": "+44 82897 03141"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2021-04-24T12:58:02.692Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 4966
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-08T07:39:24.053Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5f6"
+  },
+  "first_name": "Theresia",
+  "last_name": "Hackett",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1995-08-12T15:52:27.810Z"
+  },
+  "contact_details": {
+    "address": "38682 Lenora Ways",
+    "postcode": "P51 6X9",
+    "contact_number": "+44 11880 58184",
+    "email": "Owen.Rice@yahoo.com",
+    "emergency_contact": {
+      "name": "Dr. Phillip Nitzsche",
+      "contact_number": "+44 54723 37588"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2021-04-29T18:21:09.390Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 6845
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-20T14:20:15.911Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5f9"
+  },
+  "first_name": "Austen",
+  "last_name": "O'Connell",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1973-09-18T05:12:38.539Z"
+  },
+  "contact_details": {
+    "address": "608 Suzanne Ridge",
+    "postcode": "N65 2D5",
+    "contact_number": "+44 38028 28971",
+    "email": "Kenya.Swift@yahoo.com",
+    "emergency_contact": {
+      "name": "Gustavo Johnson",
+      "contact_number": "+44 05587 28697"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2013-06-25T11:05:12.317Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 5060
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-20T00:18:41.251Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "first_name": "Myrtie",
+  "last_name": "Stiedemann",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2003-12-01T08:23:14.483Z"
+  },
+  "contact_details": {
+    "address": "584 Wehner Light",
+    "postcode": "J45 GZ3",
+    "contact_number": "+44 83095 22528",
+    "email": "Delfina_Bednar@yahoo.com",
+    "emergency_contact": {
+      "name": "Anthony Heathcote III",
+      "contact_number": "+44 81196 72314"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2021-10-21T05:54:13.121Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 8358
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-10-21T21:23:07.660Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c624"
+  },
+  "first_name": "Dax",
+  "last_name": "Stroman",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2000-03-14T00:18:49.526Z"
+  },
+  "contact_details": {
+    "address": "271 Mohr Ways",
+    "postcode": "F82 601",
+    "contact_number": "+44 76904 63634",
+    "email": "Jerome_Hegmann31@hotmail.com",
+    "emergency_contact": {
+      "name": "Dustin Corkery",
+      "contact_number": "+44 95363 32983"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2018-06-01T07:54:32.053Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2457
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-31T07:06:24.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c630"
+  },
+  "first_name": "Elnora",
+  "last_name": "Runolfsson",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1993-06-29T16:50:32.837Z"
+  },
+  "contact_details": {
+    "address": "90998 Runolfsson Wall",
+    "postcode": "O30 L35",
+    "contact_number": "+44 80818 76741",
+    "email": "Ted.Reinger75@yahoo.com",
+    "emergency_contact": {
+      "name": "Terrance Fahey IV",
+      "contact_number": "+44 50559 76411"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2017-03-30T08:46:37.741Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 2044
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-19T14:23:35.798Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c63a"
+  },
+  "first_name": "Sabryna",
+  "last_name": "Miller",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1972-04-16T22:44:42.747Z"
+  },
+  "contact_details": {
+    "address": "27435 Jameson Turnpike",
+    "postcode": "W62 H49",
+    "contact_number": "+44 33521 41258",
+    "email": "Modesta82@hotmail.com",
+    "emergency_contact": {
+      "name": "Miss Jennie Ruecker",
+      "contact_number": "+44 64752 00745"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2014-01-30T08:00:41.960Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 1607
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-02T20:29:13.480Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c646"
+  },
+  "first_name": "Grayson",
+  "last_name": "Dooley",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2002-11-20T03:33:12.946Z"
+  },
+  "contact_details": {
+    "address": "319 Orn Ports",
+    "postcode": "V60 17D",
+    "contact_number": "+44 20605 30588",
+    "email": "Aiyana.Pollich43@gmail.com",
+    "emergency_contact": {
+      "name": "Christina Bosco",
+      "contact_number": "+44 52306 00180"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2016-12-02T23:46:54.814Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 8628
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-12-02T04:14:11.172Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "first_name": "Leonardo",
+  "last_name": "Will",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1988-08-23T10:42:09.425Z"
+  },
+  "contact_details": {
+    "address": "750 Santiago Divide",
+    "postcode": "Q42 K64",
+    "contact_number": "+44 86039 19320",
+    "email": "Assunta.Johnson@gmail.com",
+    "emergency_contact": {
+      "name": "Mr. Leticia Goldner",
+      "contact_number": "+44 04251 40842"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2020-05-26T01:55:53.495Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 6895
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-12-02T18:24:39.657Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c672"
+  },
+  "first_name": "Cheyenne",
+  "last_name": "Hilll",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1989-09-24T15:37:16.451Z"
+  },
+  "contact_details": {
+    "address": "13142 Deondre Square",
+    "postcode": "J05 70E",
+    "contact_number": "+44 41100 81480",
+    "email": "Christy38@yahoo.com",
+    "emergency_contact": {
+      "name": "Albert Stehr",
+      "contact_number": "+44 07350 21572"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2012-12-19T16:38:52.952Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 9225
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-12-09T01:57:16.339Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "first_name": "Lewis",
+  "last_name": "Morar",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1994-04-30T15:34:02.187Z"
+  },
+  "contact_details": {
+    "address": "58586 Peyton Parks",
+    "postcode": "M68 446",
+    "contact_number": "+44 35820 45893",
+    "email": "Jessika87@hotmail.com",
+    "emergency_contact": {
+      "name": "Miss Angelina Schultz",
+      "contact_number": "+44 51991 36833"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2021-01-01T06:47:15.324Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 3374
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-12-07T03:31:37.522Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "first_name": "Nicolas",
+  "last_name": "Collier",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "2003-08-16T03:40:46.614Z"
+  },
+  "contact_details": {
+    "address": "733 Rashad Trail",
+    "postcode": "H32 1QO",
+    "contact_number": "+44 52987 29404",
+    "email": "Cyrus.Jaskolski@hotmail.com",
+    "emergency_contact": {
+      "name": "Willie Champlin",
+      "contact_number": "+44 43996 00654"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2016-03-07T16:31:13.605Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 2234
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-14T07:56:14.700Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "first_name": "Gillian",
+  "last_name": "Leffler",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1972-11-01T06:01:00.619Z"
+  },
+  "contact_details": {
+    "address": "31457 Lillian Courts",
+    "postcode": "U36 Z9P",
+    "contact_number": "+44 65540 52554",
+    "email": "Dixie_Barrows1@yahoo.com",
+    "emergency_contact": {
+      "name": "Mr. Rudolph Parker",
+      "contact_number": "+44 73390 19652"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2017-09-16T07:29:09.306Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 9322
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-26T09:56:02.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "first_name": "Ricardo",
+  "last_name": "Gutmann",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1987-02-16T21:15:06.386Z"
+  },
+  "contact_details": {
+    "address": "836 Alysa Circles",
+    "postcode": "C98 MG0",
+    "contact_number": "+44 13520 44464",
+    "email": "Emiliano67@hotmail.com",
+    "emergency_contact": {
+      "name": "Rex Muller",
+      "contact_number": "+44 69269 22278"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2015-01-13T07:40:23.440Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 5079
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-11-18T12:37:32.107Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "first_name": "Cynthia",
+  "last_name": "Casper",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1996-12-22T17:20:35.632Z"
+  },
+  "contact_details": {
+    "address": "6459 D'Amore Orchard",
+    "postcode": "V29 BT5",
+    "contact_number": "+44 19770 77883",
+    "email": "Isabelle38@gmail.com",
+    "emergency_contact": {
+      "name": "Percy Gleichner",
+      "contact_number": "+44 79875 19750"
+    }
+  },
+  "employment_record": {
+    "employment_type": "permanent",
+    "start_date": {
+      "$date": "2013-09-01T05:07:48.612Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 9097
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": true,
+    "evening_shift": true,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-03T16:33:35.818Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "first_name": "Arch",
+  "last_name": "Jacobs",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1984-12-31T03:56:01.943Z"
+  },
+  "contact_details": {
+    "address": "921 Ernser Field",
+    "postcode": "S56 212",
+    "contact_number": "+44 36517 21042",
+    "email": "August_Stiedemann@yahoo.com",
+    "emergency_contact": {
+      "name": "Jenna Will",
+      "contact_number": "+44 44944 66609"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2017-10-03T15:36:53.420Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2709
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": false,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-10T20:54:55.518Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "first_name": "Rahul",
+  "last_name": "Johns",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1994-06-08T09:05:56.633Z"
+  },
+  "contact_details": {
+    "address": "301 Bryon Plains",
+    "postcode": "Q64 F0J",
+    "contact_number": "+44 44903 63608",
+    "email": "Stanford_Grant38@hotmail.com",
+    "emergency_contact": {
+      "name": "Carlton Quigley II",
+      "contact_number": "+44 43191 58426"
+    }
+  },
+  "employment_record": {
+    "employment_type": "part-time",
+    "start_date": {
+      "$date": "2019-03-27T22:53:07.111Z"
+    }
+  },
+  "wage": {
+    "wage_type": "varied",
+    "salary": 4236
+  },
+  "shift": {
+    "morning_shift": false,
+    "noon_shift": false,
+    "evening_shift": true,
+    "midnight_shift": false
+  },
+  "last_update": {
+    "$date": "2022-10-26T22:21:43.442Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c740"
+  },
+  "first_name": "Celia",
+  "last_name": "Fahey",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1989-07-04T21:03:18.240Z"
+  },
+  "contact_details": {
+    "address": "80235 Reanna Knolls",
+    "postcode": "B81 4J7",
+    "contact_number": "+44 64377 49836",
+    "email": "August55@hotmail.com",
+    "emergency_contact": {
+      "name": "Mrs. Adam Baumbach",
+      "contact_number": "+44 03255 15478"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2018-11-10T09:26:22.196Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 4664
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-09-21T11:41:47.213Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "first_name": "Ferne",
+  "last_name": "Feeney",
+  "role": "driver",
+  "date_of_birth": {
+    "$date": "1994-10-27T09:13:59.759Z"
+  },
+  "contact_details": {
+    "address": "4777 Marjorie Shore",
+    "postcode": "A38 FUL",
+    "contact_number": "+44 82626 29649",
+    "email": "Alf95@gmail.com",
+    "emergency_contact": {
+      "name": "Jacob Roob III",
+      "contact_number": "+44 38000 75784"
+    }
+  },
+  "employment_record": {
+    "employment_type": "temporary",
+    "start_date": {
+      "$date": "2021-07-27T22:31:49.621Z"
+    }
+  },
+  "wage": {
+    "wage_type": "fixed",
+    "salary": 2163
+  },
+  "shift": {
+    "morning_shift": true,
+    "noon_shift": true,
+    "evening_shift": false,
+    "midnight_shift": true
+  },
+  "last_update": {
+    "$date": "2022-11-08T15:18:20.859Z"
+  },
+  "__v": 0
+}]

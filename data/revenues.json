@@ -1,0 +1,9773 @@
+[{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c05d"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c05a"
+  },
+  "year_month": 2212,
+  "money_earned": 3744,
+  "expenditure": 296,
+  "last_update": {
+    "$date": "2022-10-02T03:05:01.619Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c063"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "year_month": 2212,
+  "money_earned": 4480,
+  "expenditure": 275,
+  "last_update": {
+    "$date": "2022-11-29T22:34:05.512Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c066"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "year_month": 2211,
+  "money_earned": 1375,
+  "expenditure": 254,
+  "last_update": {
+    "$date": "2022-10-25T00:06:32.778Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c068"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "year_month": 2210,
+  "money_earned": 2290,
+  "expenditure": 269,
+  "last_update": {
+    "$date": "2022-10-18T21:29:25.921Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c06a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "year_month": 2209,
+  "money_earned": 1312,
+  "expenditure": 166,
+  "last_update": {
+    "$date": "2022-10-27T05:16:14.546Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c06c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "year_month": 2208,
+  "money_earned": 4884,
+  "expenditure": 140,
+  "last_update": {
+    "$date": "2022-12-09T18:32:14.609Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c06e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "year_month": 2207,
+  "money_earned": 3645,
+  "expenditure": 180,
+  "last_update": {
+    "$date": "2022-11-17T21:34:38.297Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c070"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "year_month": 2206,
+  "money_earned": 4466,
+  "expenditure": 193,
+  "last_update": {
+    "$date": "2022-10-17T10:59:46.386Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c072"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c060"
+  },
+  "year_month": 2205,
+  "money_earned": 1977,
+  "expenditure": 168,
+  "last_update": {
+    "$date": "2022-10-21T13:39:39.005Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c077"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2212,
+  "money_earned": 3911,
+  "expenditure": 225,
+  "last_update": {
+    "$date": "2022-09-29T04:33:05.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c07a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2211,
+  "money_earned": 1290,
+  "expenditure": 147,
+  "last_update": {
+    "$date": "2022-09-25T03:56:06.804Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c07c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2210,
+  "money_earned": 2141,
+  "expenditure": 193,
+  "last_update": {
+    "$date": "2022-11-14T22:13:42.074Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c07e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2209,
+  "money_earned": 1978,
+  "expenditure": 260,
+  "last_update": {
+    "$date": "2022-10-26T08:28:30.876Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c080"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2208,
+  "money_earned": 593,
+  "expenditure": 265,
+  "last_update": {
+    "$date": "2022-11-07T20:38:02.422Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c082"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2207,
+  "money_earned": 3034,
+  "expenditure": 251,
+  "last_update": {
+    "$date": "2022-09-29T10:06:18.174Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c084"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2206,
+  "money_earned": 3123,
+  "expenditure": 108,
+  "last_update": {
+    "$date": "2022-09-13T14:07:33.837Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c086"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2205,
+  "money_earned": 2846,
+  "expenditure": 215,
+  "last_update": {
+    "$date": "2022-11-16T01:17:59.563Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c088"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2204,
+  "money_earned": 1687,
+  "expenditure": 185,
+  "last_update": {
+    "$date": "2022-11-26T20:08:23.177Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c08a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2203,
+  "money_earned": 4177,
+  "expenditure": 270,
+  "last_update": {
+    "$date": "2022-09-18T13:08:07.727Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c08c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2202,
+  "money_earned": 1271,
+  "expenditure": 245,
+  "last_update": {
+    "$date": "2022-09-12T23:24:31.379Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c08e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c074"
+  },
+  "year_month": 2201,
+  "money_earned": 4980,
+  "expenditure": 159,
+  "last_update": {
+    "$date": "2022-10-13T07:15:15.152Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c093"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2212,
+  "money_earned": 3553,
+  "expenditure": 219,
+  "last_update": {
+    "$date": "2022-11-26T00:13:56.554Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c096"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2211,
+  "money_earned": 1973,
+  "expenditure": 239,
+  "last_update": {
+    "$date": "2022-11-01T23:52:34.825Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c098"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2210,
+  "money_earned": 4667,
+  "expenditure": 116,
+  "last_update": {
+    "$date": "2022-09-17T22:38:19.367Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c09a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2209,
+  "money_earned": 1193,
+  "expenditure": 138,
+  "last_update": {
+    "$date": "2022-11-26T01:23:42.344Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c09c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2208,
+  "money_earned": 990,
+  "expenditure": 249,
+  "last_update": {
+    "$date": "2022-10-25T20:33:07.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c09e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2207,
+  "money_earned": 2771,
+  "expenditure": 216,
+  "last_update": {
+    "$date": "2022-11-12T22:50:34.843Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0a0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2206,
+  "money_earned": 3859,
+  "expenditure": 159,
+  "last_update": {
+    "$date": "2022-10-31T19:19:46.404Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0a2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2205,
+  "money_earned": 4491,
+  "expenditure": 119,
+  "last_update": {
+    "$date": "2022-10-02T04:59:19.706Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0a4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2204,
+  "money_earned": 3560,
+  "expenditure": 209,
+  "last_update": {
+    "$date": "2022-12-01T23:51:25.736Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0a6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c090"
+  },
+  "year_month": 2203,
+  "money_earned": 1510,
+  "expenditure": 219,
+  "last_update": {
+    "$date": "2022-12-13T15:32:33.289Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0ab"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "year_month": 2212,
+  "money_earned": 3735,
+  "expenditure": 206,
+  "last_update": {
+    "$date": "2022-09-18T20:16:43.517Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0ae"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "year_month": 2211,
+  "money_earned": 1936,
+  "expenditure": 183,
+  "last_update": {
+    "$date": "2022-09-14T13:02:52.150Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0b0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "year_month": 2210,
+  "money_earned": 925,
+  "expenditure": 215,
+  "last_update": {
+    "$date": "2022-10-25T16:39:17.152Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0b2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "year_month": 2209,
+  "money_earned": 2101,
+  "expenditure": 187,
+  "last_update": {
+    "$date": "2022-09-08T08:13:27.066Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0b4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "year_month": 2208,
+  "money_earned": 1791,
+  "expenditure": 100,
+  "last_update": {
+    "$date": "2022-10-16T20:25:25.739Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0b6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "year_month": 2207,
+  "money_earned": 2768,
+  "expenditure": 122,
+  "last_update": {
+    "$date": "2022-09-15T21:21:20.571Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0b8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "year_month": 2206,
+  "money_earned": 2151,
+  "expenditure": 167,
+  "last_update": {
+    "$date": "2022-09-16T04:29:57.358Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0ba"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0a8"
+  },
+  "year_month": 2205,
+  "money_earned": 4399,
+  "expenditure": 161,
+  "last_update": {
+    "$date": "2022-09-18T22:44:17.335Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0bf"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0bc"
+  },
+  "year_month": 2212,
+  "money_earned": 1623,
+  "expenditure": 261,
+  "last_update": {
+    "$date": "2022-10-05T01:59:20.075Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0c2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0bc"
+  },
+  "year_month": 2211,
+  "money_earned": 1077,
+  "expenditure": 156,
+  "last_update": {
+    "$date": "2022-10-12T19:34:05.070Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0c4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0bc"
+  },
+  "year_month": 2210,
+  "money_earned": 1579,
+  "expenditure": 279,
+  "last_update": {
+    "$date": "2022-09-09T17:15:53.346Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0c6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0bc"
+  },
+  "year_month": 2209,
+  "money_earned": 3510,
+  "expenditure": 169,
+  "last_update": {
+    "$date": "2022-11-12T12:49:32.256Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0c8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0bc"
+  },
+  "year_month": 2208,
+  "money_earned": 1631,
+  "expenditure": 108,
+  "last_update": {
+    "$date": "2022-11-03T05:12:53.263Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0cd"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2212,
+  "money_earned": 4876,
+  "expenditure": 272,
+  "last_update": {
+    "$date": "2022-11-06T00:18:39.945Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0d0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2211,
+  "money_earned": 1347,
+  "expenditure": 143,
+  "last_update": {
+    "$date": "2022-09-07T20:34:19.581Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0d2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2210,
+  "money_earned": 3320,
+  "expenditure": 153,
+  "last_update": {
+    "$date": "2022-11-08T19:40:01.553Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0d4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2209,
+  "money_earned": 3464,
+  "expenditure": 289,
+  "last_update": {
+    "$date": "2022-11-14T17:48:13.124Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0d6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2208,
+  "money_earned": 4023,
+  "expenditure": 114,
+  "last_update": {
+    "$date": "2022-11-11T03:26:34.964Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0d8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2207,
+  "money_earned": 2392,
+  "expenditure": 183,
+  "last_update": {
+    "$date": "2022-10-18T07:10:00.316Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0da"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2206,
+  "money_earned": 3652,
+  "expenditure": 199,
+  "last_update": {
+    "$date": "2022-09-08T07:59:04.194Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0dc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2205,
+  "money_earned": 2359,
+  "expenditure": 277,
+  "last_update": {
+    "$date": "2022-09-26T19:12:02.617Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0de"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2204,
+  "money_earned": 3191,
+  "expenditure": 137,
+  "last_update": {
+    "$date": "2022-09-30T08:54:26.986Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0e0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2203,
+  "money_earned": 4708,
+  "expenditure": 160,
+  "last_update": {
+    "$date": "2022-09-25T05:02:02.839Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0e2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2202,
+  "money_earned": 4542,
+  "expenditure": 215,
+  "last_update": {
+    "$date": "2022-10-23T06:12:34.484Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0e4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0ca"
+  },
+  "year_month": 2201,
+  "money_earned": 729,
+  "expenditure": 199,
+  "last_update": {
+    "$date": "2022-10-26T13:43:18.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0e9"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0e6"
+  },
+  "year_month": 2212,
+  "money_earned": 4462,
+  "expenditure": 286,
+  "last_update": {
+    "$date": "2022-09-28T08:05:31.820Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0ec"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0e6"
+  },
+  "year_month": 2211,
+  "money_earned": 3775,
+  "expenditure": 267,
+  "last_update": {
+    "$date": "2022-12-08T22:49:16.070Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0ee"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0e6"
+  },
+  "year_month": 2210,
+  "money_earned": 4146,
+  "expenditure": 187,
+  "last_update": {
+    "$date": "2022-10-21T15:33:41.134Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0f0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0e6"
+  },
+  "year_month": 2209,
+  "money_earned": 2357,
+  "expenditure": 289,
+  "last_update": {
+    "$date": "2022-10-27T14:43:10.384Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0f5"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0f2"
+  },
+  "year_month": 2212,
+  "money_earned": 817,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-11-28T15:06:13.968Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0f8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0f2"
+  },
+  "year_month": 2211,
+  "money_earned": 2613,
+  "expenditure": 163,
+  "last_update": {
+    "$date": "2022-10-07T05:10:14.744Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0fa"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0f2"
+  },
+  "year_month": 2210,
+  "money_earned": 2011,
+  "expenditure": 142,
+  "last_update": {
+    "$date": "2022-11-21T01:38:28.091Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0fc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0f2"
+  },
+  "year_month": 2209,
+  "money_earned": 1832,
+  "expenditure": 122,
+  "last_update": {
+    "$date": "2022-10-13T05:07:10.147Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c0fe"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0f2"
+  },
+  "year_month": 2208,
+  "money_earned": 4958,
+  "expenditure": 275,
+  "last_update": {
+    "$date": "2022-10-09T19:31:33.944Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c100"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0f2"
+  },
+  "year_month": 2207,
+  "money_earned": 2739,
+  "expenditure": 206,
+  "last_update": {
+    "$date": "2022-10-01T23:30:56.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c102"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c0f2"
+  },
+  "year_month": 2206,
+  "money_earned": 1405,
+  "expenditure": 271,
+  "last_update": {
+    "$date": "2022-12-04T09:45:57.862Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c107"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2212,
+  "money_earned": 4584,
+  "expenditure": 257,
+  "last_update": {
+    "$date": "2022-10-11T17:13:24.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c10a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2211,
+  "money_earned": 2693,
+  "expenditure": 194,
+  "last_update": {
+    "$date": "2022-10-24T21:26:38.387Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c10c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2210,
+  "money_earned": 4771,
+  "expenditure": 214,
+  "last_update": {
+    "$date": "2022-11-02T14:22:41.466Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c10e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2209,
+  "money_earned": 4569,
+  "expenditure": 187,
+  "last_update": {
+    "$date": "2022-10-25T02:04:14.744Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c110"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2208,
+  "money_earned": 1466,
+  "expenditure": 246,
+  "last_update": {
+    "$date": "2022-11-02T05:29:04.771Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c112"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2207,
+  "money_earned": 4900,
+  "expenditure": 183,
+  "last_update": {
+    "$date": "2022-09-13T12:26:22.842Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c114"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2206,
+  "money_earned": 1894,
+  "expenditure": 261,
+  "last_update": {
+    "$date": "2022-10-23T14:50:01.607Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c116"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2205,
+  "money_earned": 3185,
+  "expenditure": 206,
+  "last_update": {
+    "$date": "2022-11-01T21:53:59.723Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c118"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2204,
+  "money_earned": 3462,
+  "expenditure": 125,
+  "last_update": {
+    "$date": "2022-12-09T23:54:01.460Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c11a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c104"
+  },
+  "year_month": 2203,
+  "money_earned": 1589,
+  "expenditure": 293,
+  "last_update": {
+    "$date": "2022-10-25T10:43:46.307Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c11f"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2212,
+  "money_earned": 3936,
+  "expenditure": 173,
+  "last_update": {
+    "$date": "2022-10-30T19:19:10.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c122"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2211,
+  "money_earned": 2941,
+  "expenditure": 298,
+  "last_update": {
+    "$date": "2022-10-02T07:18:43.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c124"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2210,
+  "money_earned": 1378,
+  "expenditure": 276,
+  "last_update": {
+    "$date": "2022-12-14T20:36:05.837Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c126"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2209,
+  "money_earned": 973,
+  "expenditure": 258,
+  "last_update": {
+    "$date": "2022-11-20T09:48:34.216Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c128"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2208,
+  "money_earned": 4833,
+  "expenditure": 123,
+  "last_update": {
+    "$date": "2022-09-12T15:57:07.877Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c12a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2207,
+  "money_earned": 3499,
+  "expenditure": 122,
+  "last_update": {
+    "$date": "2022-10-29T02:26:05.173Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c12c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2206,
+  "money_earned": 1356,
+  "expenditure": 171,
+  "last_update": {
+    "$date": "2022-09-13T17:16:19.439Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c12e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2205,
+  "money_earned": 577,
+  "expenditure": 288,
+  "last_update": {
+    "$date": "2022-11-20T17:32:12.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c130"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2204,
+  "money_earned": 4802,
+  "expenditure": 199,
+  "last_update": {
+    "$date": "2022-09-26T12:16:51.680Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c132"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2203,
+  "money_earned": 4608,
+  "expenditure": 116,
+  "last_update": {
+    "$date": "2022-10-11T21:44:46.761Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c134"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2202,
+  "money_earned": 3766,
+  "expenditure": 159,
+  "last_update": {
+    "$date": "2022-09-29T19:00:33.152Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c136"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2201,
+  "money_earned": 937,
+  "expenditure": 220,
+  "last_update": {
+    "$date": "2022-11-19T00:24:00.500Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c138"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c11c"
+  },
+  "year_month": 2112,
+  "money_earned": 2986,
+  "expenditure": 177,
+  "last_update": {
+    "$date": "2022-11-18T05:24:31.490Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c13d"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c13a"
+  },
+  "year_month": 2212,
+  "money_earned": 4411,
+  "expenditure": 274,
+  "last_update": {
+    "$date": "2022-09-19T01:50:42.193Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c140"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c13a"
+  },
+  "year_month": 2211,
+  "money_earned": 4532,
+  "expenditure": 104,
+  "last_update": {
+    "$date": "2022-11-21T04:43:14.477Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c145"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c142"
+  },
+  "year_month": 2212,
+  "money_earned": 3332,
+  "expenditure": 272,
+  "last_update": {
+    "$date": "2022-10-07T04:42:12.904Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c148"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c142"
+  },
+  "year_month": 2211,
+  "money_earned": 4380,
+  "expenditure": 159,
+  "last_update": {
+    "$date": "2022-09-18T22:46:34.977Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c14a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c142"
+  },
+  "year_month": 2210,
+  "money_earned": 1970,
+  "expenditure": 229,
+  "last_update": {
+    "$date": "2022-11-28T17:09:19.932Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c14c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c142"
+  },
+  "year_month": 2209,
+  "money_earned": 3556,
+  "expenditure": 135,
+  "last_update": {
+    "$date": "2022-11-30T05:27:42.634Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c14e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c142"
+  },
+  "year_month": 2208,
+  "money_earned": 3285,
+  "expenditure": 254,
+  "last_update": {
+    "$date": "2022-10-11T15:36:37.693Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c150"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c142"
+  },
+  "year_month": 2207,
+  "money_earned": 567,
+  "expenditure": 274,
+  "last_update": {
+    "$date": "2022-11-28T07:09:34.999Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c155"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2212,
+  "money_earned": 1501,
+  "expenditure": 114,
+  "last_update": {
+    "$date": "2022-12-08T11:17:19.508Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c158"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2211,
+  "money_earned": 1195,
+  "expenditure": 198,
+  "last_update": {
+    "$date": "2022-11-11T21:37:15.736Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c15a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2210,
+  "money_earned": 998,
+  "expenditure": 227,
+  "last_update": {
+    "$date": "2022-11-04T12:00:28.137Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c15c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2209,
+  "money_earned": 3272,
+  "expenditure": 220,
+  "last_update": {
+    "$date": "2022-09-09T04:57:55.486Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c15e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2208,
+  "money_earned": 4738,
+  "expenditure": 108,
+  "last_update": {
+    "$date": "2022-09-26T16:36:39.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c160"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2207,
+  "money_earned": 3845,
+  "expenditure": 256,
+  "last_update": {
+    "$date": "2022-11-24T01:26:20.139Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c162"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2206,
+  "money_earned": 908,
+  "expenditure": 257,
+  "last_update": {
+    "$date": "2022-10-31T00:56:49.068Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c164"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2205,
+  "money_earned": 3272,
+  "expenditure": 113,
+  "last_update": {
+    "$date": "2022-10-20T04:24:58.955Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c166"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2204,
+  "money_earned": 1876,
+  "expenditure": 291,
+  "last_update": {
+    "$date": "2022-10-24T00:36:59.239Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c168"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c152"
+  },
+  "year_month": 2203,
+  "money_earned": 556,
+  "expenditure": 191,
+  "last_update": {
+    "$date": "2022-11-29T18:43:47.022Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c16d"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2212,
+  "money_earned": 3952,
+  "expenditure": 254,
+  "last_update": {
+    "$date": "2022-10-07T06:12:58.942Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c170"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2211,
+  "money_earned": 4638,
+  "expenditure": 170,
+  "last_update": {
+    "$date": "2022-11-02T16:36:17.280Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c172"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2210,
+  "money_earned": 1435,
+  "expenditure": 104,
+  "last_update": {
+    "$date": "2022-10-26T18:19:40.344Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c174"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2209,
+  "money_earned": 4383,
+  "expenditure": 160,
+  "last_update": {
+    "$date": "2022-12-14T14:54:19.348Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c176"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2208,
+  "money_earned": 3182,
+  "expenditure": 119,
+  "last_update": {
+    "$date": "2022-11-07T05:22:22.777Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c178"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2207,
+  "money_earned": 3405,
+  "expenditure": 106,
+  "last_update": {
+    "$date": "2022-11-20T13:46:20.697Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c17a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2206,
+  "money_earned": 1008,
+  "expenditure": 210,
+  "last_update": {
+    "$date": "2022-11-06T11:32:17.418Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c17c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2205,
+  "money_earned": 4082,
+  "expenditure": 166,
+  "last_update": {
+    "$date": "2022-11-27T11:07:20.074Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c17e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2204,
+  "money_earned": 710,
+  "expenditure": 252,
+  "last_update": {
+    "$date": "2022-10-15T19:06:37.620Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c180"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2203,
+  "money_earned": 3302,
+  "expenditure": 258,
+  "last_update": {
+    "$date": "2022-10-23T15:56:35.600Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c182"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2202,
+  "money_earned": 3129,
+  "expenditure": 204,
+  "last_update": {
+    "$date": "2022-12-10T00:56:28.172Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c184"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c16a"
+  },
+  "year_month": 2201,
+  "money_earned": 4744,
+  "expenditure": 223,
+  "last_update": {
+    "$date": "2022-11-17T01:19:38.269Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c189"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c186"
+  },
+  "year_month": 2212,
+  "money_earned": 1222,
+  "expenditure": 128,
+  "last_update": {
+    "$date": "2022-11-09T21:18:22.616Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c18c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c186"
+  },
+  "year_month": 2211,
+  "money_earned": 1026,
+  "expenditure": 299,
+  "last_update": {
+    "$date": "2022-10-15T06:53:41.230Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c18e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c186"
+  },
+  "year_month": 2210,
+  "money_earned": 3850,
+  "expenditure": 248,
+  "last_update": {
+    "$date": "2022-10-09T16:33:06.182Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c190"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c186"
+  },
+  "year_month": 2209,
+  "money_earned": 3421,
+  "expenditure": 280,
+  "last_update": {
+    "$date": "2022-12-08T08:04:42.800Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c192"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c186"
+  },
+  "year_month": 2208,
+  "money_earned": 3953,
+  "expenditure": 216,
+  "last_update": {
+    "$date": "2022-10-22T09:25:06.132Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c194"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c186"
+  },
+  "year_month": 2207,
+  "money_earned": 4437,
+  "expenditure": 113,
+  "last_update": {
+    "$date": "2022-10-28T06:29:03.189Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c196"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c186"
+  },
+  "year_month": 2206,
+  "money_earned": 655,
+  "expenditure": 103,
+  "last_update": {
+    "$date": "2022-10-14T22:37:00.873Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c19b"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "year_month": 2212,
+  "money_earned": 2100,
+  "expenditure": 214,
+  "last_update": {
+    "$date": "2022-10-23T11:39:33.365Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c19e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "year_month": 2211,
+  "money_earned": 2743,
+  "expenditure": 291,
+  "last_update": {
+    "$date": "2022-10-24T06:29:17.320Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1a0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "year_month": 2210,
+  "money_earned": 1531,
+  "expenditure": 193,
+  "last_update": {
+    "$date": "2022-09-26T01:57:17.723Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1a2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "year_month": 2209,
+  "money_earned": 3156,
+  "expenditure": 217,
+  "last_update": {
+    "$date": "2022-11-01T19:27:57.754Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1a4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "year_month": 2208,
+  "money_earned": 2401,
+  "expenditure": 190,
+  "last_update": {
+    "$date": "2022-11-10T02:41:41.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1a6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "year_month": 2207,
+  "money_earned": 2805,
+  "expenditure": 285,
+  "last_update": {
+    "$date": "2022-11-20T12:02:11.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1a8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "year_month": 2206,
+  "money_earned": 4000,
+  "expenditure": 237,
+  "last_update": {
+    "$date": "2022-09-18T12:52:38.201Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1aa"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "year_month": 2205,
+  "money_earned": 3448,
+  "expenditure": 142,
+  "last_update": {
+    "$date": "2022-11-25T05:23:08.813Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1ac"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c198"
+  },
+  "year_month": 2204,
+  "money_earned": 2807,
+  "expenditure": 282,
+  "last_update": {
+    "$date": "2022-11-06T03:18:29.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1b1"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "year_month": 2212,
+  "money_earned": 3340,
+  "expenditure": 280,
+  "last_update": {
+    "$date": "2022-10-22T06:20:38.583Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1b4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "year_month": 2211,
+  "money_earned": 4123,
+  "expenditure": 258,
+  "last_update": {
+    "$date": "2022-12-03T01:31:38.748Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1b6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "year_month": 2210,
+  "money_earned": 2652,
+  "expenditure": 167,
+  "last_update": {
+    "$date": "2022-10-25T02:44:27.934Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1b8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "year_month": 2209,
+  "money_earned": 3352,
+  "expenditure": 300,
+  "last_update": {
+    "$date": "2022-12-03T10:17:55.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1ba"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "year_month": 2208,
+  "money_earned": 3659,
+  "expenditure": 168,
+  "last_update": {
+    "$date": "2022-09-15T21:28:50.049Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1bc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "year_month": 2207,
+  "money_earned": 4835,
+  "expenditure": 176,
+  "last_update": {
+    "$date": "2022-10-29T20:36:08.564Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1be"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "year_month": 2206,
+  "money_earned": 1700,
+  "expenditure": 270,
+  "last_update": {
+    "$date": "2022-09-22T15:27:51.907Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1c0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ae"
+  },
+  "year_month": 2205,
+  "money_earned": 2555,
+  "expenditure": 167,
+  "last_update": {
+    "$date": "2022-12-08T18:41:24.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1c5"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1c2"
+  },
+  "year_month": 2212,
+  "money_earned": 958,
+  "expenditure": 275,
+  "last_update": {
+    "$date": "2022-10-28T11:40:38.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1c8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1c2"
+  },
+  "year_month": 2211,
+  "money_earned": 1062,
+  "expenditure": 250,
+  "last_update": {
+    "$date": "2022-12-07T05:30:37.372Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1ca"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1c2"
+  },
+  "year_month": 2210,
+  "money_earned": 2718,
+  "expenditure": 288,
+  "last_update": {
+    "$date": "2022-09-08T04:14:58.305Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1cc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1c2"
+  },
+  "year_month": 2209,
+  "money_earned": 950,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-10-10T16:14:05.438Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1ce"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1c2"
+  },
+  "year_month": 2208,
+  "money_earned": 1533,
+  "expenditure": 105,
+  "last_update": {
+    "$date": "2022-10-05T06:40:59.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1d0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1c2"
+  },
+  "year_month": 2207,
+  "money_earned": 4658,
+  "expenditure": 134,
+  "last_update": {
+    "$date": "2022-10-21T06:55:06.872Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1d5"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1d2"
+  },
+  "year_month": 2212,
+  "money_earned": 3024,
+  "expenditure": 146,
+  "last_update": {
+    "$date": "2022-11-20T18:43:26.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1d8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1d2"
+  },
+  "year_month": 2211,
+  "money_earned": 4493,
+  "expenditure": 241,
+  "last_update": {
+    "$date": "2022-11-26T09:50:50.519Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1da"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1d2"
+  },
+  "year_month": 2210,
+  "money_earned": 3612,
+  "expenditure": 239,
+  "last_update": {
+    "$date": "2022-10-10T04:38:08.289Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1dc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1d2"
+  },
+  "year_month": 2209,
+  "money_earned": 1695,
+  "expenditure": 265,
+  "last_update": {
+    "$date": "2022-12-06T20:10:39.003Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1de"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1d2"
+  },
+  "year_month": 2208,
+  "money_earned": 1611,
+  "expenditure": 235,
+  "last_update": {
+    "$date": "2022-09-24T16:41:59.253Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1e3"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1e0"
+  },
+  "year_month": 2212,
+  "money_earned": 567,
+  "expenditure": 257,
+  "last_update": {
+    "$date": "2022-10-16T17:36:58.183Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1e6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1e0"
+  },
+  "year_month": 2211,
+  "money_earned": 1254,
+  "expenditure": 236,
+  "last_update": {
+    "$date": "2022-11-07T13:32:34.266Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1e8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1e0"
+  },
+  "year_month": 2210,
+  "money_earned": 3910,
+  "expenditure": 158,
+  "last_update": {
+    "$date": "2022-12-11T18:09:47.811Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1ed"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2212,
+  "money_earned": 2680,
+  "expenditure": 247,
+  "last_update": {
+    "$date": "2022-09-06T00:50:34.789Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1f0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2211,
+  "money_earned": 4410,
+  "expenditure": 197,
+  "last_update": {
+    "$date": "2022-11-05T03:05:27.568Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1f2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2210,
+  "money_earned": 4486,
+  "expenditure": 214,
+  "last_update": {
+    "$date": "2022-11-12T13:31:43.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1f4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2209,
+  "money_earned": 3601,
+  "expenditure": 102,
+  "last_update": {
+    "$date": "2022-10-18T05:57:03.259Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1f6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2208,
+  "money_earned": 1998,
+  "expenditure": 173,
+  "last_update": {
+    "$date": "2022-09-29T03:02:32.772Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1f8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2207,
+  "money_earned": 528,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-11-25T12:59:43.855Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1fa"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2206,
+  "money_earned": 1623,
+  "expenditure": 213,
+  "last_update": {
+    "$date": "2022-10-22T17:42:16.056Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1fc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2205,
+  "money_earned": 2030,
+  "expenditure": 182,
+  "last_update": {
+    "$date": "2022-12-02T20:54:47.021Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c1fe"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2204,
+  "money_earned": 3248,
+  "expenditure": 192,
+  "last_update": {
+    "$date": "2022-09-27T18:28:47.517Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c200"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2203,
+  "money_earned": 3231,
+  "expenditure": 294,
+  "last_update": {
+    "$date": "2022-10-15T15:53:05.509Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c202"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2202,
+  "money_earned": 1750,
+  "expenditure": 204,
+  "last_update": {
+    "$date": "2022-12-02T02:59:26.883Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c204"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2201,
+  "money_earned": 2979,
+  "expenditure": 100,
+  "last_update": {
+    "$date": "2022-09-08T05:44:12.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c206"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2112,
+  "money_earned": 1716,
+  "expenditure": 234,
+  "last_update": {
+    "$date": "2022-11-12T12:32:55.025Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c208"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c1ea"
+  },
+  "year_month": 2111,
+  "money_earned": 2520,
+  "expenditure": 224,
+  "last_update": {
+    "$date": "2022-12-05T18:38:02.669Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c20d"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c20a"
+  },
+  "year_month": 2212,
+  "money_earned": 3369,
+  "expenditure": 289,
+  "last_update": {
+    "$date": "2022-11-03T09:51:58.607Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c210"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c20a"
+  },
+  "year_month": 2211,
+  "money_earned": 4381,
+  "expenditure": 231,
+  "last_update": {
+    "$date": "2022-11-14T05:13:49.377Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c212"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c20a"
+  },
+  "year_month": 2210,
+  "money_earned": 1675,
+  "expenditure": 119,
+  "last_update": {
+    "$date": "2022-11-01T22:29:06.489Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c214"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c20a"
+  },
+  "year_month": 2209,
+  "money_earned": 3024,
+  "expenditure": 214,
+  "last_update": {
+    "$date": "2022-12-14T20:13:49.302Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c216"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c20a"
+  },
+  "year_month": 2208,
+  "money_earned": 667,
+  "expenditure": 239,
+  "last_update": {
+    "$date": "2022-09-18T02:08:38.361Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c218"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c20a"
+  },
+  "year_month": 2207,
+  "money_earned": 664,
+  "expenditure": 104,
+  "last_update": {
+    "$date": "2022-10-11T20:47:55.982Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c21d"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2212,
+  "money_earned": 2904,
+  "expenditure": 286,
+  "last_update": {
+    "$date": "2022-09-21T00:25:09.308Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c220"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2211,
+  "money_earned": 4260,
+  "expenditure": 107,
+  "last_update": {
+    "$date": "2022-10-03T02:55:12.232Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c222"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2210,
+  "money_earned": 3433,
+  "expenditure": 263,
+  "last_update": {
+    "$date": "2022-10-19T08:06:14.677Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c224"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2209,
+  "money_earned": 1301,
+  "expenditure": 294,
+  "last_update": {
+    "$date": "2022-11-26T04:49:09.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c226"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2208,
+  "money_earned": 2978,
+  "expenditure": 181,
+  "last_update": {
+    "$date": "2022-09-18T19:25:56.012Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c228"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2207,
+  "money_earned": 738,
+  "expenditure": 105,
+  "last_update": {
+    "$date": "2022-09-20T09:19:02.092Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c22a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2206,
+  "money_earned": 4238,
+  "expenditure": 166,
+  "last_update": {
+    "$date": "2022-11-04T00:39:20.133Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c22c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2205,
+  "money_earned": 2600,
+  "expenditure": 102,
+  "last_update": {
+    "$date": "2022-11-02T06:50:08.890Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c22e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2204,
+  "money_earned": 646,
+  "expenditure": 123,
+  "last_update": {
+    "$date": "2022-09-12T02:46:10.001Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c230"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2203,
+  "money_earned": 2821,
+  "expenditure": 139,
+  "last_update": {
+    "$date": "2022-11-11T21:29:00.993Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c232"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2202,
+  "money_earned": 2387,
+  "expenditure": 144,
+  "last_update": {
+    "$date": "2022-12-10T01:17:01.051Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c234"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2201,
+  "money_earned": 1247,
+  "expenditure": 291,
+  "last_update": {
+    "$date": "2022-10-25T22:20:06.044Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c236"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2112,
+  "money_earned": 2239,
+  "expenditure": 268,
+  "last_update": {
+    "$date": "2022-11-03T05:09:16.147Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c238"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c21a"
+  },
+  "year_month": 2111,
+  "money_earned": 553,
+  "expenditure": 146,
+  "last_update": {
+    "$date": "2022-11-29T10:33:31.085Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c23d"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c23a"
+  },
+  "year_month": 2212,
+  "money_earned": 2422,
+  "expenditure": 284,
+  "last_update": {
+    "$date": "2022-10-11T08:22:14.125Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c243"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c240"
+  },
+  "year_month": 2212,
+  "money_earned": 4899,
+  "expenditure": 263,
+  "last_update": {
+    "$date": "2022-10-26T07:26:26.760Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c246"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c240"
+  },
+  "year_month": 2211,
+  "money_earned": 3640,
+  "expenditure": 215,
+  "last_update": {
+    "$date": "2022-11-15T21:49:26.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c248"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c240"
+  },
+  "year_month": 2210,
+  "money_earned": 2115,
+  "expenditure": 272,
+  "last_update": {
+    "$date": "2022-12-06T11:04:17.415Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c24d"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c24a"
+  },
+  "year_month": 2212,
+  "money_earned": 3816,
+  "expenditure": 157,
+  "last_update": {
+    "$date": "2022-11-24T22:41:19.266Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c250"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c24a"
+  },
+  "year_month": 2211,
+  "money_earned": 1785,
+  "expenditure": 152,
+  "last_update": {
+    "$date": "2022-09-18T12:38:01.680Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c252"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c24a"
+  },
+  "year_month": 2210,
+  "money_earned": 2168,
+  "expenditure": 160,
+  "last_update": {
+    "$date": "2022-10-07T07:52:14.933Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c254"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c24a"
+  },
+  "year_month": 2209,
+  "money_earned": 3152,
+  "expenditure": 225,
+  "last_update": {
+    "$date": "2022-12-08T03:00:05.603Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c259"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c256"
+  },
+  "year_month": 2212,
+  "money_earned": 3597,
+  "expenditure": 293,
+  "last_update": {
+    "$date": "2022-09-16T09:10:38.591Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c25c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c256"
+  },
+  "year_month": 2211,
+  "money_earned": 935,
+  "expenditure": 177,
+  "last_update": {
+    "$date": "2022-10-19T18:45:43.572Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c25e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c256"
+  },
+  "year_month": 2210,
+  "money_earned": 562,
+  "expenditure": 239,
+  "last_update": {
+    "$date": "2022-10-12T05:23:28.131Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c260"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c256"
+  },
+  "year_month": 2209,
+  "money_earned": 1440,
+  "expenditure": 150,
+  "last_update": {
+    "$date": "2022-09-06T22:28:54Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c262"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c256"
+  },
+  "year_month": 2208,
+  "money_earned": 1003,
+  "expenditure": 151,
+  "last_update": {
+    "$date": "2022-09-15T10:15:51.449Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c26b"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c267"
+  },
+  "year_month": 2212,
+  "money_earned": 1155,
+  "expenditure": 186,
+  "last_update": {
+    "$date": "2022-10-21T06:30:53.630Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c26e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c267"
+  },
+  "year_month": 2211,
+  "money_earned": 1864,
+  "expenditure": 206,
+  "last_update": {
+    "$date": "2022-09-23T08:09:34.737Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c270"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c267"
+  },
+  "year_month": 2210,
+  "money_earned": 4211,
+  "expenditure": 200,
+  "last_update": {
+    "$date": "2022-09-27T05:29:40.670Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c272"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c267"
+  },
+  "year_month": 2209,
+  "money_earned": 2998,
+  "expenditure": 240,
+  "last_update": {
+    "$date": "2022-10-17T17:10:06.104Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c274"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c267"
+  },
+  "year_month": 2208,
+  "money_earned": 4852,
+  "expenditure": 206,
+  "last_update": {
+    "$date": "2022-10-06T21:01:46.006Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c276"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c267"
+  },
+  "year_month": 2207,
+  "money_earned": 1043,
+  "expenditure": 240,
+  "last_update": {
+    "$date": "2022-11-17T13:14:52.692Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c278"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c267"
+  },
+  "year_month": 2206,
+  "money_earned": 3310,
+  "expenditure": 113,
+  "last_update": {
+    "$date": "2022-11-10T11:45:41.070Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c27d"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2212,
+  "money_earned": 4476,
+  "expenditure": 133,
+  "last_update": {
+    "$date": "2022-10-14T20:50:35.332Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c280"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2211,
+  "money_earned": 4033,
+  "expenditure": 213,
+  "last_update": {
+    "$date": "2022-11-07T04:16:24.006Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c282"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2210,
+  "money_earned": 1404,
+  "expenditure": 254,
+  "last_update": {
+    "$date": "2022-10-25T00:04:04.365Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c284"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2209,
+  "money_earned": 3984,
+  "expenditure": 247,
+  "last_update": {
+    "$date": "2022-10-23T21:22:57.303Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c286"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2208,
+  "money_earned": 3180,
+  "expenditure": 152,
+  "last_update": {
+    "$date": "2022-11-10T20:03:01.244Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c288"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2207,
+  "money_earned": 4951,
+  "expenditure": 230,
+  "last_update": {
+    "$date": "2022-10-31T15:26:07.849Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c28a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2206,
+  "money_earned": 4239,
+  "expenditure": 223,
+  "last_update": {
+    "$date": "2022-12-06T03:43:48.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c28c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2205,
+  "money_earned": 4205,
+  "expenditure": 104,
+  "last_update": {
+    "$date": "2022-10-21T14:31:21.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c28e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2204,
+  "money_earned": 4547,
+  "expenditure": 141,
+  "last_update": {
+    "$date": "2022-10-25T08:00:58.894Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c290"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c27a"
+  },
+  "year_month": 2203,
+  "money_earned": 3894,
+  "expenditure": 227,
+  "last_update": {
+    "$date": "2022-10-26T19:13:18.213Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c295"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c292"
+  },
+  "year_month": 2212,
+  "money_earned": 4076,
+  "expenditure": 175,
+  "last_update": {
+    "$date": "2022-10-30T19:55:01.892Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c298"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c292"
+  },
+  "year_month": 2211,
+  "money_earned": 4177,
+  "expenditure": 147,
+  "last_update": {
+    "$date": "2022-10-06T21:00:29.496Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c29a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c292"
+  },
+  "year_month": 2210,
+  "money_earned": 2243,
+  "expenditure": 254,
+  "last_update": {
+    "$date": "2022-09-19T04:20:42.944Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c29c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c292"
+  },
+  "year_month": 2209,
+  "money_earned": 2120,
+  "expenditure": 291,
+  "last_update": {
+    "$date": "2022-10-27T11:22:19.831Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c29e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c292"
+  },
+  "year_month": 2208,
+  "money_earned": 3512,
+  "expenditure": 182,
+  "last_update": {
+    "$date": "2022-09-23T04:58:22.682Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2a0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c292"
+  },
+  "year_month": 2207,
+  "money_earned": 2503,
+  "expenditure": 297,
+  "last_update": {
+    "$date": "2022-11-22T06:05:53.732Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2a5"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2a2"
+  },
+  "year_month": 2212,
+  "money_earned": 3420,
+  "expenditure": 128,
+  "last_update": {
+    "$date": "2022-11-17T13:57:50.837Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2a8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2a2"
+  },
+  "year_month": 2211,
+  "money_earned": 503,
+  "expenditure": 205,
+  "last_update": {
+    "$date": "2022-10-01T20:29:07.015Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2aa"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2a2"
+  },
+  "year_month": 2210,
+  "money_earned": 4783,
+  "expenditure": 169,
+  "last_update": {
+    "$date": "2022-11-05T11:16:21.045Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2af"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ac"
+  },
+  "year_month": 2212,
+  "money_earned": 3008,
+  "expenditure": 167,
+  "last_update": {
+    "$date": "2022-12-11T11:36:32.616Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2b2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ac"
+  },
+  "year_month": 2211,
+  "money_earned": 2483,
+  "expenditure": 151,
+  "last_update": {
+    "$date": "2022-11-22T11:27:08.285Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2b4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ac"
+  },
+  "year_month": 2210,
+  "money_earned": 3691,
+  "expenditure": 290,
+  "last_update": {
+    "$date": "2022-09-07T08:47:50.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2b6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ac"
+  },
+  "year_month": 2209,
+  "money_earned": 2137,
+  "expenditure": 206,
+  "last_update": {
+    "$date": "2022-11-02T00:53:46.373Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2b8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ac"
+  },
+  "year_month": 2208,
+  "money_earned": 625,
+  "expenditure": 140,
+  "last_update": {
+    "$date": "2022-09-23T23:52:31.829Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2ba"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ac"
+  },
+  "year_month": 2207,
+  "money_earned": 1559,
+  "expenditure": 131,
+  "last_update": {
+    "$date": "2022-10-18T23:56:45.345Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2bc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ac"
+  },
+  "year_month": 2206,
+  "money_earned": 1833,
+  "expenditure": 131,
+  "last_update": {
+    "$date": "2022-10-21T02:26:58.953Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2c1"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2be"
+  },
+  "year_month": 2212,
+  "money_earned": 858,
+  "expenditure": 147,
+  "last_update": {
+    "$date": "2022-11-09T04:54:29.119Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2c4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2be"
+  },
+  "year_month": 2211,
+  "money_earned": 832,
+  "expenditure": 252,
+  "last_update": {
+    "$date": "2022-11-03T06:02:12.870Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2c6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2be"
+  },
+  "year_month": 2210,
+  "money_earned": 846,
+  "expenditure": 129,
+  "last_update": {
+    "$date": "2022-10-14T15:37:33.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2c8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2be"
+  },
+  "year_month": 2209,
+  "money_earned": 2418,
+  "expenditure": 146,
+  "last_update": {
+    "$date": "2022-11-27T17:32:04.383Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2ca"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2be"
+  },
+  "year_month": 2208,
+  "money_earned": 4039,
+  "expenditure": 222,
+  "last_update": {
+    "$date": "2022-11-30T03:24:59.223Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2cc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2be"
+  },
+  "year_month": 2207,
+  "money_earned": 912,
+  "expenditure": 241,
+  "last_update": {
+    "$date": "2022-11-28T02:45:02.320Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2d1"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ce"
+  },
+  "year_month": 2212,
+  "money_earned": 4110,
+  "expenditure": 299,
+  "last_update": {
+    "$date": "2022-12-12T18:17:16.145Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2d4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ce"
+  },
+  "year_month": 2211,
+  "money_earned": 2341,
+  "expenditure": 286,
+  "last_update": {
+    "$date": "2022-10-11T22:09:40.048Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2d9"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "year_month": 2212,
+  "money_earned": 2405,
+  "expenditure": 234,
+  "last_update": {
+    "$date": "2022-10-18T10:24:16.115Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2dc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "year_month": 2211,
+  "money_earned": 3313,
+  "expenditure": 290,
+  "last_update": {
+    "$date": "2022-10-30T06:56:48.305Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2de"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "year_month": 2210,
+  "money_earned": 4454,
+  "expenditure": 261,
+  "last_update": {
+    "$date": "2022-11-17T19:39:21.255Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2e0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "year_month": 2209,
+  "money_earned": 2749,
+  "expenditure": 137,
+  "last_update": {
+    "$date": "2022-09-19T20:00:08.119Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2e2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "year_month": 2208,
+  "money_earned": 2337,
+  "expenditure": 145,
+  "last_update": {
+    "$date": "2022-09-21T12:05:18.452Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2e4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "year_month": 2207,
+  "money_earned": 4381,
+  "expenditure": 128,
+  "last_update": {
+    "$date": "2022-09-07T20:41:55.326Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2e6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "year_month": 2206,
+  "money_earned": 3195,
+  "expenditure": 150,
+  "last_update": {
+    "$date": "2022-11-01T21:27:55.640Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2e8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2d6"
+  },
+  "year_month": 2205,
+  "money_earned": 4662,
+  "expenditure": 208,
+  "last_update": {
+    "$date": "2022-12-03T14:10:31.602Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2ed"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "year_month": 2212,
+  "money_earned": 2087,
+  "expenditure": 281,
+  "last_update": {
+    "$date": "2022-10-03T13:32:37.274Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2f0"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "year_month": 2211,
+  "money_earned": 4066,
+  "expenditure": 119,
+  "last_update": {
+    "$date": "2022-12-07T11:36:37.683Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2f2"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "year_month": 2210,
+  "money_earned": 4441,
+  "expenditure": 264,
+  "last_update": {
+    "$date": "2022-10-30T10:54:00.911Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2f4"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "year_month": 2209,
+  "money_earned": 1873,
+  "expenditure": 141,
+  "last_update": {
+    "$date": "2022-10-25T07:04:20.412Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2f6"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "year_month": 2208,
+  "money_earned": 2215,
+  "expenditure": 299,
+  "last_update": {
+    "$date": "2022-09-27T11:15:40.056Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2f8"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "year_month": 2207,
+  "money_earned": 4912,
+  "expenditure": 173,
+  "last_update": {
+    "$date": "2022-11-05T10:34:10.626Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2fa"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "year_month": 2206,
+  "money_earned": 4272,
+  "expenditure": 241,
+  "last_update": {
+    "$date": "2022-12-06T18:14:04.130Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2fc"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "year_month": 2205,
+  "money_earned": 2370,
+  "expenditure": 159,
+  "last_update": {
+    "$date": "2022-11-03T08:32:22.792Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c2fe"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c2ea"
+  },
+  "year_month": 2204,
+  "money_earned": 2838,
+  "expenditure": 144,
+  "last_update": {
+    "$date": "2022-11-10T18:17:59.539Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c303"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "year_month": 2212,
+  "money_earned": 1864,
+  "expenditure": 255,
+  "last_update": {
+    "$date": "2022-10-08T07:21:23.710Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c306"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "year_month": 2211,
+  "money_earned": 4955,
+  "expenditure": 156,
+  "last_update": {
+    "$date": "2022-11-21T17:33:28.671Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c308"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "year_month": 2210,
+  "money_earned": 3673,
+  "expenditure": 112,
+  "last_update": {
+    "$date": "2022-11-04T11:17:33.793Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c30a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "year_month": 2209,
+  "money_earned": 1478,
+  "expenditure": 214,
+  "last_update": {
+    "$date": "2022-11-15T02:53:02.265Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c30c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "year_month": 2208,
+  "money_earned": 2760,
+  "expenditure": 146,
+  "last_update": {
+    "$date": "2022-12-13T02:09:47.282Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c30e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "year_month": 2207,
+  "money_earned": 3831,
+  "expenditure": 264,
+  "last_update": {
+    "$date": "2022-12-02T03:02:19.857Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c310"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "year_month": 2206,
+  "money_earned": 947,
+  "expenditure": 113,
+  "last_update": {
+    "$date": "2022-09-17T23:30:54.939Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c312"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "year_month": 2205,
+  "money_earned": 1685,
+  "expenditure": 195,
+  "last_update": {
+    "$date": "2022-12-09T16:48:00.787Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c314"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c300"
+  },
+  "year_month": 2204,
+  "money_earned": 612,
+  "expenditure": 104,
+  "last_update": {
+    "$date": "2022-10-10T10:51:22.413Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c319"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c316"
+  },
+  "year_month": 2212,
+  "money_earned": 4626,
+  "expenditure": 166,
+  "last_update": {
+    "$date": "2022-11-15T06:16:24.584Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c31c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c316"
+  },
+  "year_month": 2211,
+  "money_earned": 3561,
+  "expenditure": 266,
+  "last_update": {
+    "$date": "2022-10-19T14:59:59.260Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c31e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c316"
+  },
+  "year_month": 2210,
+  "money_earned": 2849,
+  "expenditure": 144,
+  "last_update": {
+    "$date": "2022-12-04T11:40:09.741Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c320"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c316"
+  },
+  "year_month": 2209,
+  "money_earned": 2908,
+  "expenditure": 233,
+  "last_update": {
+    "$date": "2022-11-11T20:34:39.586Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c322"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c316"
+  },
+  "year_month": 2208,
+  "money_earned": 892,
+  "expenditure": 195,
+  "last_update": {
+    "$date": "2022-10-10T07:14:22.621Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c324"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c316"
+  },
+  "year_month": 2207,
+  "money_earned": 4340,
+  "expenditure": 220,
+  "last_update": {
+    "$date": "2022-10-21T23:17:04.808Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c326"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c316"
+  },
+  "year_month": 2206,
+  "money_earned": 2759,
+  "expenditure": 275,
+  "last_update": {
+    "$date": "2022-12-11T22:12:45.852Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c32b"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2212,
+  "money_earned": 575,
+  "expenditure": 154,
+  "last_update": {
+    "$date": "2022-09-24T15:26:25.050Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c32e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2211,
+  "money_earned": 941,
+  "expenditure": 134,
+  "last_update": {
+    "$date": "2022-11-29T16:44:31.523Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c330"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2210,
+  "money_earned": 3707,
+  "expenditure": 207,
+  "last_update": {
+    "$date": "2022-10-14T01:33:35.216Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c332"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2209,
+  "money_earned": 2804,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-09-19T06:55:59.178Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c334"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2208,
+  "money_earned": 4434,
+  "expenditure": 293,
+  "last_update": {
+    "$date": "2022-12-01T14:40:26.055Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c336"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2207,
+  "money_earned": 2571,
+  "expenditure": 161,
+  "last_update": {
+    "$date": "2022-10-17T10:50:08.847Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b673973f2a54147c338"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2206,
+  "money_earned": 4309,
+  "expenditure": 291,
+  "last_update": {
+    "$date": "2022-09-29T03:00:50.079Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c33a"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2205,
+  "money_earned": 530,
+  "expenditure": 152,
+  "last_update": {
+    "$date": "2022-12-02T08:50:14.024Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c33c"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2204,
+  "money_earned": 604,
+  "expenditure": 144,
+  "last_update": {
+    "$date": "2022-10-29T19:38:06.014Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c33e"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2203,
+  "money_earned": 4596,
+  "expenditure": 146,
+  "last_update": {
+    "$date": "2022-09-27T07:32:54.061Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c340"
+  },
+  "driver_id": {
+    "$oid": "639a4b673973f2a54147c328"
+  },
+  "year_month": 2202,
+  "money_earned": 2576,
+  "expenditure": 129,
+  "last_update": {
+    "$date": "2022-10-27T08:15:34.076Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c345"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c342"
+  },
+  "year_month": 2212,
+  "money_earned": 3567,
+  "expenditure": 121,
+  "last_update": {
+    "$date": "2022-11-03T02:56:09.432Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c348"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c342"
+  },
+  "year_month": 2211,
+  "money_earned": 1462,
+  "expenditure": 165,
+  "last_update": {
+    "$date": "2022-10-25T12:54:37.271Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c34a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c342"
+  },
+  "year_month": 2210,
+  "money_earned": 2424,
+  "expenditure": 272,
+  "last_update": {
+    "$date": "2022-11-14T06:03:46.947Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c34c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c342"
+  },
+  "year_month": 2209,
+  "money_earned": 2242,
+  "expenditure": 139,
+  "last_update": {
+    "$date": "2022-11-06T09:32:54.557Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c34e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c342"
+  },
+  "year_month": 2208,
+  "money_earned": 4108,
+  "expenditure": 271,
+  "last_update": {
+    "$date": "2022-11-27T02:33:50.062Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c357"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c353"
+  },
+  "year_month": 2212,
+  "money_earned": 2251,
+  "expenditure": 156,
+  "last_update": {
+    "$date": "2022-10-08T08:00:20.495Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c35a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c353"
+  },
+  "year_month": 2211,
+  "money_earned": 4056,
+  "expenditure": 269,
+  "last_update": {
+    "$date": "2022-10-28T17:36:02.525Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c35c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c353"
+  },
+  "year_month": 2210,
+  "money_earned": 4768,
+  "expenditure": 170,
+  "last_update": {
+    "$date": "2022-11-03T00:58:32.470Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c35e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c353"
+  },
+  "year_month": 2209,
+  "money_earned": 762,
+  "expenditure": 220,
+  "last_update": {
+    "$date": "2022-09-21T00:27:17.694Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c363"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2212,
+  "money_earned": 4390,
+  "expenditure": 171,
+  "last_update": {
+    "$date": "2022-10-11T20:22:20.379Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c366"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2211,
+  "money_earned": 4898,
+  "expenditure": 246,
+  "last_update": {
+    "$date": "2022-09-26T01:44:01.635Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c368"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2210,
+  "money_earned": 4544,
+  "expenditure": 154,
+  "last_update": {
+    "$date": "2022-10-05T13:50:45.554Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c36a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2209,
+  "money_earned": 4885,
+  "expenditure": 251,
+  "last_update": {
+    "$date": "2022-12-13T13:40:47.710Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c36c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2208,
+  "money_earned": 4678,
+  "expenditure": 224,
+  "last_update": {
+    "$date": "2022-09-09T11:07:57.602Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c36e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2207,
+  "money_earned": 3008,
+  "expenditure": 248,
+  "last_update": {
+    "$date": "2022-11-04T05:37:54.892Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c370"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2206,
+  "money_earned": 934,
+  "expenditure": 160,
+  "last_update": {
+    "$date": "2022-11-28T07:46:50.265Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c372"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2205,
+  "money_earned": 4206,
+  "expenditure": 119,
+  "last_update": {
+    "$date": "2022-09-27T01:37:04.275Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c374"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2204,
+  "money_earned": 2766,
+  "expenditure": 173,
+  "last_update": {
+    "$date": "2022-12-01T23:10:05.829Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c376"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c360"
+  },
+  "year_month": 2203,
+  "money_earned": 1503,
+  "expenditure": 249,
+  "last_update": {
+    "$date": "2022-09-17T11:48:33.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c37b"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2212,
+  "money_earned": 3089,
+  "expenditure": 258,
+  "last_update": {
+    "$date": "2022-11-22T00:00:37.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c37e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2211,
+  "money_earned": 3211,
+  "expenditure": 274,
+  "last_update": {
+    "$date": "2022-11-15T05:07:27.779Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c380"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2210,
+  "money_earned": 3654,
+  "expenditure": 273,
+  "last_update": {
+    "$date": "2022-09-28T21:26:03.872Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c382"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2209,
+  "money_earned": 3651,
+  "expenditure": 166,
+  "last_update": {
+    "$date": "2022-09-16T11:04:35.191Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c384"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2208,
+  "money_earned": 2986,
+  "expenditure": 265,
+  "last_update": {
+    "$date": "2022-10-21T21:17:31.714Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c386"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2207,
+  "money_earned": 555,
+  "expenditure": 252,
+  "last_update": {
+    "$date": "2022-09-09T10:22:42.906Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c388"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2206,
+  "money_earned": 4527,
+  "expenditure": 248,
+  "last_update": {
+    "$date": "2022-11-18T08:39:00.788Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c38a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2205,
+  "money_earned": 4213,
+  "expenditure": 243,
+  "last_update": {
+    "$date": "2022-09-19T22:14:56.653Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c38c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2204,
+  "money_earned": 3075,
+  "expenditure": 219,
+  "last_update": {
+    "$date": "2022-10-17T22:31:00.131Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c38e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2203,
+  "money_earned": 1276,
+  "expenditure": 201,
+  "last_update": {
+    "$date": "2022-11-11T21:41:52.859Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c390"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c378"
+  },
+  "year_month": 2202,
+  "money_earned": 3402,
+  "expenditure": 122,
+  "last_update": {
+    "$date": "2022-10-02T08:07:38.813Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c395"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c392"
+  },
+  "year_month": 2212,
+  "money_earned": 2605,
+  "expenditure": 243,
+  "last_update": {
+    "$date": "2022-11-07T04:46:22.860Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c398"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c392"
+  },
+  "year_month": 2211,
+  "money_earned": 1717,
+  "expenditure": 150,
+  "last_update": {
+    "$date": "2022-11-26T10:52:47.987Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c39a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c392"
+  },
+  "year_month": 2210,
+  "money_earned": 4345,
+  "expenditure": 284,
+  "last_update": {
+    "$date": "2022-10-06T10:16:54.793Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c39c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c392"
+  },
+  "year_month": 2209,
+  "money_earned": 1105,
+  "expenditure": 180,
+  "last_update": {
+    "$date": "2022-10-05T19:59:07.316Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c39e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c392"
+  },
+  "year_month": 2208,
+  "money_earned": 826,
+  "expenditure": 289,
+  "last_update": {
+    "$date": "2022-10-22T18:47:22.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3a0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c392"
+  },
+  "year_month": 2207,
+  "money_earned": 1268,
+  "expenditure": 270,
+  "last_update": {
+    "$date": "2022-11-05T11:27:57.762Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3a5"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3a2"
+  },
+  "year_month": 2212,
+  "money_earned": 4625,
+  "expenditure": 191,
+  "last_update": {
+    "$date": "2022-11-16T11:58:53.033Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3a8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3a2"
+  },
+  "year_month": 2211,
+  "money_earned": 563,
+  "expenditure": 258,
+  "last_update": {
+    "$date": "2022-11-12T06:01:45.058Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3aa"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3a2"
+  },
+  "year_month": 2210,
+  "money_earned": 3289,
+  "expenditure": 129,
+  "last_update": {
+    "$date": "2022-09-27T23:31:48.717Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3af"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3ac"
+  },
+  "year_month": 2212,
+  "money_earned": 1899,
+  "expenditure": 199,
+  "last_update": {
+    "$date": "2022-10-21T01:24:06.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3b2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3ac"
+  },
+  "year_month": 2211,
+  "money_earned": 1945,
+  "expenditure": 233,
+  "last_update": {
+    "$date": "2022-09-25T03:05:33.589Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3b4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3ac"
+  },
+  "year_month": 2210,
+  "money_earned": 4621,
+  "expenditure": 272,
+  "last_update": {
+    "$date": "2022-11-09T08:19:49.372Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3b9"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3b6"
+  },
+  "year_month": 2212,
+  "money_earned": 2880,
+  "expenditure": 294,
+  "last_update": {
+    "$date": "2022-12-09T23:24:20.353Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3bc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3b6"
+  },
+  "year_month": 2211,
+  "money_earned": 660,
+  "expenditure": 146,
+  "last_update": {
+    "$date": "2022-09-19T00:40:48.451Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3c1"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "year_month": 2212,
+  "money_earned": 4620,
+  "expenditure": 111,
+  "last_update": {
+    "$date": "2022-09-16T17:52:42.981Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3c4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "year_month": 2211,
+  "money_earned": 2769,
+  "expenditure": 217,
+  "last_update": {
+    "$date": "2022-11-16T13:13:47.234Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3c6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "year_month": 2210,
+  "money_earned": 3993,
+  "expenditure": 271,
+  "last_update": {
+    "$date": "2022-10-07T02:58:13.247Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3c8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "year_month": 2209,
+  "money_earned": 2124,
+  "expenditure": 254,
+  "last_update": {
+    "$date": "2022-11-27T13:35:10.909Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3ca"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "year_month": 2208,
+  "money_earned": 1867,
+  "expenditure": 206,
+  "last_update": {
+    "$date": "2022-10-10T21:59:26.266Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3cc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "year_month": 2207,
+  "money_earned": 759,
+  "expenditure": 259,
+  "last_update": {
+    "$date": "2022-09-06T19:26:02.183Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3ce"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "year_month": 2206,
+  "money_earned": 1306,
+  "expenditure": 226,
+  "last_update": {
+    "$date": "2022-11-05T15:57:29.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3d0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "year_month": 2205,
+  "money_earned": 1393,
+  "expenditure": 141,
+  "last_update": {
+    "$date": "2022-11-06T06:46:35.570Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3d2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3be"
+  },
+  "year_month": 2204,
+  "money_earned": 782,
+  "expenditure": 284,
+  "last_update": {
+    "$date": "2022-09-12T09:45:42.113Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3d7"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "year_month": 2212,
+  "money_earned": 4966,
+  "expenditure": 162,
+  "last_update": {
+    "$date": "2022-09-09T16:44:07.758Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3da"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "year_month": 2211,
+  "money_earned": 1531,
+  "expenditure": 123,
+  "last_update": {
+    "$date": "2022-09-06T12:05:43.420Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3dc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "year_month": 2210,
+  "money_earned": 3940,
+  "expenditure": 270,
+  "last_update": {
+    "$date": "2022-12-09T06:32:41.342Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3de"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "year_month": 2209,
+  "money_earned": 505,
+  "expenditure": 138,
+  "last_update": {
+    "$date": "2022-09-27T19:48:11.419Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3e0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "year_month": 2208,
+  "money_earned": 4973,
+  "expenditure": 128,
+  "last_update": {
+    "$date": "2022-11-11T22:26:42.825Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3e2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "year_month": 2207,
+  "money_earned": 772,
+  "expenditure": 156,
+  "last_update": {
+    "$date": "2022-11-28T13:52:39.001Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3e4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "year_month": 2206,
+  "money_earned": 1795,
+  "expenditure": 239,
+  "last_update": {
+    "$date": "2022-09-11T03:55:41.645Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3e6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3d4"
+  },
+  "year_month": 2205,
+  "money_earned": 2325,
+  "expenditure": 132,
+  "last_update": {
+    "$date": "2022-10-20T13:30:44.423Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3eb"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "year_month": 2212,
+  "money_earned": 3042,
+  "expenditure": 199,
+  "last_update": {
+    "$date": "2022-12-01T22:23:00.750Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3ee"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "year_month": 2211,
+  "money_earned": 3485,
+  "expenditure": 240,
+  "last_update": {
+    "$date": "2022-11-05T23:16:54.216Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3f0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "year_month": 2210,
+  "money_earned": 4285,
+  "expenditure": 203,
+  "last_update": {
+    "$date": "2022-10-02T23:21:50.548Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3f2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "year_month": 2209,
+  "money_earned": 517,
+  "expenditure": 156,
+  "last_update": {
+    "$date": "2022-12-14T03:31:47.892Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3f4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "year_month": 2208,
+  "money_earned": 4380,
+  "expenditure": 166,
+  "last_update": {
+    "$date": "2022-09-23T01:04:57.355Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3f6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "year_month": 2207,
+  "money_earned": 3027,
+  "expenditure": 132,
+  "last_update": {
+    "$date": "2022-11-05T01:08:10.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3f8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "year_month": 2206,
+  "money_earned": 2152,
+  "expenditure": 109,
+  "last_update": {
+    "$date": "2022-10-15T04:09:24.353Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3fa"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3e8"
+  },
+  "year_month": 2205,
+  "money_earned": 2826,
+  "expenditure": 179,
+  "last_update": {
+    "$date": "2022-12-02T07:06:18.511Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c3ff"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3fc"
+  },
+  "year_month": 2212,
+  "money_earned": 2942,
+  "expenditure": 105,
+  "last_update": {
+    "$date": "2022-09-10T20:20:37.606Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c402"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3fc"
+  },
+  "year_month": 2211,
+  "money_earned": 3646,
+  "expenditure": 246,
+  "last_update": {
+    "$date": "2022-11-10T23:12:07.772Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c404"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3fc"
+  },
+  "year_month": 2210,
+  "money_earned": 1904,
+  "expenditure": 281,
+  "last_update": {
+    "$date": "2022-12-03T20:37:27.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c406"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3fc"
+  },
+  "year_month": 2209,
+  "money_earned": 1308,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-10-25T12:54:25.935Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c408"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c3fc"
+  },
+  "year_month": 2208,
+  "money_earned": 3774,
+  "expenditure": 260,
+  "last_update": {
+    "$date": "2022-10-07T22:30:44.235Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c411"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2212,
+  "money_earned": 4196,
+  "expenditure": 216,
+  "last_update": {
+    "$date": "2022-12-13T13:56:46.224Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c414"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2211,
+  "money_earned": 3384,
+  "expenditure": 193,
+  "last_update": {
+    "$date": "2022-09-11T08:55:09.875Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c416"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2210,
+  "money_earned": 686,
+  "expenditure": 251,
+  "last_update": {
+    "$date": "2022-11-04T14:35:09.844Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c418"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2209,
+  "money_earned": 4309,
+  "expenditure": 239,
+  "last_update": {
+    "$date": "2022-09-21T06:25:14.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c41a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2208,
+  "money_earned": 3888,
+  "expenditure": 116,
+  "last_update": {
+    "$date": "2022-11-12T11:34:17.467Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c41c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2207,
+  "money_earned": 3596,
+  "expenditure": 246,
+  "last_update": {
+    "$date": "2022-12-14T03:36:55.925Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c41e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2206,
+  "money_earned": 1934,
+  "expenditure": 263,
+  "last_update": {
+    "$date": "2022-12-04T13:21:05.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c420"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2205,
+  "money_earned": 2070,
+  "expenditure": 169,
+  "last_update": {
+    "$date": "2022-12-08T10:52:26.443Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c422"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2204,
+  "money_earned": 3112,
+  "expenditure": 162,
+  "last_update": {
+    "$date": "2022-11-17T21:06:29.844Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c424"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2203,
+  "money_earned": 937,
+  "expenditure": 274,
+  "last_update": {
+    "$date": "2022-09-19T17:43:21.757Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c426"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c40d"
+  },
+  "year_month": 2202,
+  "money_earned": 2835,
+  "expenditure": 186,
+  "last_update": {
+    "$date": "2022-10-17T19:19:32.141Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c42b"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "year_month": 2212,
+  "money_earned": 4570,
+  "expenditure": 202,
+  "last_update": {
+    "$date": "2022-11-18T02:28:19.288Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c42e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "year_month": 2211,
+  "money_earned": 3845,
+  "expenditure": 142,
+  "last_update": {
+    "$date": "2022-09-06T02:54:12.091Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c430"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "year_month": 2210,
+  "money_earned": 911,
+  "expenditure": 267,
+  "last_update": {
+    "$date": "2022-09-26T03:46:55.726Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c432"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "year_month": 2209,
+  "money_earned": 4395,
+  "expenditure": 249,
+  "last_update": {
+    "$date": "2022-10-11T04:36:10.155Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c434"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "year_month": 2208,
+  "money_earned": 3743,
+  "expenditure": 289,
+  "last_update": {
+    "$date": "2022-10-16T20:30:02.056Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c436"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "year_month": 2207,
+  "money_earned": 3286,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-10-18T02:55:30.339Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c438"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "year_month": 2206,
+  "money_earned": 3789,
+  "expenditure": 146,
+  "last_update": {
+    "$date": "2022-09-06T00:36:18.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c43a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "year_month": 2205,
+  "money_earned": 3075,
+  "expenditure": 298,
+  "last_update": {
+    "$date": "2022-09-24T17:17:07.247Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c43c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c428"
+  },
+  "year_month": 2204,
+  "money_earned": 3855,
+  "expenditure": 134,
+  "last_update": {
+    "$date": "2022-11-15T05:08:38.031Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c441"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c43e"
+  },
+  "year_month": 2212,
+  "money_earned": 3949,
+  "expenditure": 143,
+  "last_update": {
+    "$date": "2022-11-28T19:48:31.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c444"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c43e"
+  },
+  "year_month": 2211,
+  "money_earned": 1598,
+  "expenditure": 245,
+  "last_update": {
+    "$date": "2022-09-28T15:34:21.747Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c446"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c43e"
+  },
+  "year_month": 2210,
+  "money_earned": 4578,
+  "expenditure": 206,
+  "last_update": {
+    "$date": "2022-12-03T04:33:32.303Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c448"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c43e"
+  },
+  "year_month": 2209,
+  "money_earned": 4321,
+  "expenditure": 280,
+  "last_update": {
+    "$date": "2022-12-07T13:55:56.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c44a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c43e"
+  },
+  "year_month": 2208,
+  "money_earned": 4283,
+  "expenditure": 219,
+  "last_update": {
+    "$date": "2022-10-14T01:32:07.874Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c44f"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c44c"
+  },
+  "year_month": 2212,
+  "money_earned": 4623,
+  "expenditure": 133,
+  "last_update": {
+    "$date": "2022-12-13T06:48:33.307Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c452"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c44c"
+  },
+  "year_month": 2211,
+  "money_earned": 4500,
+  "expenditure": 277,
+  "last_update": {
+    "$date": "2022-09-22T04:29:20.099Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c45b"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2212,
+  "money_earned": 2093,
+  "expenditure": 119,
+  "last_update": {
+    "$date": "2022-10-21T06:05:06.530Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c45e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2211,
+  "money_earned": 2284,
+  "expenditure": 285,
+  "last_update": {
+    "$date": "2022-09-24T23:09:03.682Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c460"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2210,
+  "money_earned": 2519,
+  "expenditure": 251,
+  "last_update": {
+    "$date": "2022-12-05T00:31:53.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c462"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2209,
+  "money_earned": 3825,
+  "expenditure": 281,
+  "last_update": {
+    "$date": "2022-10-12T03:04:00.400Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c464"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2208,
+  "money_earned": 4505,
+  "expenditure": 259,
+  "last_update": {
+    "$date": "2022-10-02T18:07:21.449Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c466"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2207,
+  "money_earned": 1543,
+  "expenditure": 263,
+  "last_update": {
+    "$date": "2022-11-08T12:22:57.654Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c468"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2206,
+  "money_earned": 542,
+  "expenditure": 199,
+  "last_update": {
+    "$date": "2022-10-02T19:41:18.731Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c46a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2205,
+  "money_earned": 691,
+  "expenditure": 264,
+  "last_update": {
+    "$date": "2022-12-10T21:26:54.709Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c46c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2204,
+  "money_earned": 4075,
+  "expenditure": 219,
+  "last_update": {
+    "$date": "2022-12-13T17:21:40.562Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c46e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c457"
+  },
+  "year_month": 2203,
+  "money_earned": 3587,
+  "expenditure": 149,
+  "last_update": {
+    "$date": "2022-12-03T05:55:18.129Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c473"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2212,
+  "money_earned": 1683,
+  "expenditure": 190,
+  "last_update": {
+    "$date": "2022-12-13T15:11:27.284Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c476"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2211,
+  "money_earned": 4167,
+  "expenditure": 172,
+  "last_update": {
+    "$date": "2022-11-07T00:00:51.539Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c478"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2210,
+  "money_earned": 2748,
+  "expenditure": 244,
+  "last_update": {
+    "$date": "2022-10-02T11:02:29.389Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c47a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2209,
+  "money_earned": 3893,
+  "expenditure": 290,
+  "last_update": {
+    "$date": "2022-09-16T07:41:15.381Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c47c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2208,
+  "money_earned": 4699,
+  "expenditure": 259,
+  "last_update": {
+    "$date": "2022-12-01T13:38:49.358Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c47e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2207,
+  "money_earned": 1514,
+  "expenditure": 241,
+  "last_update": {
+    "$date": "2022-09-22T16:02:15.587Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c480"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2206,
+  "money_earned": 1458,
+  "expenditure": 123,
+  "last_update": {
+    "$date": "2022-10-19T02:25:48.435Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c482"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2205,
+  "money_earned": 4479,
+  "expenditure": 255,
+  "last_update": {
+    "$date": "2022-11-06T05:10:08.069Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c484"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2204,
+  "money_earned": 1064,
+  "expenditure": 114,
+  "last_update": {
+    "$date": "2022-09-10T22:15:58.183Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c486"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2203,
+  "money_earned": 3056,
+  "expenditure": 175,
+  "last_update": {
+    "$date": "2022-11-24T18:13:29.514Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c488"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2202,
+  "money_earned": 4750,
+  "expenditure": 210,
+  "last_update": {
+    "$date": "2022-11-11T21:03:40.874Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c48a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c470"
+  },
+  "year_month": 2201,
+  "money_earned": 972,
+  "expenditure": 156,
+  "last_update": {
+    "$date": "2022-12-10T17:04:29.800Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c48f"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c48c"
+  },
+  "year_month": 2212,
+  "money_earned": 4440,
+  "expenditure": 190,
+  "last_update": {
+    "$date": "2022-10-21T04:49:09.027Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c492"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c48c"
+  },
+  "year_month": 2211,
+  "money_earned": 4938,
+  "expenditure": 151,
+  "last_update": {
+    "$date": "2022-10-04T17:17:27.547Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c494"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c48c"
+  },
+  "year_month": 2210,
+  "money_earned": 2547,
+  "expenditure": 206,
+  "last_update": {
+    "$date": "2022-11-23T15:06:23.433Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c499"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c496"
+  },
+  "year_month": 2212,
+  "money_earned": 1496,
+  "expenditure": 251,
+  "last_update": {
+    "$date": "2022-09-13T12:01:11.043Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c49c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c496"
+  },
+  "year_month": 2211,
+  "money_earned": 2197,
+  "expenditure": 114,
+  "last_update": {
+    "$date": "2022-10-28T22:17:32.066Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c49e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c496"
+  },
+  "year_month": 2210,
+  "money_earned": 4115,
+  "expenditure": 138,
+  "last_update": {
+    "$date": "2022-10-27T07:58:44.782Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4a0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c496"
+  },
+  "year_month": 2209,
+  "money_earned": 1543,
+  "expenditure": 132,
+  "last_update": {
+    "$date": "2022-11-20T11:23:17.643Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4a2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c496"
+  },
+  "year_month": 2208,
+  "money_earned": 788,
+  "expenditure": 215,
+  "last_update": {
+    "$date": "2022-10-27T22:59:17.130Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4a7"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4a4"
+  },
+  "year_month": 2212,
+  "money_earned": 2467,
+  "expenditure": 202,
+  "last_update": {
+    "$date": "2022-10-05T08:17:06.210Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4aa"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4a4"
+  },
+  "year_month": 2211,
+  "money_earned": 4484,
+  "expenditure": 259,
+  "last_update": {
+    "$date": "2022-09-09T07:42:03.446Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4ac"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4a4"
+  },
+  "year_month": 2210,
+  "money_earned": 4105,
+  "expenditure": 106,
+  "last_update": {
+    "$date": "2022-11-25T15:36:18.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4ae"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4a4"
+  },
+  "year_month": 2209,
+  "money_earned": 685,
+  "expenditure": 204,
+  "last_update": {
+    "$date": "2022-09-11T19:27:13.623Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4b0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4a4"
+  },
+  "year_month": 2208,
+  "money_earned": 2701,
+  "expenditure": 117,
+  "last_update": {
+    "$date": "2022-10-18T02:54:01.889Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4b5"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4b2"
+  },
+  "year_month": 2212,
+  "money_earned": 1824,
+  "expenditure": 290,
+  "last_update": {
+    "$date": "2022-09-16T16:31:32.340Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4b8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4b2"
+  },
+  "year_month": 2211,
+  "money_earned": 3466,
+  "expenditure": 211,
+  "last_update": {
+    "$date": "2022-10-08T01:17:01.298Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4bd"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4ba"
+  },
+  "year_month": 2212,
+  "money_earned": 4524,
+  "expenditure": 220,
+  "last_update": {
+    "$date": "2022-09-28T02:10:20.275Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4c0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4ba"
+  },
+  "year_month": 2211,
+  "money_earned": 4715,
+  "expenditure": 279,
+  "last_update": {
+    "$date": "2022-10-22T03:16:18.004Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4c2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4ba"
+  },
+  "year_month": 2210,
+  "money_earned": 763,
+  "expenditure": 110,
+  "last_update": {
+    "$date": "2022-10-25T15:30:49.843Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4c7"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2212,
+  "money_earned": 4397,
+  "expenditure": 173,
+  "last_update": {
+    "$date": "2022-11-14T23:21:08.082Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4ca"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2211,
+  "money_earned": 987,
+  "expenditure": 253,
+  "last_update": {
+    "$date": "2022-09-23T18:47:39.510Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4cc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2210,
+  "money_earned": 1514,
+  "expenditure": 233,
+  "last_update": {
+    "$date": "2022-11-29T19:01:18.856Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4ce"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2209,
+  "money_earned": 813,
+  "expenditure": 142,
+  "last_update": {
+    "$date": "2022-10-11T17:19:55.630Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4d0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2208,
+  "money_earned": 4095,
+  "expenditure": 208,
+  "last_update": {
+    "$date": "2022-12-04T22:20:13.300Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4d2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2207,
+  "money_earned": 3018,
+  "expenditure": 122,
+  "last_update": {
+    "$date": "2022-10-14T09:15:01.673Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4d4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2206,
+  "money_earned": 4570,
+  "expenditure": 229,
+  "last_update": {
+    "$date": "2022-11-12T20:03:22.608Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4d6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2205,
+  "money_earned": 1007,
+  "expenditure": 149,
+  "last_update": {
+    "$date": "2022-09-11T16:38:39.897Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4d8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2204,
+  "money_earned": 1167,
+  "expenditure": 130,
+  "last_update": {
+    "$date": "2022-11-06T18:11:39.164Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4da"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2203,
+  "money_earned": 2562,
+  "expenditure": 137,
+  "last_update": {
+    "$date": "2022-11-14T03:58:03.059Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4dc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4c4"
+  },
+  "year_month": 2202,
+  "money_earned": 2851,
+  "expenditure": 150,
+  "last_update": {
+    "$date": "2022-10-03T04:26:14.784Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4e1"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4de"
+  },
+  "year_month": 2212,
+  "money_earned": 4591,
+  "expenditure": 149,
+  "last_update": {
+    "$date": "2022-10-14T10:19:05.060Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4e4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4de"
+  },
+  "year_month": 2211,
+  "money_earned": 2904,
+  "expenditure": 139,
+  "last_update": {
+    "$date": "2022-09-09T20:32:40.002Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4e9"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2212,
+  "money_earned": 4384,
+  "expenditure": 114,
+  "last_update": {
+    "$date": "2022-10-31T17:35:18.169Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4ec"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2211,
+  "money_earned": 1419,
+  "expenditure": 154,
+  "last_update": {
+    "$date": "2022-09-16T16:15:14.069Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4ee"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2210,
+  "money_earned": 2832,
+  "expenditure": 244,
+  "last_update": {
+    "$date": "2022-10-05T23:49:58.599Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4f0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2209,
+  "money_earned": 1098,
+  "expenditure": 213,
+  "last_update": {
+    "$date": "2022-09-30T23:50:46.921Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4f2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2208,
+  "money_earned": 2844,
+  "expenditure": 113,
+  "last_update": {
+    "$date": "2022-09-17T22:46:55.827Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4f4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2207,
+  "money_earned": 1594,
+  "expenditure": 157,
+  "last_update": {
+    "$date": "2022-11-29T06:11:18.632Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4f6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2206,
+  "money_earned": 3499,
+  "expenditure": 263,
+  "last_update": {
+    "$date": "2022-11-11T22:18:18.721Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4f8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2205,
+  "money_earned": 4833,
+  "expenditure": 300,
+  "last_update": {
+    "$date": "2022-10-18T07:35:50.630Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4fa"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2204,
+  "money_earned": 1746,
+  "expenditure": 231,
+  "last_update": {
+    "$date": "2022-10-17T16:43:04.706Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c4fc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4e6"
+  },
+  "year_month": 2203,
+  "money_earned": 4662,
+  "expenditure": 125,
+  "last_update": {
+    "$date": "2022-09-12T20:27:23.865Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c501"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2212,
+  "money_earned": 1957,
+  "expenditure": 112,
+  "last_update": {
+    "$date": "2022-11-09T16:23:38.370Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c504"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2211,
+  "money_earned": 1457,
+  "expenditure": 137,
+  "last_update": {
+    "$date": "2022-09-24T09:17:50.853Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c506"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2210,
+  "money_earned": 2823,
+  "expenditure": 248,
+  "last_update": {
+    "$date": "2022-12-03T18:33:14.050Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c508"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2209,
+  "money_earned": 4329,
+  "expenditure": 144,
+  "last_update": {
+    "$date": "2022-11-09T15:17:46.966Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c50a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2208,
+  "money_earned": 2913,
+  "expenditure": 216,
+  "last_update": {
+    "$date": "2022-09-20T14:40:25.688Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c50c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2207,
+  "money_earned": 3675,
+  "expenditure": 208,
+  "last_update": {
+    "$date": "2022-10-21T22:54:57.738Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c50e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2206,
+  "money_earned": 1376,
+  "expenditure": 272,
+  "last_update": {
+    "$date": "2022-09-15T05:08:36.163Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c510"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2205,
+  "money_earned": 2552,
+  "expenditure": 241,
+  "last_update": {
+    "$date": "2022-12-02T13:54:38.131Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c512"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2204,
+  "money_earned": 3856,
+  "expenditure": 217,
+  "last_update": {
+    "$date": "2022-11-20T22:08:10.294Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c514"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2203,
+  "money_earned": 1181,
+  "expenditure": 275,
+  "last_update": {
+    "$date": "2022-09-23T10:53:46.711Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c516"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2202,
+  "money_earned": 2446,
+  "expenditure": 228,
+  "last_update": {
+    "$date": "2022-12-10T23:03:22.831Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c518"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2201,
+  "money_earned": 814,
+  "expenditure": 167,
+  "last_update": {
+    "$date": "2022-10-16T04:43:39.470Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c51a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c4fe"
+  },
+  "year_month": 2112,
+  "money_earned": 3269,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-11-02T02:56:33.901Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c51f"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "year_month": 2212,
+  "money_earned": 1081,
+  "expenditure": 166,
+  "last_update": {
+    "$date": "2022-10-05T04:01:34.811Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c522"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "year_month": 2211,
+  "money_earned": 572,
+  "expenditure": 123,
+  "last_update": {
+    "$date": "2022-10-02T17:48:05.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c524"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "year_month": 2210,
+  "money_earned": 1132,
+  "expenditure": 265,
+  "last_update": {
+    "$date": "2022-10-07T13:47:27.079Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c526"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "year_month": 2209,
+  "money_earned": 2789,
+  "expenditure": 218,
+  "last_update": {
+    "$date": "2022-09-18T08:01:22.898Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c528"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "year_month": 2208,
+  "money_earned": 3982,
+  "expenditure": 194,
+  "last_update": {
+    "$date": "2022-10-28T18:11:11.881Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c52a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "year_month": 2207,
+  "money_earned": 736,
+  "expenditure": 111,
+  "last_update": {
+    "$date": "2022-10-11T15:45:53.304Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c52c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "year_month": 2206,
+  "money_earned": 2677,
+  "expenditure": 261,
+  "last_update": {
+    "$date": "2022-10-19T07:39:17.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c52e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "year_month": 2205,
+  "money_earned": 4738,
+  "expenditure": 104,
+  "last_update": {
+    "$date": "2022-11-04T12:18:36.168Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c530"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c51c"
+  },
+  "year_month": 2204,
+  "money_earned": 3292,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-10-13T08:50:56.148Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c535"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "year_month": 2212,
+  "money_earned": 3129,
+  "expenditure": 251,
+  "last_update": {
+    "$date": "2022-10-09T04:27:06.984Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c538"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "year_month": 2211,
+  "money_earned": 4410,
+  "expenditure": 266,
+  "last_update": {
+    "$date": "2022-12-13T17:12:51.566Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c53a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "year_month": 2210,
+  "money_earned": 4200,
+  "expenditure": 249,
+  "last_update": {
+    "$date": "2022-09-07T06:30:18.797Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c53c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "year_month": 2209,
+  "money_earned": 3375,
+  "expenditure": 247,
+  "last_update": {
+    "$date": "2022-09-25T11:46:41.560Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c53e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "year_month": 2208,
+  "money_earned": 2014,
+  "expenditure": 118,
+  "last_update": {
+    "$date": "2022-09-10T12:22:21.010Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c540"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "year_month": 2207,
+  "money_earned": 4251,
+  "expenditure": 248,
+  "last_update": {
+    "$date": "2022-12-09T07:22:54.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c542"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "year_month": 2206,
+  "money_earned": 2587,
+  "expenditure": 235,
+  "last_update": {
+    "$date": "2022-09-10T02:21:16.929Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c544"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "year_month": 2205,
+  "money_earned": 3175,
+  "expenditure": 172,
+  "last_update": {
+    "$date": "2022-09-14T03:51:25.591Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c546"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c532"
+  },
+  "year_month": 2204,
+  "money_earned": 1873,
+  "expenditure": 293,
+  "last_update": {
+    "$date": "2022-12-03T00:22:31.302Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c54b"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2212,
+  "money_earned": 953,
+  "expenditure": 269,
+  "last_update": {
+    "$date": "2022-09-26T19:49:42.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c54e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2211,
+  "money_earned": 4125,
+  "expenditure": 245,
+  "last_update": {
+    "$date": "2022-11-06T06:30:16.521Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c550"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2210,
+  "money_earned": 2601,
+  "expenditure": 228,
+  "last_update": {
+    "$date": "2022-11-21T13:30:18.096Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c552"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2209,
+  "money_earned": 4815,
+  "expenditure": 197,
+  "last_update": {
+    "$date": "2022-10-01T11:48:13.776Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c554"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2208,
+  "money_earned": 3969,
+  "expenditure": 239,
+  "last_update": {
+    "$date": "2022-10-13T22:59:01.577Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c556"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2207,
+  "money_earned": 2260,
+  "expenditure": 184,
+  "last_update": {
+    "$date": "2022-10-23T06:14:28.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c558"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2206,
+  "money_earned": 1897,
+  "expenditure": 275,
+  "last_update": {
+    "$date": "2022-10-01T07:26:29.676Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c55a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2205,
+  "money_earned": 4849,
+  "expenditure": 252,
+  "last_update": {
+    "$date": "2022-11-01T18:06:13.097Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c55c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2204,
+  "money_earned": 2324,
+  "expenditure": 278,
+  "last_update": {
+    "$date": "2022-10-03T15:48:17.086Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c55e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2203,
+  "money_earned": 4703,
+  "expenditure": 295,
+  "last_update": {
+    "$date": "2022-12-14T21:11:50.031Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c560"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c548"
+  },
+  "year_month": 2202,
+  "money_earned": 2749,
+  "expenditure": 247,
+  "last_update": {
+    "$date": "2022-09-23T00:23:31.234Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c565"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2212,
+  "money_earned": 2659,
+  "expenditure": 195,
+  "last_update": {
+    "$date": "2022-09-30T21:01:07.946Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c568"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2211,
+  "money_earned": 2250,
+  "expenditure": 179,
+  "last_update": {
+    "$date": "2022-10-20T13:34:33.796Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c56a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2210,
+  "money_earned": 2684,
+  "expenditure": 239,
+  "last_update": {
+    "$date": "2022-09-25T20:46:42.049Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c56c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2209,
+  "money_earned": 3070,
+  "expenditure": 285,
+  "last_update": {
+    "$date": "2022-11-22T10:07:42.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c56e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2208,
+  "money_earned": 3379,
+  "expenditure": 102,
+  "last_update": {
+    "$date": "2022-11-30T02:01:46.037Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c570"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2207,
+  "money_earned": 2482,
+  "expenditure": 257,
+  "last_update": {
+    "$date": "2022-11-17T04:18:26.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c572"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2206,
+  "money_earned": 4986,
+  "expenditure": 146,
+  "last_update": {
+    "$date": "2022-10-22T11:48:24.172Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c574"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2205,
+  "money_earned": 3739,
+  "expenditure": 127,
+  "last_update": {
+    "$date": "2022-11-30T00:25:19.016Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c576"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2204,
+  "money_earned": 1136,
+  "expenditure": 276,
+  "last_update": {
+    "$date": "2022-11-14T10:33:45.001Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c578"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2203,
+  "money_earned": 4366,
+  "expenditure": 177,
+  "last_update": {
+    "$date": "2022-10-30T01:00:58.593Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c57a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2202,
+  "money_earned": 2068,
+  "expenditure": 276,
+  "last_update": {
+    "$date": "2022-12-10T12:11:56.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c57c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c562"
+  },
+  "year_month": 2201,
+  "money_earned": 3381,
+  "expenditure": 207,
+  "last_update": {
+    "$date": "2022-09-13T17:07:50.461Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c581"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c57e"
+  },
+  "year_month": 2212,
+  "money_earned": 4294,
+  "expenditure": 248,
+  "last_update": {
+    "$date": "2022-10-08T13:05:14.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c584"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c57e"
+  },
+  "year_month": 2211,
+  "money_earned": 540,
+  "expenditure": 114,
+  "last_update": {
+    "$date": "2022-10-26T12:01:08.393Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c586"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c57e"
+  },
+  "year_month": 2210,
+  "money_earned": 1560,
+  "expenditure": 185,
+  "last_update": {
+    "$date": "2022-11-22T01:29:06.355Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c588"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c57e"
+  },
+  "year_month": 2209,
+  "money_earned": 4050,
+  "expenditure": 168,
+  "last_update": {
+    "$date": "2022-12-04T21:31:31.393Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c58a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c57e"
+  },
+  "year_month": 2208,
+  "money_earned": 1047,
+  "expenditure": 180,
+  "last_update": {
+    "$date": "2022-11-23T04:12:21.692Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c58c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c57e"
+  },
+  "year_month": 2207,
+  "money_earned": 1542,
+  "expenditure": 184,
+  "last_update": {
+    "$date": "2022-10-16T12:23:06.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c591"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "year_month": 2212,
+  "money_earned": 4957,
+  "expenditure": 161,
+  "last_update": {
+    "$date": "2022-10-19T21:41:03.031Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c594"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "year_month": 2211,
+  "money_earned": 4257,
+  "expenditure": 232,
+  "last_update": {
+    "$date": "2022-10-05T14:29:37.231Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c596"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "year_month": 2210,
+  "money_earned": 3213,
+  "expenditure": 175,
+  "last_update": {
+    "$date": "2022-10-08T22:59:33.433Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c598"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "year_month": 2209,
+  "money_earned": 4287,
+  "expenditure": 133,
+  "last_update": {
+    "$date": "2022-09-13T11:51:13.231Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c59a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "year_month": 2208,
+  "money_earned": 3693,
+  "expenditure": 209,
+  "last_update": {
+    "$date": "2022-12-01T04:03:51.935Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c59c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "year_month": 2207,
+  "money_earned": 1204,
+  "expenditure": 298,
+  "last_update": {
+    "$date": "2022-12-04T00:42:21.258Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c59e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "year_month": 2206,
+  "money_earned": 2032,
+  "expenditure": 200,
+  "last_update": {
+    "$date": "2022-09-29T07:13:13.362Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5a0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "year_month": 2205,
+  "money_earned": 696,
+  "expenditure": 135,
+  "last_update": {
+    "$date": "2022-10-24T11:07:55.814Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5a2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c58e"
+  },
+  "year_month": 2204,
+  "money_earned": 3994,
+  "expenditure": 200,
+  "last_update": {
+    "$date": "2022-09-29T13:12:02.247Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5a7"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5a4"
+  },
+  "year_month": 2212,
+  "money_earned": 4420,
+  "expenditure": 122,
+  "last_update": {
+    "$date": "2022-09-25T10:14:26.975Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5ad"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2212,
+  "money_earned": 3977,
+  "expenditure": 178,
+  "last_update": {
+    "$date": "2022-11-22T01:18:06.669Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5b0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2211,
+  "money_earned": 3936,
+  "expenditure": 265,
+  "last_update": {
+    "$date": "2022-10-29T04:57:54.540Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5b2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2210,
+  "money_earned": 3056,
+  "expenditure": 181,
+  "last_update": {
+    "$date": "2022-10-20T12:42:13.784Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5b4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2209,
+  "money_earned": 3981,
+  "expenditure": 279,
+  "last_update": {
+    "$date": "2022-10-30T14:57:54.194Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5b6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2208,
+  "money_earned": 2037,
+  "expenditure": 263,
+  "last_update": {
+    "$date": "2022-12-05T04:41:24.458Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5b8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2207,
+  "money_earned": 4523,
+  "expenditure": 143,
+  "last_update": {
+    "$date": "2022-09-27T20:12:45.915Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5ba"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2206,
+  "money_earned": 2222,
+  "expenditure": 114,
+  "last_update": {
+    "$date": "2022-12-05T18:39:35.673Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5bc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2205,
+  "money_earned": 2568,
+  "expenditure": 127,
+  "last_update": {
+    "$date": "2022-11-01T02:59:02.143Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5be"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2204,
+  "money_earned": 3120,
+  "expenditure": 198,
+  "last_update": {
+    "$date": "2022-11-06T09:49:04.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5c0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2203,
+  "money_earned": 4782,
+  "expenditure": 137,
+  "last_update": {
+    "$date": "2022-10-26T05:25:00.825Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5c2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2202,
+  "money_earned": 2280,
+  "expenditure": 220,
+  "last_update": {
+    "$date": "2022-10-29T03:13:51.901Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5c4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2201,
+  "money_earned": 595,
+  "expenditure": 269,
+  "last_update": {
+    "$date": "2022-10-04T20:12:40.702Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5c6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5aa"
+  },
+  "year_month": 2112,
+  "money_earned": 2872,
+  "expenditure": 103,
+  "last_update": {
+    "$date": "2022-10-15T18:52:54.360Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5cf"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "year_month": 2212,
+  "money_earned": 710,
+  "expenditure": 145,
+  "last_update": {
+    "$date": "2022-09-06T07:49:02.276Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5d2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "year_month": 2211,
+  "money_earned": 4765,
+  "expenditure": 171,
+  "last_update": {
+    "$date": "2022-09-28T21:50:11.787Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5d4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "year_month": 2210,
+  "money_earned": 4383,
+  "expenditure": 131,
+  "last_update": {
+    "$date": "2022-10-25T03:06:04.877Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5d6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "year_month": 2209,
+  "money_earned": 2666,
+  "expenditure": 200,
+  "last_update": {
+    "$date": "2022-11-02T09:12:58.422Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5d8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "year_month": 2208,
+  "money_earned": 2224,
+  "expenditure": 131,
+  "last_update": {
+    "$date": "2022-11-15T19:09:15.351Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5da"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "year_month": 2207,
+  "money_earned": 1015,
+  "expenditure": 225,
+  "last_update": {
+    "$date": "2022-10-16T15:50:43.860Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5dc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "year_month": 2206,
+  "money_earned": 838,
+  "expenditure": 187,
+  "last_update": {
+    "$date": "2022-10-14T03:21:00.214Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5de"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5cb"
+  },
+  "year_month": 2205,
+  "money_earned": 2888,
+  "expenditure": 213,
+  "last_update": {
+    "$date": "2022-12-11T04:55:24.654Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5e3"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "year_month": 2212,
+  "money_earned": 3942,
+  "expenditure": 148,
+  "last_update": {
+    "$date": "2022-10-15T10:35:07.095Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5e6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "year_month": 2211,
+  "money_earned": 3072,
+  "expenditure": 230,
+  "last_update": {
+    "$date": "2022-10-19T06:23:10.839Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5e8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "year_month": 2210,
+  "money_earned": 1954,
+  "expenditure": 285,
+  "last_update": {
+    "$date": "2022-09-14T01:30:57.742Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5ea"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "year_month": 2209,
+  "money_earned": 4806,
+  "expenditure": 287,
+  "last_update": {
+    "$date": "2022-10-14T15:25:43.371Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5ec"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "year_month": 2208,
+  "money_earned": 3255,
+  "expenditure": 238,
+  "last_update": {
+    "$date": "2022-10-30T10:23:26.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5ee"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "year_month": 2207,
+  "money_earned": 932,
+  "expenditure": 243,
+  "last_update": {
+    "$date": "2022-10-10T11:04:38.402Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5f0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "year_month": 2206,
+  "money_earned": 1788,
+  "expenditure": 124,
+  "last_update": {
+    "$date": "2022-10-24T17:21:38.030Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5f2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "year_month": 2205,
+  "money_earned": 1761,
+  "expenditure": 102,
+  "last_update": {
+    "$date": "2022-11-17T18:24:31.567Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5f4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5e0"
+  },
+  "year_month": 2204,
+  "money_earned": 1552,
+  "expenditure": 120,
+  "last_update": {
+    "$date": "2022-10-24T18:27:02.801Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c5fd"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5f9"
+  },
+  "year_month": 2212,
+  "money_earned": 3284,
+  "expenditure": 245,
+  "last_update": {
+    "$date": "2022-09-21T02:16:01.217Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c600"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5f9"
+  },
+  "year_month": 2211,
+  "money_earned": 2191,
+  "expenditure": 222,
+  "last_update": {
+    "$date": "2022-10-10T02:32:45.131Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c602"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5f9"
+  },
+  "year_month": 2210,
+  "money_earned": 1780,
+  "expenditure": 230,
+  "last_update": {
+    "$date": "2022-12-14T02:30:54.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c604"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c5f9"
+  },
+  "year_month": 2209,
+  "money_earned": 4399,
+  "expenditure": 192,
+  "last_update": {
+    "$date": "2022-11-26T19:01:40.661Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c609"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2212,
+  "money_earned": 4957,
+  "expenditure": 132,
+  "last_update": {
+    "$date": "2022-11-14T16:59:27.458Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c60c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2211,
+  "money_earned": 725,
+  "expenditure": 298,
+  "last_update": {
+    "$date": "2022-09-25T23:33:00.348Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c60e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2210,
+  "money_earned": 4777,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-11-09T10:06:56.876Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c610"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2209,
+  "money_earned": 2711,
+  "expenditure": 166,
+  "last_update": {
+    "$date": "2022-09-15T22:01:27.795Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c612"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2208,
+  "money_earned": 1103,
+  "expenditure": 118,
+  "last_update": {
+    "$date": "2022-11-16T22:06:49.670Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c614"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2207,
+  "money_earned": 2110,
+  "expenditure": 107,
+  "last_update": {
+    "$date": "2022-11-23T04:28:32.048Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c616"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2206,
+  "money_earned": 3824,
+  "expenditure": 267,
+  "last_update": {
+    "$date": "2022-09-30T12:55:55.411Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c618"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2205,
+  "money_earned": 2789,
+  "expenditure": 159,
+  "last_update": {
+    "$date": "2022-10-07T08:07:18.299Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c61a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2204,
+  "money_earned": 761,
+  "expenditure": 108,
+  "last_update": {
+    "$date": "2022-09-16T13:14:36.101Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c61c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2203,
+  "money_earned": 1414,
+  "expenditure": 205,
+  "last_update": {
+    "$date": "2022-12-12T20:48:24.743Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c61e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2202,
+  "money_earned": 3548,
+  "expenditure": 114,
+  "last_update": {
+    "$date": "2022-11-16T14:49:49.167Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c620"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2201,
+  "money_earned": 3915,
+  "expenditure": 241,
+  "last_update": {
+    "$date": "2022-12-10T04:15:26.263Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c622"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c606"
+  },
+  "year_month": 2112,
+  "money_earned": 1233,
+  "expenditure": 127,
+  "last_update": {
+    "$date": "2022-12-13T09:29:40.717Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c627"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c624"
+  },
+  "year_month": 2212,
+  "money_earned": 1991,
+  "expenditure": 299,
+  "last_update": {
+    "$date": "2022-10-15T11:45:06.785Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c62a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c624"
+  },
+  "year_month": 2211,
+  "money_earned": 4488,
+  "expenditure": 135,
+  "last_update": {
+    "$date": "2022-10-29T05:13:35.557Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c62c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c624"
+  },
+  "year_month": 2210,
+  "money_earned": 974,
+  "expenditure": 291,
+  "last_update": {
+    "$date": "2022-09-08T11:14:32.161Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c62e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c624"
+  },
+  "year_month": 2209,
+  "money_earned": 2063,
+  "expenditure": 103,
+  "last_update": {
+    "$date": "2022-10-17T14:46:04.495Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c633"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c630"
+  },
+  "year_month": 2212,
+  "money_earned": 4008,
+  "expenditure": 184,
+  "last_update": {
+    "$date": "2022-10-20T17:41:11.395Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c636"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c630"
+  },
+  "year_month": 2211,
+  "money_earned": 886,
+  "expenditure": 299,
+  "last_update": {
+    "$date": "2022-10-18T13:56:57.887Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c638"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c630"
+  },
+  "year_month": 2210,
+  "money_earned": 2326,
+  "expenditure": 127,
+  "last_update": {
+    "$date": "2022-11-06T23:06:37.852Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c63d"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c63a"
+  },
+  "year_month": 2212,
+  "money_earned": 4270,
+  "expenditure": 233,
+  "last_update": {
+    "$date": "2022-11-04T15:49:31.490Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c640"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c63a"
+  },
+  "year_month": 2211,
+  "money_earned": 1806,
+  "expenditure": 291,
+  "last_update": {
+    "$date": "2022-09-16T02:54:23.654Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c642"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c63a"
+  },
+  "year_month": 2210,
+  "money_earned": 1600,
+  "expenditure": 243,
+  "last_update": {
+    "$date": "2022-12-04T13:41:26.590Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c644"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c63a"
+  },
+  "year_month": 2209,
+  "money_earned": 2495,
+  "expenditure": 138,
+  "last_update": {
+    "$date": "2022-10-01T06:18:49.177Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c649"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c646"
+  },
+  "year_month": 2212,
+  "money_earned": 4189,
+  "expenditure": 269,
+  "last_update": {
+    "$date": "2022-09-24T01:10:39.616Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c64c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c646"
+  },
+  "year_month": 2211,
+  "money_earned": 4090,
+  "expenditure": 115,
+  "last_update": {
+    "$date": "2022-11-25T03:38:18.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c64e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c646"
+  },
+  "year_month": 2210,
+  "money_earned": 2161,
+  "expenditure": 255,
+  "last_update": {
+    "$date": "2022-09-12T14:57:25.037Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c650"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c646"
+  },
+  "year_month": 2209,
+  "money_earned": 1069,
+  "expenditure": 263,
+  "last_update": {
+    "$date": "2022-11-09T11:21:59.333Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c652"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c646"
+  },
+  "year_month": 2208,
+  "money_earned": 527,
+  "expenditure": 178,
+  "last_update": {
+    "$date": "2022-12-14T00:31:03.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c657"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2212,
+  "money_earned": 2275,
+  "expenditure": 144,
+  "last_update": {
+    "$date": "2022-11-03T03:02:10.191Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c65a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2211,
+  "money_earned": 4100,
+  "expenditure": 129,
+  "last_update": {
+    "$date": "2022-10-05T17:45:24.909Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c65c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2210,
+  "money_earned": 4724,
+  "expenditure": 208,
+  "last_update": {
+    "$date": "2022-09-09T22:08:10.639Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c65e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2209,
+  "money_earned": 4995,
+  "expenditure": 297,
+  "last_update": {
+    "$date": "2022-11-25T12:50:39.819Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c660"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2208,
+  "money_earned": 2507,
+  "expenditure": 106,
+  "last_update": {
+    "$date": "2022-10-29T02:09:09.166Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c662"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2207,
+  "money_earned": 3187,
+  "expenditure": 108,
+  "last_update": {
+    "$date": "2022-11-16T21:05:33.924Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c664"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2206,
+  "money_earned": 1738,
+  "expenditure": 284,
+  "last_update": {
+    "$date": "2022-09-22T14:49:03.790Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c666"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2205,
+  "money_earned": 3988,
+  "expenditure": 219,
+  "last_update": {
+    "$date": "2022-09-09T04:15:22.890Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c668"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2204,
+  "money_earned": 2460,
+  "expenditure": 205,
+  "last_update": {
+    "$date": "2022-11-11T04:28:42.980Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c66a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2203,
+  "money_earned": 1933,
+  "expenditure": 264,
+  "last_update": {
+    "$date": "2022-11-09T17:53:03.190Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c66c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2202,
+  "money_earned": 556,
+  "expenditure": 273,
+  "last_update": {
+    "$date": "2022-11-16T06:55:51.769Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c66e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2201,
+  "money_earned": 4096,
+  "expenditure": 281,
+  "last_update": {
+    "$date": "2022-11-09T19:07:14.550Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c670"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c654"
+  },
+  "year_month": 2112,
+  "money_earned": 2617,
+  "expenditure": 120,
+  "last_update": {
+    "$date": "2022-12-12T20:20:48.552Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c675"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c672"
+  },
+  "year_month": 2212,
+  "money_earned": 954,
+  "expenditure": 198,
+  "last_update": {
+    "$date": "2022-12-07T08:29:03.676Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c678"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c672"
+  },
+  "year_month": 2211,
+  "money_earned": 584,
+  "expenditure": 184,
+  "last_update": {
+    "$date": "2022-11-26T09:31:23.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c67a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c672"
+  },
+  "year_month": 2210,
+  "money_earned": 1808,
+  "expenditure": 130,
+  "last_update": {
+    "$date": "2022-11-23T14:15:17.071Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c67c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c672"
+  },
+  "year_month": 2209,
+  "money_earned": 3254,
+  "expenditure": 144,
+  "last_update": {
+    "$date": "2022-11-05T01:13:38.146Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c67e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c672"
+  },
+  "year_month": 2208,
+  "money_earned": 2322,
+  "expenditure": 200,
+  "last_update": {
+    "$date": "2022-11-08T13:55:21.966Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c680"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c672"
+  },
+  "year_month": 2207,
+  "money_earned": 748,
+  "expenditure": 136,
+  "last_update": {
+    "$date": "2022-09-10T05:36:14.838Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c682"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c672"
+  },
+  "year_month": 2206,
+  "money_earned": 1173,
+  "expenditure": 137,
+  "last_update": {
+    "$date": "2022-10-19T23:53:47.868Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c687"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2212,
+  "money_earned": 3641,
+  "expenditure": 272,
+  "last_update": {
+    "$date": "2022-12-04T07:30:22.800Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c68a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2211,
+  "money_earned": 2079,
+  "expenditure": 210,
+  "last_update": {
+    "$date": "2022-09-12T17:08:42.654Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c68c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2210,
+  "money_earned": 4827,
+  "expenditure": 193,
+  "last_update": {
+    "$date": "2022-10-04T04:18:54.800Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c68e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2209,
+  "money_earned": 2282,
+  "expenditure": 158,
+  "last_update": {
+    "$date": "2022-10-25T18:49:20.211Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c690"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2208,
+  "money_earned": 3764,
+  "expenditure": 168,
+  "last_update": {
+    "$date": "2022-09-16T17:28:56.267Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c692"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2207,
+  "money_earned": 4904,
+  "expenditure": 180,
+  "last_update": {
+    "$date": "2022-11-09T04:10:49.047Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c694"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2206,
+  "money_earned": 2786,
+  "expenditure": 222,
+  "last_update": {
+    "$date": "2022-12-02T21:36:41.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c696"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2205,
+  "money_earned": 2729,
+  "expenditure": 149,
+  "last_update": {
+    "$date": "2022-10-02T07:11:15.253Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c698"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2204,
+  "money_earned": 1875,
+  "expenditure": 147,
+  "last_update": {
+    "$date": "2022-10-15T21:15:57.457Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c69a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2203,
+  "money_earned": 1837,
+  "expenditure": 136,
+  "last_update": {
+    "$date": "2022-09-30T14:29:34.551Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c69c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2202,
+  "money_earned": 605,
+  "expenditure": 278,
+  "last_update": {
+    "$date": "2022-10-17T15:28:26.660Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c69e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c684"
+  },
+  "year_month": 2201,
+  "money_earned": 3466,
+  "expenditure": 194,
+  "last_update": {
+    "$date": "2022-10-21T04:50:19.746Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6a3"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2212,
+  "money_earned": 2513,
+  "expenditure": 137,
+  "last_update": {
+    "$date": "2022-11-21T06:50:07.965Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6a6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2211,
+  "money_earned": 2711,
+  "expenditure": 148,
+  "last_update": {
+    "$date": "2022-12-04T06:05:19.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6a8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2210,
+  "money_earned": 3585,
+  "expenditure": 202,
+  "last_update": {
+    "$date": "2022-09-13T21:45:15.355Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6aa"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2209,
+  "money_earned": 2625,
+  "expenditure": 271,
+  "last_update": {
+    "$date": "2022-09-18T08:42:56.707Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6ac"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2208,
+  "money_earned": 3932,
+  "expenditure": 118,
+  "last_update": {
+    "$date": "2022-10-29T18:13:07.307Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6ae"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2207,
+  "money_earned": 548,
+  "expenditure": 143,
+  "last_update": {
+    "$date": "2022-09-25T19:44:41.256Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6b0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2206,
+  "money_earned": 3742,
+  "expenditure": 252,
+  "last_update": {
+    "$date": "2022-09-30T11:39:26.943Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6b2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2205,
+  "money_earned": 1707,
+  "expenditure": 139,
+  "last_update": {
+    "$date": "2022-12-03T01:27:25.866Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6b4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2204,
+  "money_earned": 1517,
+  "expenditure": 300,
+  "last_update": {
+    "$date": "2022-11-14T14:10:33.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6b6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2203,
+  "money_earned": 808,
+  "expenditure": 262,
+  "last_update": {
+    "$date": "2022-10-20T20:56:11.416Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6b8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2202,
+  "money_earned": 4207,
+  "expenditure": 194,
+  "last_update": {
+    "$date": "2022-11-16T15:17:28.082Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6ba"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2201,
+  "money_earned": 1689,
+  "expenditure": 192,
+  "last_update": {
+    "$date": "2022-10-03T01:54:33.236Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6bc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6a0"
+  },
+  "year_month": 2112,
+  "money_earned": 4500,
+  "expenditure": 112,
+  "last_update": {
+    "$date": "2022-10-13T08:50:18.014Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6c1"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2212,
+  "money_earned": 3674,
+  "expenditure": 162,
+  "last_update": {
+    "$date": "2022-10-31T04:57:10.841Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6c4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2211,
+  "money_earned": 1279,
+  "expenditure": 260,
+  "last_update": {
+    "$date": "2022-11-11T05:29:07.146Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6c6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2210,
+  "money_earned": 3366,
+  "expenditure": 130,
+  "last_update": {
+    "$date": "2022-11-27T01:36:20.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6c8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2209,
+  "money_earned": 3789,
+  "expenditure": 106,
+  "last_update": {
+    "$date": "2022-10-26T19:57:53.549Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6ca"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2208,
+  "money_earned": 2159,
+  "expenditure": 115,
+  "last_update": {
+    "$date": "2022-09-11T08:11:25.308Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6cc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2207,
+  "money_earned": 1159,
+  "expenditure": 299,
+  "last_update": {
+    "$date": "2022-11-26T21:45:02.921Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6ce"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2206,
+  "money_earned": 1463,
+  "expenditure": 288,
+  "last_update": {
+    "$date": "2022-09-11T18:02:19.006Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6d0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2205,
+  "money_earned": 733,
+  "expenditure": 123,
+  "last_update": {
+    "$date": "2022-12-08T04:04:36.712Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6d2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2204,
+  "money_earned": 3944,
+  "expenditure": 163,
+  "last_update": {
+    "$date": "2022-10-25T01:22:12.476Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6d4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2203,
+  "money_earned": 3271,
+  "expenditure": 262,
+  "last_update": {
+    "$date": "2022-09-11T12:01:19.866Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6d6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2202,
+  "money_earned": 1100,
+  "expenditure": 295,
+  "last_update": {
+    "$date": "2022-12-09T16:42:52.979Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6d8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2201,
+  "money_earned": 3261,
+  "expenditure": 167,
+  "last_update": {
+    "$date": "2022-11-05T07:30:05.860Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6da"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2112,
+  "money_earned": 4403,
+  "expenditure": 273,
+  "last_update": {
+    "$date": "2022-10-27T20:05:33.323Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6dc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6be"
+  },
+  "year_month": 2111,
+  "money_earned": 4044,
+  "expenditure": 147,
+  "last_update": {
+    "$date": "2022-10-11T13:29:27.414Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6e1"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2212,
+  "money_earned": 1758,
+  "expenditure": 130,
+  "last_update": {
+    "$date": "2022-09-14T13:44:42.453Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6e4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2211,
+  "money_earned": 3109,
+  "expenditure": 277,
+  "last_update": {
+    "$date": "2022-10-14T19:36:17.397Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6e6"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2210,
+  "money_earned": 3281,
+  "expenditure": 101,
+  "last_update": {
+    "$date": "2022-10-19T02:27:25.647Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6e8"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2209,
+  "money_earned": 592,
+  "expenditure": 205,
+  "last_update": {
+    "$date": "2022-10-24T16:17:02.027Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6ea"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2208,
+  "money_earned": 1900,
+  "expenditure": 209,
+  "last_update": {
+    "$date": "2022-10-13T03:48:51.481Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6ec"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2207,
+  "money_earned": 2350,
+  "expenditure": 138,
+  "last_update": {
+    "$date": "2022-09-29T11:05:05.442Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6ee"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2206,
+  "money_earned": 2924,
+  "expenditure": 249,
+  "last_update": {
+    "$date": "2022-10-07T09:23:14.432Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6f0"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2205,
+  "money_earned": 2539,
+  "expenditure": 136,
+  "last_update": {
+    "$date": "2022-11-27T15:39:27.283Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6f2"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2204,
+  "money_earned": 4667,
+  "expenditure": 271,
+  "last_update": {
+    "$date": "2022-09-07T00:10:01.518Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6f4"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6de"
+  },
+  "year_month": 2203,
+  "money_earned": 1071,
+  "expenditure": 257,
+  "last_update": {
+    "$date": "2022-10-03T12:43:32.465Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6f9"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "year_month": 2212,
+  "money_earned": 3293,
+  "expenditure": 234,
+  "last_update": {
+    "$date": "2022-11-21T23:00:50.619Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6fc"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "year_month": 2211,
+  "money_earned": 1863,
+  "expenditure": 268,
+  "last_update": {
+    "$date": "2022-12-01T17:45:59.389Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c6fe"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "year_month": 2210,
+  "money_earned": 3930,
+  "expenditure": 244,
+  "last_update": {
+    "$date": "2022-11-22T14:26:30.806Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c700"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "year_month": 2209,
+  "money_earned": 1268,
+  "expenditure": 276,
+  "last_update": {
+    "$date": "2022-10-08T13:07:43.812Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c702"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "year_month": 2208,
+  "money_earned": 3663,
+  "expenditure": 181,
+  "last_update": {
+    "$date": "2022-12-12T23:57:14.715Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c704"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "year_month": 2207,
+  "money_earned": 897,
+  "expenditure": 118,
+  "last_update": {
+    "$date": "2022-09-15T00:00:59.117Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c706"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "year_month": 2206,
+  "money_earned": 4794,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-10-29T10:58:17.969Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c708"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "year_month": 2205,
+  "money_earned": 633,
+  "expenditure": 165,
+  "last_update": {
+    "$date": "2022-10-10T08:29:44.154Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c70a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c6f6"
+  },
+  "year_month": 2204,
+  "money_earned": 4679,
+  "expenditure": 210,
+  "last_update": {
+    "$date": "2022-10-27T08:30:26.010Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c70f"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "year_month": 2212,
+  "money_earned": 4928,
+  "expenditure": 276,
+  "last_update": {
+    "$date": "2022-11-08T17:13:35.329Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c712"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "year_month": 2211,
+  "money_earned": 2174,
+  "expenditure": 194,
+  "last_update": {
+    "$date": "2022-10-11T13:07:08.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c714"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "year_month": 2210,
+  "money_earned": 4346,
+  "expenditure": 273,
+  "last_update": {
+    "$date": "2022-09-11T18:00:35.651Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c716"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "year_month": 2209,
+  "money_earned": 4090,
+  "expenditure": 113,
+  "last_update": {
+    "$date": "2022-10-19T06:40:20.657Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c718"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "year_month": 2208,
+  "money_earned": 3524,
+  "expenditure": 189,
+  "last_update": {
+    "$date": "2022-10-09T04:02:55.305Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c71a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "year_month": 2207,
+  "money_earned": 4343,
+  "expenditure": 285,
+  "last_update": {
+    "$date": "2022-10-03T18:12:09.809Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c71c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "year_month": 2206,
+  "money_earned": 2771,
+  "expenditure": 297,
+  "last_update": {
+    "$date": "2022-10-21T19:02:01.893Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c71e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "year_month": 2205,
+  "money_earned": 3041,
+  "expenditure": 197,
+  "last_update": {
+    "$date": "2022-10-11T02:32:29.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c720"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c70c"
+  },
+  "year_month": 2204,
+  "money_earned": 3432,
+  "expenditure": 281,
+  "last_update": {
+    "$date": "2022-11-25T19:40:09.912Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c725"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2212,
+  "money_earned": 2136,
+  "expenditure": 293,
+  "last_update": {
+    "$date": "2022-12-03T14:38:45.505Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c728"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2211,
+  "money_earned": 522,
+  "expenditure": 209,
+  "last_update": {
+    "$date": "2022-10-07T15:03:49.283Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c72a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2210,
+  "money_earned": 530,
+  "expenditure": 130,
+  "last_update": {
+    "$date": "2022-11-15T06:05:14.517Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c72c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2209,
+  "money_earned": 3110,
+  "expenditure": 202,
+  "last_update": {
+    "$date": "2022-11-16T03:48:11.181Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c72e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2208,
+  "money_earned": 2489,
+  "expenditure": 144,
+  "last_update": {
+    "$date": "2022-10-04T11:20:30.451Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c730"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2207,
+  "money_earned": 4382,
+  "expenditure": 147,
+  "last_update": {
+    "$date": "2022-10-25T01:37:34.342Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c732"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2206,
+  "money_earned": 2075,
+  "expenditure": 210,
+  "last_update": {
+    "$date": "2022-11-01T04:15:25.212Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c734"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2205,
+  "money_earned": 4930,
+  "expenditure": 265,
+  "last_update": {
+    "$date": "2022-11-29T08:59:21.333Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c736"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2204,
+  "money_earned": 4457,
+  "expenditure": 297,
+  "last_update": {
+    "$date": "2022-11-23T12:31:53.576Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c738"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2203,
+  "money_earned": 1556,
+  "expenditure": 174,
+  "last_update": {
+    "$date": "2022-10-14T09:00:19.809Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c73a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2202,
+  "money_earned": 1923,
+  "expenditure": 252,
+  "last_update": {
+    "$date": "2022-10-07T00:54:42.065Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c73c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2201,
+  "money_earned": 2202,
+  "expenditure": 139,
+  "last_update": {
+    "$date": "2022-11-29T22:04:07.725Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c73e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c722"
+  },
+  "year_month": 2112,
+  "money_earned": 4110,
+  "expenditure": 296,
+  "last_update": {
+    "$date": "2022-11-24T22:05:05.126Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c743"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c740"
+  },
+  "year_month": 2212,
+  "money_earned": 3270,
+  "expenditure": 104,
+  "last_update": {
+    "$date": "2022-09-25T20:10:49.306Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c749"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2212,
+  "money_earned": 3619,
+  "expenditure": 113,
+  "last_update": {
+    "$date": "2022-10-12T18:27:45.167Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c74c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2211,
+  "money_earned": 3853,
+  "expenditure": 159,
+  "last_update": {
+    "$date": "2022-10-05T22:48:22.049Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c74e"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2210,
+  "money_earned": 1915,
+  "expenditure": 247,
+  "last_update": {
+    "$date": "2022-09-10T19:02:14.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c750"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2209,
+  "money_earned": 2174,
+  "expenditure": 159,
+  "last_update": {
+    "$date": "2022-10-25T22:12:43.321Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c752"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2208,
+  "money_earned": 2487,
+  "expenditure": 143,
+  "last_update": {
+    "$date": "2022-11-05T10:11:38.861Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c754"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2207,
+  "money_earned": 4751,
+  "expenditure": 237,
+  "last_update": {
+    "$date": "2022-09-06T08:41:38.692Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c756"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2206,
+  "money_earned": 4877,
+  "expenditure": 171,
+  "last_update": {
+    "$date": "2022-10-08T03:13:20.166Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c758"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2205,
+  "money_earned": 3299,
+  "expenditure": 216,
+  "last_update": {
+    "$date": "2022-10-22T11:32:07.174Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c75a"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2204,
+  "money_earned": 4099,
+  "expenditure": 141,
+  "last_update": {
+    "$date": "2022-09-15T22:11:45.605Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639a4b683973f2a54147c75c"
+  },
+  "driver_id": {
+    "$oid": "639a4b683973f2a54147c746"
+  },
+  "year_month": 2203,
+  "money_earned": 3255,
+  "expenditure": 144,
+  "last_update": {
+    "$date": "2022-12-04T23:08:32.953Z"
+  },
+  "__v": 0
+}]
